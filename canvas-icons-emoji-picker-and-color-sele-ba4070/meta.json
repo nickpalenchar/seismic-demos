@@ -1,0 +1,44 @@
+{
+  "title": "Canvas icons: every emoji, more icons, in colour",
+  "text": "A canvas can now carry any emoji or one of about three hundred Lucide icons, instead of a short fixed list. The canvas dialog opens on Icons, which you can search by name and draw in one of ten colours. The Emoji tab is a full emoji picker with categories, search and skin tones. The chosen icon shows in its colour on the canvas tabs.",
+  "chapters": [
+    [
+      0,
+      "The canvas dialog"
+    ],
+    [
+      13.16,
+      "More Lucide icons, with search"
+    ],
+    [
+      20.11,
+      "Colours"
+    ],
+    [
+      29.54,
+      "Every emoji, with search"
+    ],
+    [
+      44.82,
+      "Skin tones"
+    ],
+    [
+      53.57,
+      "On the tab strip"
+    ],
+    [
+      59.24,
+      "Changing the colour later"
+    ],
+    [
+      70.44,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-11T19:27:42.429Z",
+  "at": "2026-11-11T19:27:42.429Z",
+  "source": "08b6cb3f62fd78efe4356ce68c87e7795e10b5de315fdf7561253062823d5ad8",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

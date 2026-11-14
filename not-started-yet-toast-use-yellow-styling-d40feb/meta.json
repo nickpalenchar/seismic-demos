@@ -1,0 +1,23 @@
+{
+  "title": "Warning toasts in yellow, with buttons below the text",
+  "text": "When you start a card that has to wait for another one, Seismic shows a warning that it is queued and hasn't started yet. That warning used to be a brownish box with its buttons squeezed in beside the text, so the text wrapped into a narrow column. Now it uses the same yellow as the other warnings in the app: the text runs across the full width, and 'Go to card' and 'Dismiss' sit below it.",
+  "chapters": [
+    [
+      0,
+      "Before: a brown box, buttons beside the text"
+    ],
+    [
+      13.87,
+      "After: yellow, text full width, buttons below"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/04fcdeb3b6e816ce5966209a831513558c2997a8"
+  },
+  "first": "2026-11-13T23:40:14.093Z",
+  "at": "2026-11-13T23:40:14.093Z",
+  "source": "81d0441f1315b66ccd281736e42930502d26d309038e88295e8d856ef26b235a",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

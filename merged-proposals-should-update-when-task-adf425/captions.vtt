@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:15.830
+Before the change. A planned card is merged with a card whose agent is still at work. The comparison finds the account lockout not covered yet. Then the agent hands over with the lockout done, and approving the merge only says to separate the cards and merge them again by hand.
+
+00:00:16.783 --> 00:00:25.063
+With the change, the same merge. The comparison again finds the lockout missing from the card in progress, and offers it as a follow-up.
+
+00:00:27.547 --> 00:00:37.587
+Now the agent hands over, with the lockout done. Seconds later the merge compares again by itself: the result before stays dimmed, and Approve merge waits for the new one.
+
+00:00:38.541 --> 00:00:48.101
+A little later the new result is in: the card in progress now covers the planned card completely, so no follow-up is needed. Approving the merge goes through.
+
+00:00:49.055 --> 00:00:55.295
+So a merge never dead-ends any more: when either card changes, the comparison is simply made again.

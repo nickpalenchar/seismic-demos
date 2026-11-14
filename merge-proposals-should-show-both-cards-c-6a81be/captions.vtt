@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:13.470
+Before the change. Starting the merge opens the card on its merge view, as usual. Once the owner closes it, the two cards sit on the canvas joined by a faint line, with a grey status that only the left card carries.
+
+00:00:14.425 --> 00:00:29.345
+With the change, while the agent plans the merge, both cards are joined by a solid purple line with an arrowhead at each end and a solid merge mark on it. Each card says its own state, then Planning merge, behind the merge icon, in purple.
+
+00:00:30.298 --> 00:00:41.378
+Starting the merge from the card works as before. Once the agent has written the merged card and the card is closed, the pair stays joined, and both cards read their state followed by Merged, review.

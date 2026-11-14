@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:10.792
+Review counts now use different shapes as well as their existing colours. A light bulb marks information, low stays a circle, minor is a square, and the next level is a diamond.
+
+00:00:11.845 --> 00:00:22.565
+Critical uses two vertically overlapping diamonds. Blocker adds a white exclamation mark to the same shape. Opening the review keeps all six severity counts visible above the findings.
+
+00:00:23.577 --> 00:00:31.937
+The same shapes remain clear in the dark theme, with the existing severity colours. Review urgency can now be recognized by shape as well as colour.

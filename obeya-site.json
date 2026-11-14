@@ -1,0 +1,1742 @@
+{
+ "deploy": "a3301da8-1c82-49f2-a369-1d96f834567f",
+ "machine": "Nicks-Mac-Studio",
+ "at": "2026-11-14T00:55:22.239Z",
+ "pages": {
+  "the-remaining-views-and-the-canvas-chrom-e7d484": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-11T19:21:29.573Z",
+   "meta": {
+    "title": "Card details modernized",
+    "text": "The open card view has been rebuilt on the shared design system while keeping every visual and interaction exactly as it was. You see no change when you open a card, answer a question, or reply in the conversation. This work modernizes the internal architecture so all of Seismic's views use consistent tokens and patterns, making future refinements faster and more reliable.",
+    "chapters": [
+     [
+      0,
+      "The open card"
+     ],
+     [
+      18.31,
+      "The demo player"
+     ],
+     [
+      32.9,
+      "Sharing"
+     ],
+     [
+      39.54,
+      "A question with options"
+     ],
+     [
+      53.69,
+      "A planned card and the queue"
+     ],
+     [
+      63.81,
+      "Dark mode"
+     ],
+     [
+      72.68,
+      "On the phone"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/131bf77778b5c87c66465e2e5bda29a44a76b2a7...bd70c77f956d41871aeff8fafe458a80f2ee0da4",
+     "several": true
+    },
+    "first": "2026-11-11T19:20:32.827Z",
+    "at": "2026-11-11T19:20:32.827Z",
+    "source": "4adc596c91bb1355ecc6722148570523f7d90f7b975039cc0460588626edc136",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 1443,
+     "hash": "75fc1ba18f29f3bc27193bd2b37b0399efb48ff86f6cea17b11fe17b316ff065"
+    },
+    "demo.mp4": {
+     "size": 3686613,
+     "hash": "b477053946d40075a022a483dc5043050feae8b2cf05f716cfc0cdca2b884d1d"
+    },
+    "index.html": {
+     "size": 82729,
+     "hash": "8f46dca7108bccf3bcd119e6a093d7b238caab743ed98a57beb1cedb473ae0cd"
+    },
+    "meta.json": {
+     "size": 1197,
+     "hash": "1ff40e811fc655241543af78d74ecc920046d44802ce79a0ecaa3071374bc217"
+    },
+    "poster.jpg": {
+     "size": 97331,
+     "hash": "984bbbb7dc1bca64dfc4089cc6aa4dbf23264cc25e8e268cfd7ad29bcf7a5f09"
+    }
+   }
+  },
+  "canvas-icons-emoji-picker-and-color-sele-ba4070": {
+   "rev": 1,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-11T19:27:42.676Z",
+   "meta": {
+    "title": "Canvas icons: every emoji, more icons, in colour",
+    "text": "A canvas can now carry any emoji or one of about three hundred Lucide icons, instead of a short fixed list. The canvas dialog opens on Icons, which you can search by name and draw in one of ten colours. The Emoji tab is a full emoji picker with categories, search and skin tones. The chosen icon shows in its colour on the canvas tabs.",
+    "chapters": [
+     [
+      0,
+      "The canvas dialog"
+     ],
+     [
+      13.16,
+      "More Lucide icons, with search"
+     ],
+     [
+      20.11,
+      "Colours"
+     ],
+     [
+      29.54,
+      "Every emoji, with search"
+     ],
+     [
+      44.82,
+      "Skin tones"
+     ],
+     [
+      53.57,
+      "On the tab strip"
+     ],
+     [
+      59.24,
+      "Changing the colour later"
+     ],
+     [
+      70.44,
+      "Recap"
+     ]
+    ],
+    "pr": null,
+    "first": "2026-11-11T19:27:42.429Z",
+    "at": "2026-11-11T19:27:42.429Z",
+    "source": "08b6cb3f62fd78efe4356ce68c87e7795e10b5de315fdf7561253062823d5ad8",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 1369,
+     "hash": "dcb98fc8183e04d006b2264ebfe1d0b39d92c8cf47aeac1137909cef28e35884"
+    },
+    "demo.mp4": {
+     "size": 2267139,
+     "hash": "03413a23e971a7fdc1ab07dbee905d7ddff1e76fd009c55c0d53e25d90a63a69"
+    },
+    "index.html": {
+     "size": 82655,
+     "hash": "c501db092c8d53bcebbbc2f41685c649960f7bea70bed9ee2236cfa36551229c"
+    },
+    "meta.json": {
+     "size": 1059,
+     "hash": "de57ef4ac911e947761ea79e828ed4ecbe25367bd5b3c5bc799398179bf5bf1e"
+    },
+    "poster.jpg": {
+     "size": 72991,
+     "hash": "9e4bc0ca8cffbdbc12bea6a96210fd5f7f10362b6d5b4237e701398c94858181"
+    }
+   }
+  },
+  "chat-should-embed-created-cards-in-separ-4d5dc9": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-12T12:16:55.332Z",
+   "meta": {
+    "title": "Cards the chat creates show as cards",
+    "text": "When you ask Seismic's chat for a new task or idea, the card it creates now shows in its own bubble under the reply, with the card's live cover: its state, labels and progress, as the canvas shows them. One click opens it. Before, the chat only said in words that it had created the card, and you had to find it on the canvas.",
+    "chapters": [
+     [
+      0,
+      "Asking for a task"
+     ],
+     [
+      11.31,
+      "The new card in its own bubble"
+     ],
+     [
+      25.03,
+      "Ideas too"
+     ],
+     [
+      33.13,
+      "One click opens it"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/commit/abc1f97cc4a425fb155b9b91f667ffa8e24ce5f4"
+    },
+    "first": "2026-11-12T12:16:19.035Z",
+    "at": "2026-11-12T12:16:19.035Z",
+    "source": "8062e04f166ea6e2f717a250f02af43a144f23e147b64faea646ab7efbaa6de7",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 796,
+     "hash": "42704a6454453029a008fa4f299688710da4181560dd8c714370dbd9b415fa67"
+    },
+    "demo.mp4": {
+     "size": 1394324,
+     "hash": "bba37c8cc8dec76ce57b7a39f08537a0caa4eff1a9dadf3d97889c56a7bd1aaa"
+    },
+    "index.html": {
+     "size": 82424,
+     "hash": "a13254692da635b1bdebe14f71005e47037b1d1148dcb9b758e0f4ee8b07fec2"
+    },
+    "meta.json": {
+     "size": 959,
+     "hash": "edfe6792db9ba2e8dad832ccc5c5ce2c7053f9259f9cb8e626727c6dcd76fe4c"
+    },
+    "poster.jpg": {
+     "size": 123416,
+     "hash": "41016fe4ccc48d20b2f856e522981de00ad6a65e3aef1cf74ea756706068c0f8"
+    }
+   }
+  },
+  "center-view-switcher-overlaps-canvas-swi-3b2094": {
+   "rev": 3,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-12T12:40:54.050Z",
+   "meta": {
+    "kind": "html",
+    "title": "View switcher clears the canvas tabs",
+    "text": "On medium-width windows the Canvas | Parked | Table switcher used to sit in the centre and overlap the canvas tabs at the bottom right. It now sits at the left, one row above the bottom row, stays on top of full-page views like Parked, and shrinks to icons for the views not showing when space is tight.",
+    "chapters": [],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/ff5feba1e412501880c15eddd8c22d38fa453d2a...fa4350c0f2a1fb6e9fa51c8e272ce13eaceccf67",
+     "several": true
+    },
+    "first": "2026-11-12T12:40:07.591Z",
+    "at": "2026-11-12T12:40:07.591Z",
+    "source": "5843ae2261d697b70112755a121055401ba4856fd9a916057789eaee2a973795",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "artifact/after728.png": {
+     "size": 301782,
+     "hash": "967d3171fc1a3288491cf9bd2844617dad75753d9db001b944cbcd5f42936dcc"
+    },
+    "artifact/after900.png": {
+     "size": 287697,
+     "hash": "aa3486b350e8381c37478f5114f63b99643832b9d687708c97e13925754374f0"
+    },
+    "artifact/index.html": {
+     "size": 859360,
+     "hash": "5a4cd870f7e1493cee043ba68b725c77081f15043188284975a13837376da29a"
+    },
+    "artifact/n728x800.png": {
+     "size": 292789,
+     "hash": "363feca8c637bb5e0b337e7dad5a36f62c08f980b33f96a04161f6d72f124264"
+    },
+    "artifact/n900x700.png": {
+     "size": 286841,
+     "hash": "1028f7f7a56f9927742e8835d9490011d799e79849d2994f68fb8ce35e43f304"
+    },
+    "artifact/parked761.png": {
+     "size": 61993,
+     "hash": "6fc67890a63e5d30fd9d5aad3c29c716e9dfabaa3c3464e3ee177712d7ae866e"
+    },
+    "index.html": {
+     "size": 83818,
+     "hash": "bbc426f270f9c1961236079d834e52a963297cf6e104b869937a1dc0cc28243d"
+    },
+    "meta.json": {
+     "size": 807,
+     "hash": "eb10e0ac954e0ef6134134e6230457170df9ec78d422ef815d3288407f55a0b8"
+    }
+   }
+  },
+  "pause-icons-should-be-larger-in-circles-f0e586": {
+   "rev": 3,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-12T12:44:49.509Z",
+   "meta": {
+    "kind": "html",
+    "title": "Larger pause marks",
+    "text": "The pause symbol shown on a workstation held for restart is now as large as the circles beside it, so the row reads evenly.",
+    "chapters": [],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/commit/1b82858fa14766cf372cba9aa412f0f4c1434dfd"
+    },
+    "first": "2026-11-12T12:44:00.900Z",
+    "at": "2026-11-12T12:44:00.900Z",
+    "source": "5d1e36456cd1f2d3c10681f2542a18d361097249ea9113ac9f3a888988fc8179",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "artifact/index.html": {
+     "size": 4463,
+     "hash": "dc5ec06caa2e3c41d3e8408e956accbeaabf3cd1185f1c130a24729072c28ed8"
+    },
+    "index.html": {
+     "size": 83539,
+     "hash": "52405c7bd443b796e2290f6dce01ae983576a0e60e20b3235d7005c52f57d4b3"
+    },
+    "meta.json": {
+     "size": 544,
+     "hash": "f05c2a65a2434f5bcfc93dfb4624b68a78b233d106f572ad0c28fe698b27a490"
+    }
+   }
+  },
+  "at-work-count-should-include-reviewing-a-5a047a": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-12T13:06:29.286Z",
+   "meta": {
+    "title": "Running code reviews count as at work",
+    "text": "The Workstations pill at the bottom of the canvas says how many agents are at work. A card whose code review agent was busy used to count as idle there. Now the reviewing agent counts while it actually works, and drops out again once the review is done or paused for a restart.",
+    "chapters": [
+     [
+      0,
+      "Two cards waiting, none at work"
+     ],
+     [
+      7.59,
+      "A code review starts"
+     ],
+     [
+      24.17,
+      "The review is done"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/2d4921d25efdef4d98ebd4810794688821e63353...d65c8e1d33384beda11f143a7fe630049b87af31",
+     "several": true
+    },
+    "first": "2026-11-12T13:05:50.255Z",
+    "at": "2026-11-12T13:05:50.255Z",
+    "source": "760716950b2625a2844df602136730a6986fcdc36a15ae28d90a78a0aa296c11",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 602,
+     "hash": "d6011e5efe6aa7f4726871aa7a7bb3abe2521c9dfaf9f8d253a52f4536bbce44"
+    },
+    "demo.mp4": {
+     "size": 1189431,
+     "hash": "8704cf3a8acc83634ed70090bae8d0e9beb0ff2379aac23097fcc5a478f43f77"
+    },
+    "index.html": {
+     "size": 82347,
+     "hash": "0b7212ba14d3bdc388d68157cec42a8755867b3d1af27105ab2ca824e419cdbe"
+    },
+    "meta.json": {
+     "size": 935,
+     "hash": "4a2f6841113af282d5fdafd179aead5dbe7eb9a27857d2efd3ceeaedf763d7b7"
+    },
+    "poster.jpg": {
+     "size": 81803,
+     "hash": "01bbbaac8014d62ff2a796935484cf992f65c5f354e858d4c6b067590c454d4e"
+    }
+   }
+  },
+  "merge-proposals-should-show-both-cards-c-6a81be": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-12T13:23:02.150Z",
+   "meta": {
+    "title": "Merges in planning show both cards, joined",
+    "text": "While an agent plans the merge of two cards, both cards now stay on the canvas joined by a solid purple line with an arrowhead at each end and a solid merge mark on it. Each card shows the merge icon and says its own state followed by the merge status, such as \"Planned · Planning merge\", in purple. Once the merged card is ready, both cards read \"Merged · review\" after their state and stay joined. Before, the link was faint and only the left card showed a grey status.",
+    "chapters": [
+     [
+      0,
+      "Before: a faint link"
+     ],
+     [
+      14.08,
+      "After: planning merge"
+     ],
+     [
+      29.95,
+      "Ready for review"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/d65c8e1d33384beda11f143a7fe630049b87af31...1b7c6de43844a869da5762fb40614f1c2bfdd644",
+     "several": true
+    },
+    "first": "2026-11-12T13:22:51.229Z",
+    "at": "2026-11-12T13:22:51.229Z",
+    "source": "e45c194af00f0f662b145678eee51317ce540d9597d9503d12c1e42b7f62de3f",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 756,
+     "hash": "bcd9381245b580e2af42935a9e35b11ed786af521425c5db71dc881d5d7b18c9"
+    },
+    "demo.mp4": {
+     "size": 1746834,
+     "hash": "9e3ca0d490d9f66b73a0303f12cf25a349b276be0340e085eb328a5f7e685007"
+    },
+    "index.html": {
+     "size": 82562,
+     "hash": "18ca64588acd4569a907ad6f088b441cc899fd9337603a5ea8a1aae5132ff55c"
+    },
+    "meta.json": {
+     "size": 1129,
+     "hash": "854b7e3672479b43a3f3a76249a48688bac95a14ab949d972a87b3aa4248130a"
+    },
+    "poster.jpg": {
+     "size": 86082,
+     "hash": "90c3d2dbe697773cf08cc85146b3909c38fc153e8dc98ab39b707ee31799290d"
+    }
+   }
+  },
+  "show-file-conflict-status-on-not-landed-0e6caa": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-12T13:24:31.068Z",
+   "meta": {
+    "title": "Cards that could not land say so",
+    "text": "When approved work cannot land because the main checkout has uncommitted changes to the same files, its card now reads \"Not landed (file conflict)\" instead of \"Demo ready\". It shows that way on the canvas, in Needs you and at the top of the opened card, so it is clear at a glance that the card needs you to fold those changes in.",
+    "chapters": [
+     [
+      0,
+      "The card says why it did not land"
+     ],
+     [
+      16.05,
+      "It waits in Needs you"
+     ],
+     [
+      23.01,
+      "What to do is on the card"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/commit/8bf344da783816032cb29cd5f5f3e97c2dcaefa4"
+    },
+    "first": "2026-11-12T13:24:18.935Z",
+    "at": "2026-11-12T13:24:18.935Z",
+    "source": "ebc9fe9aaa79725a562f14f7c92e5e0efd01c9670480f761a8af6d0bfa1a7200",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 560,
+     "hash": "5a7f319c4bd7203de2fe623f51e4b5243018d00f70f7c4336d3a674353df1cf6"
+    },
+    "demo.mp4": {
+     "size": 1044016,
+     "hash": "a8b59909e9fb899fd99cb50bc8a973ec99afe134b563182fb787e6071a592d52"
+    },
+    "index.html": {
+     "size": 82376,
+     "hash": "6e39aa24183d533723a73cef3cca02cc6c050ac3bec17124d3893750f5628cd4"
+    },
+    "meta.json": {
+     "size": 933,
+     "hash": "b43ebdedab27ec11d1851459a37e0f04597db72ed76ac7fcc93bb77c46c9a851"
+    },
+    "poster.jpg": {
+     "size": 79268,
+     "hash": "8c599f19ffa65fe84412099b2da9982bb701f8a5329dc577010e62a327fed5e6"
+    }
+   }
+  },
+  "new-card-creation-should-not-blur-top-na-cc33fb": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T01:11:40.127Z",
+   "meta": {
+    "kind": "html",
+    "title": "Top bar stays usable while a card is open",
+    "text": "Opening or creating a card used to dim and blur the whole screen, including the top bar. Now only the canvas below the bar dims. The menu, search, help, chat and user buttons stay sharp and clickable.",
+    "chapters": [],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/8bf344da783816032cb29cd5f5f3e97c2dcaefa4...69c32e1ec93538dd3f72c47c62b6046b3795a660",
+     "several": true
+    },
+    "first": "2026-11-13T01:11:01.748Z",
+    "at": "2026-11-13T01:11:01.748Z",
+    "source": "7d687040dc85fc1adbfbf79c117ef100d9b6ebb39b9b848fbad0a1cc86ce5291",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "artifact/after.png": {
+     "size": 146362,
+     "hash": "cced27b28b684127ccf43c37986f1c0a1fd43b4c50104095aa625fcee8007c15"
+    },
+    "artifact/index.html": {
+     "size": 198963,
+     "hash": "286073999f4391493e0e89ed79abe6324632f5947da8e9f4c0d12b7f36350a7e"
+    },
+    "index.html": {
+     "size": 83730,
+     "hash": "960860c5eb6b3dfc8bb6480846a051b9d16b037cbf8cbc9bcd3d80f03a0437cb"
+    },
+    "meta.json": {
+     "size": 709,
+     "hash": "966531ef99bfb6beb11a24f2ed70b18610ea0de3e25f36eaceb4c8f73017390c"
+    }
+   }
+  },
+  "the-remaining-views-and-the-canvas-chrom-af3b12": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T02:28:47.413Z",
+   "meta": {
+    "title": "Seismic's remaining views on Tailwind",
+    "text": "The last parts of Seismic that still used the old hand-written stylesheet now use the same component styling as the rest of the app: card faces, plans, the canvas's rings and hints, the queue, the archive, the plan sheet, the merge view, the chats and the dialogs. Nothing is meant to look different. The point is one consistent, maintainable styling system, in light and dark, on desktop and phone. This tour shows each of those views as it looks now.",
+    "chapters": [
+     [
+      0,
+      "The canvas, every card state"
+     ],
+     [
+      15,
+      "Hover, waits and the play button"
+     ],
+     [
+      21.15,
+      "Zoomed in and far out"
+     ],
+     [
+      32.86,
+      "The group ring"
+     ],
+     [
+      39.23,
+      "A queued card and its chain"
+     ],
+     [
+      49.66,
+      "The plan sheet and its doc"
+     ],
+     [
+      56.12,
+      "The chats"
+     ],
+     [
+      61.38,
+      "Help and the canvas dialog"
+     ],
+     [
+      68.03,
+      "The archive"
+     ],
+     [
+      75.5,
+      "Dark mode"
+     ],
+     [
+      80.37,
+      "On the phone"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/commit/5f54036d8955e704dd71d60c9d1ff648fba90aff"
+    },
+    "first": "2026-11-13T02:28:31.386Z",
+    "at": "2026-11-13T02:28:31.386Z",
+    "source": "fd4e25bb05e104bf7322b3018913f7f010d54c800726e5518e46df69b7b0f5c6",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 1670,
+     "hash": "38ddadbeb05c344ac5188189856eeb3406634ca396b680baff6eb5e786dc212e"
+    },
+    "demo.mp4": {
+     "size": 5448787,
+     "hash": "bfc9ca006b89f7cec54e9c9c29427b0761407084ce1b56c58082eceefdecd838"
+    },
+    "index.html": {
+     "size": 83172,
+     "hash": "90dd91f78666eb940323e15b5e516b452e598b7f759229277d32374ef8ee76ce"
+    },
+    "meta.json": {
+     "size": 1468,
+     "hash": "ec5d28924179dbe90131cf58d66e203382beaf5126b74133ae72f0d19f22b32a"
+    },
+    "poster.jpg": {
+     "size": 181026,
+     "hash": "635b6b4aeee3eaba25fcf6ed92e695fb300e12917d43bd8b29324b64e0c49f0d"
+    }
+   }
+  },
+  "plan-cards-should-not-share-by-default-o-6338d8": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T02:46:14.739Z",
+   "meta": {
+    "kind": "html",
+    "title": "Plan cards no longer share on approval by default",
+    "text": "On a plan's cards, approving no longer publishes the demo to the team's demo site unless the owner has ticked \"Share on approval\". Other cards behave as before.",
+    "chapters": [],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/5f54036d8955e704dd71d60c9d1ff648fba90aff...72e2736edc017832a7767defad99f4f042bd4502",
+     "several": true
+    },
+    "first": "2026-11-13T02:44:19.290Z",
+    "at": "2026-11-13T02:44:19.290Z",
+    "source": "3cd19ed9ec303edbf5bb6ef6aa5146b285665827445360d08190924973b23444",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "artifact/index.html": {
+     "size": 3843,
+     "hash": "dbb4bcefc53967324d95bf5b6e9526025701c5c113cfc0b977a6a073b5ba2185"
+    },
+    "index.html": {
+     "size": 83724,
+     "hash": "e817689de50a849c9a7d227f883a9ac895bb3a0e864ae390c5c105de1d4c6c0f"
+    },
+    "meta.json": {
+     "size": 679,
+     "hash": "59850a0acd676c138d1aaa237fa42c18042f9d9cc8dd329ca6fb231ba46dc2ce"
+    }
+   }
+  },
+  "make-chat-usable-from-the-top-bar-while-58f7c8": {
+   "rev": 1,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T02:46:55.538Z",
+   "meta": {
+    "kind": "html",
+    "title": "Open cards keep clear of side sheets, the menu and the inbox",
+    "text": "An open card no longer hides the Chat, Needs you, Agent work or project settings sheets: it narrows to fit beside them. It also never covers the left menu or the inbox's list, even when these are opened or pinned while the card is already open. On a window too narrow for all of them, the sheet lies over the card's right edge and stays fully usable.",
+    "chapters": [],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/72e2736edc017832a7767defad99f4f042bd4502...2451fe2a2e8bb83c9734812e3be5b9600fd8a647",
+     "several": true
+    },
+    "first": "2026-11-13T02:46:55.521Z",
+    "at": "2026-11-13T02:46:55.521Z",
+    "source": "1c2c0ca82384b1b335ac325943a3b2b9f92d4ed4495d20ade806f89a916417a0",
+    "language": "en",
+    "by": "Nick Palenchar",
+    "more": [
+     {
+      "title": "Sheet controls stay usable with an open card",
+      "text": "Settings, Agents and Needs you remain accessible while a card is open. Open a sheet, switch between them, or close it without losing the card conversation.",
+      "chapters": [
+       [
+        0,
+        "Open settings beside a card"
+       ],
+       [
+        8.28,
+        "Switch to Agents"
+       ],
+       [
+        14.39,
+        "Use Needs you"
+       ],
+       [
+        22.82,
+        "Close the sheet and keep the card"
+       ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-13T02:40:54.927Z",
+      "at": "2026-11-13T02:46:55.521Z",
+      "source": "8bf153bb937e4034653f0085a35dbea4e2eb9b58b42b4a6294d23ae41e472d87"
+     }
+    ]
+   },
+   "files": {
+    "2/captions.vtt": {
+     "size": 602,
+     "hash": "023d0609037f4f2df6351c1296ddd0002cd8f6025b0b6e51171432da78122c0b"
+    },
+    "2/demo.mp4": {
+     "size": 722012,
+     "hash": "e4e437f77ef8e3df4d2c271dbab5279aea0352f1048db1030f0dbb6ef2d79ae9"
+    },
+    "2/poster.jpg": {
+     "size": 102678,
+     "hash": "262cf69f29825c17994d24222a9afb9baab2ed41cb43f0158207a1b056f6f4f6"
+    },
+    "artifact/after-dock.png": {
+     "size": 164843,
+     "hash": "ffece5b8956cba37f86669426044854518efa0817302893387a3a7d749f9ad3e"
+    },
+    "artifact/before-dock.png": {
+     "size": 147478,
+     "hash": "295549b12232ae0c5f9a5bc8d98856d6fad76355369261db5eb2eaccf87220a8"
+    },
+    "artifact/inbox.png": {
+     "size": 167153,
+     "hash": "14b762b3cbfaccbe6d95a77189e5c4e766b38eb203cfe0feefa90c3815cfaa65"
+    },
+    "artifact/index.html": {
+     "size": 1300021,
+     "hash": "eabc63902ac9bbd7f265f1ea8dd86e3bb298eacb0108c1a1404a10169e3db988"
+    },
+    "artifact/menu.png": {
+     "size": 169120,
+     "hash": "41ec125b98d29da4cf3c6b6eb52d822021747b2396cea42d9614d6a52195619e"
+    },
+    "artifact/narrow.png": {
+     "size": 133971,
+     "hash": "4699f3ef475d604d479ed3e8c78a3a11ffd3126550a08aecdfd5994d52faa68c"
+    },
+    "artifact/wide.png": {
+     "size": 188737,
+     "hash": "eeee3b05baa41a848c9f173740539f05167c37aa716cda8e8688c97c51959bec"
+    },
+    "index.html": {
+     "size": 87734,
+     "hash": "844c6109a5f795b91f7ab49126973c274649576a0e5b69e34c82eb72cfae315b"
+    },
+    "meta.json": {
+     "size": 1644,
+     "hash": "84d7313639c43463dd3ce99be3057f26708853cec4073b7ac264b043f757d03d"
+    }
+   }
+  },
+  "card-diff-tab-file-tree-and-files-collap-23c4ca": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T02:56:57.164Z",
+   "meta": {
+    "title": "Diff tab: file bars when space is tight",
+    "text": "When the Diff tab is too narrow to show the file tree next to the code, the two now stack. The changed files sit at the top in a bar that opens and closes the tree. Below it, each changed file is its own bar that opens or closes its changes, and picking a file in the tree opens its bar and scrolls to it. With enough room, the tree stays beside the diff as before.",
+    "chapters": [
+     [
+      0,
+      "The file tree on top"
+     ],
+     [
+      12.18,
+      "Every file a bar"
+     ],
+     [
+      26.89,
+      "Pick a file in the tree"
+     ],
+     [
+      32.81,
+      "Wide: tree beside the diff"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/769c79f291f4e1900f51ce5a550bddb9ddef51b0...b016c7bd22a628d79b95d3fd3a2ad73cab3d6b83",
+     "several": true
+    },
+    "first": "2026-11-13T02:56:17.769Z",
+    "at": "2026-11-13T02:56:17.769Z",
+    "source": "9feb870cb762ea284f063324823e9e6efb3350f87d42aa121791518c92d6bb78",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 746,
+     "hash": "d977e5689bbce33a69a04383ba7938ecdfe22a3413d04ed15ceae204d5807f94"
+    },
+    "demo.mp4": {
+     "size": 1073603,
+     "hash": "667ed01e31b9a7dce58c4eed15dff634dbda5b8cd4c3c7f425c0ce163e29176b"
+    },
+    "index.html": {
+     "size": 82525,
+     "hash": "14ce77c5323c15a78fdcc94ada1346daf4ce1801d5f1f2e721c42bb7163e5a00"
+    },
+    "meta.json": {
+     "size": 1077,
+     "hash": "74341e5aab50c6cdf40122bc7779e143ff18b999d646ed53f1ac3d841a905ee4"
+    },
+    "poster.jpg": {
+     "size": 86362,
+     "hash": "04c6a6e483cd765fd22f2760c06bac6fbfbf9ae110ba70312760abb13b7db52f"
+    }
+   }
+  },
+  "share-on-approval-toggle-should-switch-o-bc2b96": {
+   "rev": 3,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T03:01:22.320Z",
+   "meta": {
+    "title": "Switches sized for a finger on touch screens",
+    "text": "On a phone, the \"Share on approval\" switch under the Approve button was the size made for a mouse pointer, so a thumb often missed it. On touch screens, every on/off switch is now larger and its whole row, the words included, takes the tap. A tap that lands a little beside the switch now flips it at the first try. On a computer nothing changes.",
+    "chapters": [
+     [
+      0,
+      "The switch under Approve"
+     ],
+     [
+      10.43,
+      "A tap just beside it"
+     ],
+     [
+      16.11,
+      "Now: sized for a finger"
+     ],
+     [
+      26.38,
+      "Recap"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/commit/7f9bb0aa86ae33023a9fdb8cf370e68efb0b803d"
+    },
+    "first": "2026-11-13T03:00:25.700Z",
+    "at": "2026-11-13T03:00:25.700Z",
+    "source": "7a3de4feb07c50f2d6d11dd22c54cb4d142ea890d0351512567cd9aa582501fa",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 667,
+     "hash": "2ad591fb762043cde64bbfdf8872e200e0089fe14957d43881b9d5ea41654541"
+    },
+    "demo.mp4": {
+     "size": 832824,
+     "hash": "649987bdfed08e35b9a6fff1ee57cb4a586d8db9b05b940c1471ca08dc07fd3e"
+    },
+    "index.html": {
+     "size": 82468,
+     "hash": "96f8a2d19fa0f7236a3e317765d1f39e8e8d9b06f3450dbe97eeb2e224e0ae4c"
+    },
+    "meta.json": {
+     "size": 987,
+     "hash": "4591262eb817fb355bf89cca9c78e54d6d2bba11b15414c305642b63d874ad97"
+    },
+    "poster.jpg": {
+     "size": 91775,
+     "hash": "ef64f8eb7286c1a795b8b9dff505417fed939b6985b5f90e685f96105f01a436"
+    }
+   }
+  },
+  "the-new-shell-under-view-phone-next-aea68b": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T03:55:04.470Z",
+   "meta": {
+    "title": "A new phone view: one project at a time",
+    "text": "The phone view is being rebuilt around one project at a time. A slim top bar names the project and switches it, and it stays in place when a card is open. A box shows how many agents are at work and on which cards. The project's cards follow in sections (Queued, Planned, then Parked and Done), twenty at a time. A floating bar at the bottom keeps a new card within reach of the thumb. For now the new view is a preview under ?view=phone-next, next to the current phone view.",
+    "chapters": [
+     [
+      0,
+      "One project at a time"
+     ],
+     [
+      11.68,
+      "Who is working"
+     ],
+     [
+      25.03,
+      "An open card"
+     ],
+     [
+      36.82,
+      "Sections and Load more"
+     ],
+     [
+      48.61,
+      "The floating bar"
+     ],
+     [
+      63.56,
+      "A new card"
+     ],
+     [
+      74.32,
+      "Recap"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/cb389e491aa03735c70f4a3110a76af4ba51f0e8...7513346bcb85927109371ada6ee543a6689e2e7c",
+     "several": true
+    },
+    "first": "2026-11-13T03:48:42.538Z",
+    "at": "2026-11-13T03:48:42.538Z",
+    "source": "800daad61d8d68ddded70830bf6030f56dd3a507741b27f8dc5099e7766713d5",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 1517,
+     "hash": "51e0199a53c36d8703b33a2793ef88284febcd9cc29f44c24b8ddd5a208f9524"
+    },
+    "demo.mp4": {
+     "size": 1741667,
+     "hash": "4ec356cad3302940369b92b2bb6fbbce0176116c639d365e5b9302d5ca38a8e2"
+    },
+    "index.html": {
+     "size": 82857,
+     "hash": "19b97d97c0cc0514f8b16db28ba1cad89687a10b2a952a331272a9904a129609"
+    },
+    "meta.json": {
+     "size": 1307,
+     "hash": "7ecf357e0f0b07bd71b1a07235eba5d61f4356ba4046013bf31ac0f061977e03"
+    },
+    "poster.jpg": {
+     "size": 54179,
+     "hash": "1bb2557ca88f6b34dfcd9b734efe54e8f84c9ade25ab6377205f87ce24d6b8f0"
+    }
+   }
+  },
+  "merged-proposals-should-update-when-task-adf425": {
+   "rev": 3,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T03:53:56.990Z",
+   "meta": {
+    "title": "Merges update themselves when a card changes",
+    "text": "When two cards are being merged and either changes before the merge is approved (an edit, or the in-progress card's agent handing over), the comparison now runs again by itself. While it runs, the previous result stays visible but dimmed, and approval waits for the new result. Before, approving refused with a message to separate the cards and merge them again by hand.",
+    "chapters": [
+     [
+      0,
+      "Before: a dead end"
+     ],
+     [
+      16.43,
+      "After: the first comparison"
+     ],
+     [
+      27.2,
+      "A card changes: updating"
+     ],
+     [
+      38.19,
+      "The new result"
+     ],
+     [
+      48.71,
+      "Recap"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/61631945eab4d77f28b5c52697ccae5d02fee7ae...cb389e491aa03735c70f4a3110a76af4ba51f0e8",
+     "several": true
+    },
+    "first": "2026-11-13T03:52:31.434Z",
+    "at": "2026-11-13T03:52:31.434Z",
+    "source": "e6113c16aecdfdd0fe0689acc0250a6ae5355dc98d3a8d2fc2aa7b2b856fddd1",
+    "language": "en",
+    "by": "Nick Palenchar",
+    "more": [
+     {
+      "title": "Merges recover cleanly after edits and deletion",
+      "text": "Merge comparisons wait for changes to settle, and an old approval refusal disappears when the comparison updates. Deleting either card separates the pair, so restoring a deleted card brings back its original task without reviving the old merge.",
+      "chapters": [
+       [
+        0,
+        "A merge ready for review"
+       ],
+       [
+        8.19,
+        "A card changes: updating"
+       ],
+       [
+        21.23,
+        "The new result"
+       ],
+       [
+        33.82,
+        "Deletion separates the pair"
+       ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-13T02:39:48.456Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "41930daf18d08352530a266e5ff0cd881980c89d06411c0e762aa851731897bb"
+     },
+     {
+      "title": "Each merge settles independently",
+      "text": "A merge compares again after its own cards stop changing, even while other workers keep updating the board. Separate merging pairs have independent delays, so a busy project no longer leaves a changed merge waiting indefinitely.",
+      "chapters": [
+       [
+        0,
+        "A merge ready for review"
+       ],
+       [
+        8.68,
+        "Other work keeps changing"
+       ],
+       [
+        19.95,
+        "Ready despite the activity"
+       ]
+      ],
+      "dir": "3",
+      "handed": "2026-11-13T02:56:06.730Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "afd352e616964da7ff5fe05e3e99dfa2972549fd45ec303b3b7e694e42611696"
+     },
+     {
+      "title": "A changed merge shows as updating at once",
+      "text": "When either card of a merge changes, the comparison result on screen is dimmed under \"Updating: a card changed\" right away, and Approve merge is disabled. The new comparison still starts a few seconds after the last change, so a burst of edits makes only one. An out-of-date result can no longer be approved during that wait.",
+      "chapters": [
+       [
+        0.04,
+        "A merge ready for review"
+       ],
+       [
+        12.03,
+        "Updating the moment a card changes"
+       ],
+       [
+        30.36,
+        "The new result"
+       ]
+      ],
+      "dir": "4",
+      "handed": "2026-11-13T03:09:41.643Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "aa35c62eea78dbaa1efd7a93b90f79df5f1d7fa1f08cf85f085fd17196ef8465"
+     },
+     {
+      "title": "Keep the previous comparison after an update fails",
+      "text": "When an updated merge comparison fails, the earlier result stays dimmed and readable beside the error. Try again preserves it until a successful comparison arrives, while approval stays disabled.",
+      "chapters": [
+       [
+        0,
+        "An earlier comparison"
+       ],
+       [
+        11.16,
+        "Failure keeps the result"
+       ],
+       [
+        24.31,
+        "Retry and replacement"
+       ]
+      ],
+      "dir": "5",
+      "handed": "2026-11-13T03:19:32.694Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "fbc4341bf987cc77df791ed8b28fa34ad0e7d31c1c6ae4f912443e5369fc4396"
+     },
+     {
+      "title": "Earlier follow-ups keep their original questions",
+      "text": "When a card’s questions change, its earlier merge comparison keeps showing the questions it originally proposed. Those questions remain readable through a failed update and retry, until a successful comparison replaces the preview.",
+      "chapters": [
+       [
+        0,
+        "The original question"
+       ],
+       [
+        9.03,
+        "Changed question, retained result"
+       ],
+       [
+        23.82,
+        "Retry replaces the question only on success"
+       ]
+      ],
+      "dir": "6",
+      "handed": "2026-11-13T03:28:13.897Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "df07a07d1602902ad421feb22b108215eed71cf74a6f472ebffb3e252cef84f9"
+     }
+    ]
+   },
+   "files": {
+    "2/captions.vtt": {
+     "size": 807,
+     "hash": "755683f1060e18ca91707efcbd421bff1dd8eb1f91510429045ec3786ca7c064"
+    },
+    "2/demo.mp4": {
+     "size": 1516035,
+     "hash": "18fdb7da768d7d585f677141f38dea0b54c9dd665a92bd8c0708cc427871a6b6"
+    },
+    "2/poster.jpg": {
+     "size": 103432,
+     "hash": "d0a875be25e28a0dc441058d9478f6bc096f719c44805207e111f80155ef690c"
+    },
+    "3/captions.vtt": {
+     "size": 542,
+     "hash": "ccdfbf2e395a516241b8671c4d3818d6141a84d40964377a98edf2045ee168e1"
+    },
+    "3/demo.mp4": {
+     "size": 1231829,
+     "hash": "d281b6fca411cc0a27e96a68fa86f0fb8693052a117b053138ceabc973d7845f"
+    },
+    "3/poster.jpg": {
+     "size": 105940,
+     "hash": "cecbce2bb734c44a686a86213c8eb2864e432b692159d96298e1c80d887d4612"
+    },
+    "4/captions.vtt": {
+     "size": 706,
+     "hash": "1a9b6403b0bde80a07e4e8e62db3057ab74b35e6bc9e8e78c04b986de7b19cfb"
+    },
+    "4/demo.mp4": {
+     "size": 1209375,
+     "hash": "a404ff9ce12eea299dd7f9c68272a5d272f6138e065b975b2b52be055dbbeaa4"
+    },
+    "4/poster.jpg": {
+     "size": 106351,
+     "hash": "537eb08089a02ad91e9f1214cae8c13a37e82e8574066f126036853c6f3e8317"
+    },
+    "5/captions.vtt": {
+     "size": 663,
+     "hash": "c305048b26997ab58ea285182af8ca015c5299b620f65c7d66194518b5c4bd7e"
+    },
+    "5/demo.mp4": {
+     "size": 976596,
+     "hash": "b28f86d91450d0503866e9d926bafb14fd012e026507a2ade3be4690f751abf7"
+    },
+    "5/poster.jpg": {
+     "size": 76483,
+     "hash": "430df5fbec6983c12fc04b2d89cff707837225307d549b490328b242650c9ce5"
+    },
+    "6/captions.vtt": {
+     "size": 631,
+     "hash": "ecb1bd4e87976bb76597d2603de235e5f4b5a8c115234854189c2ffadbbcf416"
+    },
+    "6/demo.mp4": {
+     "size": 890002,
+     "hash": "d96e9d431c41dd7a6bc4c69d64a24134fcf5e7cbc23d28e90f5f0df2994d0f5b"
+    },
+    "6/poster.jpg": {
+     "size": 89829,
+     "hash": "01445150e3fa7e8c7b362dc770a6a13ce8fdb71ac2ff9d66766147f2fe613feb"
+    },
+    "captions.vtt": {
+     "size": 1009,
+     "hash": "629eceb46ef103368ec54288a9b49d13249cbcf47fb379032ab845d8a14fbac0"
+    },
+    "demo.mp4": {
+     "size": 1892221,
+     "hash": "fd044405c41a39b00f8959ac89d8c7b8ccd57566022f1ca578cd513cad570a77"
+    },
+    "index.html": {
+     "size": 92540,
+     "hash": "9c43c11e32992f4e631b81541fda45b69aee8b82da622da5c2a52995e0d7c4ee"
+    },
+    "meta.json": {
+     "size": 5095,
+     "hash": "bd61c47618de46b45c67f343fb1d94bc47aee5227b081ead44197e76691433ac"
+    },
+    "poster.jpg": {
+     "size": 110670,
+     "hash": "2ce119d26442a51d381f17beb1a94e98072aceba2e8b311dcbaac53a79cc5876"
+    }
+   }
+  },
+  "chat-page-and-search-page-5629f7": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T04:05:23.987Z",
+   "meta": {
+    "title": "Phone: full-page chat and card search",
+    "text": "On the phone, Seismic's chat is now a full page instead of a sliding panel, with chat history, the field and the microphone. A new search page finds the project's cards by title or code. Back from a found card returns to the same results.",
+    "chapters": [
+     [
+      0,
+      "The chat button"
+     ],
+     [
+      9.56,
+      "Chat as a full page"
+     ],
+     [
+      24.31,
+      "Search the cards"
+     ],
+     [
+      34.1,
+      "Open a card from the results"
+     ],
+     [
+      45.78,
+      "Recap"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/commit/64579962b5d573a5db36a257eb7fbf1b0013537e"
+    },
+    "first": "2026-11-13T04:05:15.880Z",
+    "at": "2026-11-13T04:05:15.880Z",
+    "source": "da3e045f813b181a5f304c4e7eca973c60bdbef26fa9b61b8e1ddfc4319f2eb1",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 975,
+     "hash": "df953147e21946d1e82cd41e610604285a2c106f5d1f1d05aa0f064f8d8ed1f2"
+    },
+    "demo.mp4": {
+     "size": 1032598,
+     "hash": "6e9c012e8c43ac04d327334c5e004db49bed4fc28a11c10689763278cba900e6"
+    },
+    "index.html": {
+     "size": 82414,
+     "hash": "d135196eacf3ed1c2613789aaa9741f19db7e6a6443daf90d78f5de1a77de859"
+    },
+    "meta.json": {
+     "size": 914,
+     "hash": "63d1f589f41fbc9dc301ec7db659c45a04e7197c231c645e8b33aa34986bbb7f"
+    },
+    "poster.jpg": {
+     "size": 51989,
+     "hash": "825c0532e5b2fbf89784589ca7cc5787f42c3984bd3f0c9f38a1c00ad591f99b"
+    }
+   }
+  },
+  "menu-sheet-and-needs-you-page-1b1306": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T12:18:39.514Z",
+   "meta": {
+    "title": "Phone: menu sheet and a Needs you page across projects",
+    "text": "On the phone, the menu opens as a full-height sheet with Needs you and your projects, and tapping a project switches the whole view to it. The bell opens a Needs you page that gathers what waits in every project, each entry naming its project and offering one-tap replies. Opening a card from another project switches the top bar to it; browser Back returns to the page and the card's cross lands on that project's list.",
+    "chapters": [
+     [
+      0,
+      "The menu sheet"
+     ],
+     [
+      13.64,
+      "Switching project"
+     ],
+     [
+      21.27,
+      "Needs you across projects"
+     ],
+     [
+      30.59,
+      "A quick reply"
+     ],
+     [
+      35.69,
+      "A card of another project"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/64579962b5d573a5db36a257eb7fbf1b0013537e...ad80246a11e51e0b3ecf2ce44815d06013285423",
+     "several": true
+    },
+    "first": "2026-11-13T12:18:24.068Z",
+    "at": "2026-11-13T12:18:24.068Z",
+    "source": "f789e97a00bd251b9e5932af3a2ea79df3f6b2af34efe21f29acec56e31dfc16",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 872,
+     "hash": "ef1576e8147866190018ef65078f0eb725dc2ea6fa3bf8f6b3b696c03022b9ef"
+    },
+    "demo.mp4": {
+     "size": 857607,
+     "hash": "bff5f4df44eb34f07376245493a4aad0ff5436042675f6ef7660b287d34e6709"
+    },
+    "index.html": {
+     "size": 82688,
+     "hash": "5f4b9fb03ffabf78cf6f878c06b20914f1db3146ee6e83af831edfcb0fc8e7dc"
+    },
+    "meta.json": {
+     "size": 1191,
+     "hash": "852fe7ff517bf6d568d7fdb2a54ae908c726444dc799b0e718739059413b6cc0"
+    },
+    "poster.jpg": {
+     "size": 10590,
+     "hash": "a23c466690aca3c9d9ba8ad073a8805004176016f4a1df30d0fac2d25e09b5fe"
+    }
+   }
+  },
+  "display-options-for-many-workstations-1d1005": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T13:01:24.533Z",
+   "meta": {
+    "title": "Many workstations fit the status bar",
+    "text": "With many workstations on one machine, the row of dots in the status bar used to grow wider and wider. Now six to twelve workstations go into two rows and thirteen to eighteen into three, so the pill keeps the bar's height. From nineteen on, a single bar shows how many workstations are at work, waiting for the owner or free, as coloured shares. Hovering the pill still lists every workstation and its card.",
+    "chapters": [
+     [
+      0,
+      "A few workstations"
+     ],
+     [
+      13.47,
+      "Two rows from six on"
+     ],
+     [
+      24.55,
+      "Three rows from thirteen on"
+     ],
+     [
+      36.18,
+      "A bar from nineteen on"
+     ],
+     [
+      55.06,
+      "The list stays complete"
+     ],
+     [
+      59.45,
+      "Recap"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/commit/2f4c533d62f9280cb36a11f5c3704708a0eb9480"
+    },
+    "first": "2026-11-13T13:00:30.160Z",
+    "at": "2026-11-13T13:00:30.160Z",
+    "source": "9117adf458364a23887462e1b9e729a65fe5a565eb2a1e3747969163cbb52cab",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 1233,
+     "hash": "c7b99287155b050dc347e7048d88dfaaa686aca6274616103c2b3ef26e2da7db"
+    },
+    "demo.mp4": {
+     "size": 1904810,
+     "hash": "c0be341d49f278e61425c37a11acdbcccfc4b1eb8c2a99eb7ac877ebc3abc65a"
+    },
+    "index.html": {
+     "size": 82685,
+     "hash": "fea6ac7f80e236a71e422f50a518954c0854388af896fbf9d80a88f27c78dce3"
+    },
+    "meta.json": {
+     "size": 1152,
+     "hash": "aa48b005d0ad68d9f8c5af5d72596d196e2bf414ad66e1207c298fcf400a5498"
+    },
+    "poster.jpg": {
+     "size": 77220,
+     "hash": "ba234d2badbdd95da4c9b16350868823bf1a78874a239d348fe8dab39a879ebf"
+    }
+   }
+  },
+  "code-review-buttons-missing-on-pr-projec-29b23b": {
+   "rev": 1,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T13:02:33.159Z",
+   "meta": {
+    "title": "Manual code reviews on pull-request projects",
+    "text": "Projects that send approved work out as a pull request can have each card's work code reviewed too. With code reviews set to \"Manually, at handover\", a purple \"Start code review\" button appears next to \"Approve (PR)\" when the agent hands over. A click starts the review before the pull request opens, and while it runs, approving warns that the review is still going.",
+    "chapters": [
+     [
+      0.01,
+      "A project that lands through pull requests"
+     ],
+     [
+      8.1,
+      "The handover offers the review"
+     ],
+     [
+      15.97,
+      "Starting it"
+     ],
+     [
+      25.65,
+      "Recap"
+     ]
+    ],
+    "pr": null,
+    "first": "2026-11-13T13:02:33.142Z",
+    "at": "2026-11-13T13:02:33.142Z",
+    "source": "25effc39b9bf2f0afa4e7a858fa1eeed4786eea07341edaf04314a2ac2c4a7d7",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 594,
+     "hash": "7dc2b4e52a82031b9e10eca5f77d6b4f637cc8a7890d9dc01a0d857a7be17bde"
+    },
+    "demo.mp4": {
+     "size": 1095994,
+     "hash": "f6c6299af49e2c46f0d10b830a0b579d55963d91a1cbeb5dd555989d959909b4"
+    },
+    "index.html": {
+     "size": 82390,
+     "hash": "dea16ce3d74cfb91d0cb568485e81f3b2fe339b5139194471a504ec73e558686"
+    },
+    "meta.json": {
+     "size": 908,
+     "hash": "fb806203f7e693f955bf64f24e013514670eec8f4c532cdfc84f39d1ce089211"
+    },
+    "poster.jpg": {
+     "size": 49130,
+     "hash": "3db5b5f560382c70fa8419e57549bed04bb528711dc10cc6e420b7bb38d329e9"
+    }
+   }
+  },
+  "review-item-icons-should-use-distinct-sh-be6aa3": {
+   "rev": 1,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T13:57:31.293Z",
+   "meta": {
+    "title": "Distinct shapes for review severity",
+    "text": "Review counts now distinguish severity by shape as well as colour. Light bulbs, circles, squares and diamonds make the levels easier to recognize, with double diamonds for critical findings and a white exclamation mark for blockers. Existing colours are preserved in both light and dark themes.",
+    "chapters": [
+     [
+      0,
+      "Severity at a glance"
+     ],
+     [
+      11.5,
+      "The most urgent findings"
+     ],
+     [
+      23.23,
+      "Light and dark"
+     ]
+    ],
+    "pr": null,
+    "first": "2026-11-13T13:57:31.280Z",
+    "at": "2026-11-13T13:57:31.280Z",
+    "source": "25df8b25558d6ee78e005c35aa677d2cf89bf98c710d33cf941c79a4d5722edb",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 612,
+     "hash": "a62853bec295edb8a2f06b3f38f9df2926bccd811e37ffa5d0432f1a0b4f0f17"
+    },
+    "demo.mp4": {
+     "size": 745171,
+     "hash": "275a7e428418b28191f58b7009d22c1ea69b3206076e387120a0c629e5d1957a"
+    },
+    "index.html": {
+     "size": 82168,
+     "hash": "a6ed3692e6a9483f13412f0a738c0311ec58d71501eedf5cb0c3ed365495014c"
+    },
+    "meta.json": {
+     "size": 753,
+     "hash": "1bfd1c6502aad6237902bbd0915cb79e727f210fac6b234711fd8b67221f1ebb"
+    },
+    "poster.jpg": {
+     "size": 74069,
+     "hash": "2c0ab3469c272169cfa4c80ed6c32426c6faf0a9ad49e3f525a57bf641bddb46"
+    }
+   }
+  },
+  "phone-view-hide-the-floating-bar-on-the-b2afa5": {
+   "rev": 3,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T22:59:06.656Z",
+   "meta": {
+    "title": "Needs you hides the floating bar on the phone",
+    "text": "In the phone view, the Needs you page is a full page, and the floating bar along the bottom now steps aside while it is open. Closing the page with its X or Back brings the bar back. This matches how chat, search and open cards already behave.",
+    "chapters": [
+     [
+      0.01,
+      "The bar on the home list"
+     ],
+     [
+      6.24,
+      "Needs you is a full page"
+     ],
+     [
+      13.4,
+      "Closing brings it back"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/commit/851bb1c0372ef42dd387eb2ebc1f5b723f322ef6"
+    },
+    "first": "2026-11-13T22:57:01.904Z",
+    "at": "2026-11-13T22:57:01.904Z",
+    "source": "d7caa286a5eecaa63e17621eff4c942b63752af1ad142aab32f0a5d795d21e7a",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 339,
+     "hash": "72f633fbf6199d6d86c30a914fc7288524fe78ef03acb9fcea81eb21b30bc8e6"
+    },
+    "demo.mp4": {
+     "size": 264445,
+     "hash": "4c15819a1c70252d471b87ceb99bd7f2f5abd1b97d1a124b4afaf11193dd2601"
+    },
+    "index.html": {
+     "size": 82287,
+     "hash": "738b9135a6b80370b01d122776b6803d449452d3bb7e4a293b0f7d1506ae0ca8"
+    },
+    "meta.json": {
+     "size": 847,
+     "hash": "576e0e497a3588e7204a9f1bf60f64bf26b92591cb474d4863ddbfd1e6f3d636"
+    },
+    "poster.jpg": {
+     "size": 30722,
+     "hash": "175132140635bebfac9d42b90c85393f8b9c0e665e03e0844b24f09b76bf32d0"
+    }
+   }
+  },
+  "sort-planned-by-creation-date-on-mobile-562149": {
+   "rev": 1,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T23:38:58.610Z",
+   "meta": {
+    "title": "Newest plans first, snoozed plans last",
+    "text": "The mobile Planned list shows active tasks first and snoozed tasks at the end, newest created first within each group. This order also applies across Load more, so newer snoozed tasks cannot push active work onto a later page.",
+    "chapters": [
+     [
+      0,
+      "Recent active plans first"
+     ],
+     [
+      15.6,
+      "Active work stays on the first page"
+     ],
+     [
+      25.76,
+      "Snoozed plans remain at the end"
+     ]
+    ],
+    "pr": null,
+    "first": "2026-11-13T23:38:58.596Z",
+    "at": "2026-11-13T23:38:58.596Z",
+    "source": "1fad4a669ebced997ae9d56d0eb133510d023907b96ab6412f49c0413f890b71",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 705,
+     "hash": "e8bbfe9ba88c5b3e3fc2b5bb62604902f6a0724a0772fb59b48ca54afe99d235"
+    },
+    "demo.mp4": {
+     "size": 767457,
+     "hash": "77c37e05977741cb28afe9f05fa11260f44971dfb36291dc400ecee4dab8b2e4"
+    },
+    "index.html": {
+     "size": 82139,
+     "hash": "a795854a259571c310e517a2fa33850644e4bc5d438e037a979bf6fbc1cf60aa"
+    },
+    "meta.json": {
+     "size": 721,
+     "hash": "c4ec504e1d2606ee756a6b269c8065f3ea8cf9ffcfac4444a2e2644693e5b93d"
+    },
+    "poster.jpg": {
+     "size": 49160,
+     "hash": "1d96ac6078b91258073a5d77ae86cd0417324fec20d43b09a3a7facdc0d89a1a"
+    }
+   }
+  },
+  "not-started-yet-toast-use-yellow-styling-d40feb": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-13T23:48:24.447Z",
+   "meta": {
+    "title": "Warning toasts in yellow, with buttons below the text",
+    "text": "When you start a card that has to wait for another one, Seismic shows a warning that it is queued and hasn't started yet. That warning used to be a brownish box with its buttons squeezed in beside the text, so the text wrapped into a narrow column. Now it uses the same yellow as the other warnings in the app: the text runs across the full width, and 'Go to card' and 'Dismiss' sit below it.",
+    "chapters": [
+     [
+      0,
+      "Before: a brown box, buttons beside the text"
+     ],
+     [
+      13.87,
+      "After: yellow, text full width, buttons below"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/commit/04fcdeb3b6e816ce5966209a831513558c2997a8"
+    },
+    "first": "2026-11-13T23:40:14.093Z",
+    "at": "2026-11-13T23:40:14.093Z",
+    "source": "81d0441f1315b66ccd281736e42930502d26d309038e88295e8d856ef26b235a",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 441,
+     "hash": "6ccc17eae4de10c3b8eb2683c2b1c17f376142b2b00f38d33852aa41661145d6"
+    },
+    "demo.mp4": {
+     "size": 623287,
+     "hash": "19445e609800993b3c29471e2522d2d9b70620edebdae43835fcc2c2f0514654"
+    },
+    "index.html": {
+     "size": 82401,
+     "hash": "d7717d3e4ed105475cb5d292d2954cec32843b8a291c0deb951426f3d87516fd"
+    },
+    "meta.json": {
+     "size": 987,
+     "hash": "cc598abcdfabb4fb695440862f810024b323e1ad482a383c3c246d25637b3992"
+    },
+    "poster.jpg": {
+     "size": 84142,
+     "hash": "b53ca7907432b27f358e612faaab87c5c75e630319250c44cede76da6286a4d6"
+    }
+   }
+  },
+  "on-follow-up-reviews-the-status-should-g-32e14d": {
+   "rev": 2,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-14T00:54:58.154Z",
+   "meta": {
+    "title": "Follow-up review status",
+    "text": "When a follow-up code review runs, the card shows its numbered review check in teal with an activity animation. This makes it clear that the reviewer is still checking the work.",
+    "chapters": [
+     [
+      0,
+      "A follow-up review"
+     ],
+     [
+      11.47,
+      "Inside the card"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/bae198c8af013f2bac36cfbf672329138a4b80b0...44255a49b2da040a720440cf3dc418535ba65eb1",
+     "several": true
+    },
+    "first": "2026-11-14T00:52:00.890Z",
+    "at": "2026-11-14T00:52:00.890Z",
+    "source": "9988163c7e934dbf0b4d07f738a730f6b8522d4a0508cf40cbfce11f46cf5603",
+    "language": "en",
+    "by": "Nick Palenchar",
+    "more": [
+     {
+      "title": "Follow-up review checks",
+      "text": "Follow-up code reviews show their numbered status as soon as the check is due. The same status appears on compact cards, so the review round remains clear in search and other lists.",
+      "chapters": [
+       [
+        0.01,
+        "The review is underway"
+       ],
+       [
+        8.69,
+        "The compact card"
+       ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-14T00:42:43.373Z",
+      "at": "2026-11-14T00:52:00.890Z",
+      "source": "c3fadbdb5d221885bd6b34b1e55f539dec931bb5c0192b87d4c3a58e6b131f44"
+     }
+    ]
+   },
+   "files": {
+    "2/captions.vtt": {
+     "size": 354,
+     "hash": "24a613eb8791aef6bb61d816f027a79a54932833733773119d998ba8ef10b26b"
+    },
+    "2/demo.mp4": {
+     "size": 507387,
+     "hash": "f37c79747462b976f773fb4fc1a85a82a65160d855b9c74cd8c61926061844e0"
+    },
+    "2/poster.jpg": {
+     "size": 62103,
+     "hash": "6249fec37d9164fe1447d879ea313c26bcd87a2403d36786a328f03a03bb63bf"
+    },
+    "captions.vtt": {
+     "size": 375,
+     "hash": "8e3c669e259513e48d0d5d95f4ece2b7c936b1a497c40ffef85838eb10779b9c"
+    },
+    "demo.mp4": {
+     "size": 562263,
+     "hash": "4f5b2343f3e7ac2e245ea8b8ab46ebe5a09384b4f13646d3bb1c6b667265c21a"
+    },
+    "index.html": {
+     "size": 87338,
+     "hash": "d47ead558f0f0ae51a73c4ddb294e2ea24011e88d893ac374cc5a9e58a771cdd"
+    },
+    "meta.json": {
+     "size": 1372,
+     "hash": "d37568657f36cd6008a4da55c7ba69fafb156f7db484a6d736d0ef213323f2fc"
+    },
+    "poster.jpg": {
+     "size": 64540,
+     "hash": "7aadfab87e8ce139cec6761f9a9f6ffc4b2615c581ed3c631ed57156f952ddc2"
+    }
+   }
+  },
+  "slash-menu-increase-opacity-and-use-shad-97059d": {
+   "rev": 3,
+   "machine": "Nicks-Mac-Studio",
+   "at": "2026-11-14T00:55:22.239Z",
+   "meta": {
+    "title": "Slash menus are solid now",
+    "text": "Typing a slash in a card description or the message box opens a menu: cards to link, or an agent's skills. These menus used to be almost transparent, so the text beneath them showed through and mixed with their entries. They now look like every other dropdown in Seismic: a solid surface with a border and rounded corners, so each entry reads cleanly.",
+    "chapters": [
+     [
+      0,
+      "Before: the menu lets the text show through"
+     ],
+     [
+      12.84,
+      "After: the card-link menu is solid"
+     ],
+     [
+      23.91,
+      "The skill menu too"
+     ]
+    ],
+    "pr": null,
+    "commit": {
+     "url": "https://github.com/nickpalenchar/seismic/compare/f2e06346edec1fcbb7f3ee0196d369a6b1ce3725...bae198c8af013f2bac36cfbf672329138a4b80b0",
+     "several": true
+    },
+    "first": "2026-11-14T00:53:13.186Z",
+    "at": "2026-11-14T00:53:13.186Z",
+    "source": "8299683f230edb182818bc824ed8e9d83406ff591c9003d4b08cefd02fd5e0ae",
+    "language": "en",
+    "by": "Nick Palenchar"
+   },
+   "files": {
+    "captions.vtt": {
+     "size": 649,
+     "hash": "077db5f44a851c5996f53a783ae378c7130aaf464d47da1e04db5b638a51281d"
+    },
+    "demo.mp4": {
+     "size": 1039497,
+     "hash": "ecc553dea233b63475e1119b8f187122c287324881620ba7ba59084db6e7bf5b"
+    },
+    "index.html": {
+     "size": 82424,
+     "hash": "31917fad8fea8bd456ceb46004a56f7f9fc5ae2144e9abc1deb68d67722cd6c7"
+    },
+    "meta.json": {
+     "size": 1024,
+     "hash": "bff6f9afd65b7440ceb81c2206f31f0238c29c102ecf1ca07425a9df716beb88"
+    },
+    "poster.jpg": {
+     "size": 94586,
+     "hash": "17b4805e780f7ad8fc264444f3fb53630584ee3694c0be65cf9852ba261db470"
+    }
+   }
+  }
+ },
+ "paths": {
+  "": {
+   "title": "seismic",
+   "language": "en"
+  }
+ }
+}

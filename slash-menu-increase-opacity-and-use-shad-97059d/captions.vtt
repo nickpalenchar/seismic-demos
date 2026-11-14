@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:12.232
+Typing a slash in a card description opens a menu of cards to link. Until now that menu was almost transparent, so the lines of the description beneath it showed through and mixed with its entries.
+
+00:00:13.186 --> 00:00:23.306
+Now the menu stands on the same solid surface as the app’s other dropdown menus, with their border and rounded corners. The text beneath is covered, and each card reads cleanly.
+
+00:00:24.259 --> 00:00:34.299
+The skill menu, which a slash opens in the message box, is built from the same shared menu and looks the same. Both slash menus now look like every other menu in Seismic.

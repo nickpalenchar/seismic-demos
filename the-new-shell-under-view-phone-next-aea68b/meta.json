@@ -1,0 +1,44 @@
+{
+  "title": "A new phone view: one project at a time",
+  "text": "The phone view is being rebuilt around one project at a time. A slim top bar names the project and switches it, and it stays in place when a card is open. A box shows how many agents are at work and on which cards. The project's cards follow in sections (Queued, Planned, then Parked and Done), twenty at a time. A floating bar at the bottom keeps a new card within reach of the thumb. For now the new view is a preview under ?view=phone-next, next to the current phone view.",
+  "chapters": [
+    [
+      0,
+      "One project at a time"
+    ],
+    [
+      11.68,
+      "Who is working"
+    ],
+    [
+      25.03,
+      "An open card"
+    ],
+    [
+      36.82,
+      "Sections and Load more"
+    ],
+    [
+      48.61,
+      "The floating bar"
+    ],
+    [
+      63.56,
+      "A new card"
+    ],
+    [
+      74.32,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/cb389e491aa03735c70f4a3110a76af4ba51f0e8...7513346bcb85927109371ada6ee543a6689e2e7c",
+    "several": true
+  },
+  "first": "2026-11-13T03:48:42.538Z",
+  "at": "2026-11-13T03:48:42.538Z",
+  "source": "800daad61d8d68ddded70830bf6030f56dd3a507741b27f8dc5099e7766713d5",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

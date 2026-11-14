@@ -1,0 +1,24 @@
+{
+  "title": "Distinct shapes for review severity",
+  "text": "Review counts now distinguish severity by shape as well as colour. Light bulbs, circles, squares and diamonds make the levels easier to recognize, with double diamonds for critical findings and a white exclamation mark for blockers. Existing colours are preserved in both light and dark themes.",
+  "chapters": [
+    [
+      0,
+      "Severity at a glance"
+    ],
+    [
+      11.5,
+      "The most urgent findings"
+    ],
+    [
+      23.23,
+      "Light and dark"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-13T13:57:31.280Z",
+  "at": "2026-11-13T13:57:31.280Z",
+  "source": "25df8b25558d6ee78e005c35aa677d2cf89bf98c710d33cf941c79a4d5722edb",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

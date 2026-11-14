@@ -1,0 +1,44 @@
+{
+  "title": "Card details modernized",
+  "text": "The open card view has been rebuilt on the shared design system while keeping every visual and interaction exactly as it was. You see no change when you open a card, answer a question, or reply in the conversation. This work modernizes the internal architecture so all of Seismic's views use consistent tokens and patterns, making future refinements faster and more reliable.",
+  "chapters": [
+    [
+      0,
+      "The open card"
+    ],
+    [
+      18.31,
+      "The demo player"
+    ],
+    [
+      32.9,
+      "Sharing"
+    ],
+    [
+      39.54,
+      "A question with options"
+    ],
+    [
+      53.69,
+      "A planned card and the queue"
+    ],
+    [
+      63.81,
+      "Dark mode"
+    ],
+    [
+      72.68,
+      "On the phone"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/131bf77778b5c87c66465e2e5bda29a44a76b2a7...bd70c77f956d41871aeff8fafe458a80f2ee0da4",
+    "several": true
+  },
+  "first": "2026-11-11T19:20:32.827Z",
+  "at": "2026-11-11T19:20:32.827Z",
+  "source": "4adc596c91bb1355ecc6722148570523f7d90f7b975039cc0460588626edc136",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:07.591
+This planned card asks for an error message and an account lockout. The first comparison offers the lockout as extra work.
+
+00:00:08.544 --> 00:00:20.624
+The task is edited, then the agent hands over with the lockout done. Approving the older comparison is refused. Once the changes settle, the comparison runs again and the old refusal disappears.
+
+00:00:21.577 --> 00:00:33.217
+A little later the new result is in: the card in progress now covers the planned card completely, so no follow-up is needed. Approve merge is available again, with no stale refusal beside it.
+
+00:00:34.170 --> 00:00:45.050
+Deleting either card also separates the pair. Here the planned card is deleted while merged, then restored. It returns with its original task, ready to merge afresh.

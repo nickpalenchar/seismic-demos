@@ -1,0 +1,32 @@
+{
+  "title": "Diff tab: file bars when space is tight",
+  "text": "When the Diff tab is too narrow to show the file tree next to the code, the two now stack. The changed files sit at the top in a bar that opens and closes the tree. Below it, each changed file is its own bar that opens or closes its changes, and picking a file in the tree opens its bar and scrolls to it. With enough room, the tree stays beside the diff as before.",
+  "chapters": [
+    [
+      0,
+      "The file tree on top"
+    ],
+    [
+      12.18,
+      "Every file a bar"
+    ],
+    [
+      26.89,
+      "Pick a file in the tree"
+    ],
+    [
+      32.81,
+      "Wide: tree beside the diff"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/769c79f291f4e1900f51ce5a550bddb9ddef51b0...b016c7bd22a628d79b95d3fd3a2ad73cab3d6b83",
+    "several": true
+  },
+  "first": "2026-11-13T02:56:17.769Z",
+  "at": "2026-11-13T02:56:17.769Z",
+  "source": "9feb870cb762ea284f063324823e9e6efb3350f87d42aa121791518c92d6bb78",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

@@ -1,0 +1,22 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:17.711
+The open card is the next part of the interface moved from the old stylesheet onto Tailwind, on frost's glass and colours. It should look and behave exactly as before. A card with a demo unfolds from the canvas into the frosted pane, with its title, state line, branch, and the row of decisions at its foot.
+
+00:00:18.662 --> 00:00:30.782
+The demo player keeps its buttons over the video: zoom, comment here, and the big play button until it starts. A chapter jumps to its place, and the magnifier zooms the video over the dimmed window.
+
+00:00:33.246 --> 00:00:37.086
+Share opens the export choices on the right of the demo's line, as before.
+
+00:00:39.892 --> 00:00:53.092
+An agent's question sits in its yellow frame in the conversation. The option the agent would take carries its tag. The options work from the keyboard too: Tab moves to one, Enter picks it, and Escape closes the card.
+
+00:00:54.044 --> 00:01:01.364
+A planned card keeps its editable title and text field. A card in the queue shows what it waits for in its own grey frame.
+
+00:01:04.161 --> 00:01:10.161
+In dark mode the same parts take frost's dark glass: the pane, the frames and the demo player.
+
+00:01:13.034 --> 00:01:24.834
+On the phone, the card fills the screen, with Seismic's full screen button over the video. Every part was compared with the version on main, element by element, in light and dark, on desktop and phone.

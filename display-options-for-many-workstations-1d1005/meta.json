@@ -1,0 +1,39 @@
+{
+  "title": "Many workstations fit the status bar",
+  "text": "With many workstations on one machine, the row of dots in the status bar used to grow wider and wider. Now six to twelve workstations go into two rows and thirteen to eighteen into three, so the pill keeps the bar's height. From nineteen on, a single bar shows how many workstations are at work, waiting for the owner or free, as coloured shares. Hovering the pill still lists every workstation and its card.",
+  "chapters": [
+    [
+      0,
+      "A few workstations"
+    ],
+    [
+      13.47,
+      "Two rows from six on"
+    ],
+    [
+      24.55,
+      "Three rows from thirteen on"
+    ],
+    [
+      36.18,
+      "A bar from nineteen on"
+    ],
+    [
+      55.06,
+      "The list stays complete"
+    ],
+    [
+      59.45,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/2f4c533d62f9280cb36a11f5c3704708a0eb9480"
+  },
+  "first": "2026-11-13T13:00:30.160Z",
+  "at": "2026-11-13T13:00:30.160Z",
+  "source": "9117adf458364a23887462e1b9e729a65fe5a565eb2a1e3747969163cbb52cab",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

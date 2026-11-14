@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:12.871
+The status bar shows a dot per workstation, in the colour of the card it holds: blue while its agent works, orange while it waits for the owner, an empty ring while free. With four workstations they stand in one row.
+
+00:00:13.824 --> 00:00:23.944
+From six workstations up to twelve, the dots go into two rows, so the pill keeps the height of the status bar instead of growing wider and wider. Here there are nine.
+
+00:00:24.897 --> 00:00:35.577
+From thirteen up to eighteen, three rows of smaller dots. These are fifteen workstations, read left to right and top to bottom, in the same order as the list that opens from the pill.
+
+00:00:36.535 --> 00:00:54.455
+With nineteen or more, single dots get too small to tell apart, so the pill shows one bar instead. Each colour takes a share as wide as its workstations are many: those at work first, then those waiting for the owner, and the free ones as the empty part at the end. So the ratio of busy to free reads at a glance.
+
+00:00:55.408 --> 00:00:58.848
+Hovering the pill still lists every workstation, with the card in it.
+
+00:00:59.804 --> 00:01:05.244
+One row up to five, two rows up to twelve, three up to eighteen, and a bar beyond that.

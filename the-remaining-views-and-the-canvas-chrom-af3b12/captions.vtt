@@ -1,0 +1,34 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:14.391
+The last of Seismic's views have moved off the old hand-written stylesheet onto Tailwind, on frost's shared tokens. Nothing is meant to look different: these are the card faces in every state, the plans, the groups and the minimap.
+
+00:00:15.346 --> 00:00:20.546
+Under the pointer a card lifts, shows its play button, and lights the cards it waits for.
+
+00:00:21.498 --> 00:00:32.258
+Closer in, the faces show their whole text. Zoomed far out, titles and state lines are drawn larger so they still read, and the blur behind the cards drops while the canvas moves.
+
+00:00:33.211 --> 00:00:38.571
+A right-click on a card opens the ring of groups and canvases over a frosted halo.
+
+00:00:39.584 --> 00:00:47.024
+An open card that waits in the queue shows its chain: the card it waits for, itself ringed in green, and the queue around it.
+
+00:00:50.006 --> 00:00:54.966
+A plan opens its sheet with the workstreams, and its doc reads like a document.
+
+00:00:56.471 --> 00:01:00.391
+Seismic's own chat sheet, with the earlier chats sliding out from the left.
+
+00:01:01.730 --> 00:01:07.410
+The controls help, and the dialog for a new canvas with its icons, both on frost's glass.
+
+00:01:08.380 --> 00:01:13.660
+The archive is a full page: a timeline per day, each archived card as a small card.
+
+00:01:15.847 --> 00:01:19.767
+In dark mode the same glass: the cards, the plan and the bars.
+
+00:01:20.720 --> 00:01:33.880
+The phone view uses the same parts, in light and in dark. Each part was compared with the version before it, element by element, in both themes, on desktop and phone; panning a hundred cards keeps the same frame rate.

@@ -1,0 +1,28 @@
+{
+  "title": "Merges in planning show both cards, joined",
+  "text": "While an agent plans the merge of two cards, both cards now stay on the canvas joined by a solid purple line with an arrowhead at each end and a solid merge mark on it. Each card shows the merge icon and says its own state followed by the merge status, such as \"Planned · Planning merge\", in purple. Once the merged card is ready, both cards read \"Merged · review\" after their state and stay joined. Before, the link was faint and only the left card showed a grey status.",
+  "chapters": [
+    [
+      0,
+      "Before: a faint link"
+    ],
+    [
+      14.08,
+      "After: planning merge"
+    ],
+    [
+      29.95,
+      "Ready for review"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/d65c8e1d33384beda11f143a7fe630049b87af31...1b7c6de43844a869da5762fb40614f1c2bfdd644",
+    "several": true
+  },
+  "first": "2026-11-12T13:22:51.229Z",
+  "at": "2026-11-12T13:22:51.229Z",
+  "source": "e45c194af00f0f662b145678eee51317ce540d9597d9503d12c1e42b7f62de3f",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

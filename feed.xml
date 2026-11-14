@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">seismic</title>
+<subtitle type="text">Videos and analyses of changes, the newest first.</subtitle>
+<link rel="self" type="application/atom+xml" href="http://demos.seismic.im/feed.xml"/>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/"/>
+<id>http://demos.seismic.im/</id>
+<updated>2026-11-14T00:53:13.186Z</updated>
+<author><name>seismic</name></author>
+<generator uri="https://seismic.im">Seismic</generator>
+<entry xml:lang="en">
+<title type="text">Slash menus are solid now</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/slash-menu-increase-opacity-and-use-shad-97059d/"/>
+<id>http://demos.seismic.im/slash-menu-increase-opacity-and-use-shad-97059d/</id>
+<published>2026-11-14T00:53:13.186Z</published>
+<updated>2026-11-14T00:53:13.186Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">Typing a slash in a card description or the message box opens a menu: cards to link, or an agent's skills.</summary>
+<content type="html">&lt;p&gt;Typing a slash in a card description or the message box opens a menu: cards to link, or an agent's skills. These menus used to be almost transparent, so the text beneath them showed through and mixed with their entries. They now look like every other dropdown in Seismic: a solid surface with a border and rounded corners, so each entry reads cleanly.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Follow-up review status</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/on-follow-up-reviews-the-status-should-g-32e14d/"/>
+<id>http://demos.seismic.im/on-follow-up-reviews-the-status-should-g-32e14d/</id>
+<published>2026-11-14T00:52:00.890Z</published>
+<updated>2026-11-14T00:52:00.890Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">When a follow-up code review runs, the card shows its numbered review check in teal with an activity animation.</summary>
+<content type="html">&lt;p&gt;When a follow-up code review runs, the card shows its numbered review check in teal with an activity animation. This makes it clear that the reviewer is still checking the work.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Warning toasts in yellow, with buttons below the text</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/not-started-yet-toast-use-yellow-styling-d40feb/"/>
+<id>http://demos.seismic.im/not-started-yet-toast-use-yellow-styling-d40feb/</id>
+<published>2026-11-13T23:40:14.093Z</published>
+<updated>2026-11-13T23:40:14.093Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">When you start a card that has to wait for another one, Seismic shows a warning that it is queued and hasn't started yet.</summary>
+<content type="html">&lt;p&gt;When you start a card that has to wait for another one, Seismic shows a warning that it is queued and hasn't started yet. That warning used to be a brownish box with its buttons squeezed in beside the text, so the text wrapped into a narrow column. Now it uses the same yellow as the other warnings in the app: the text runs across the full width, and 'Go to card' and 'Dismiss' sit below it.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Newest plans first, snoozed plans last</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/sort-planned-by-creation-date-on-mobile-562149/"/>
+<id>http://demos.seismic.im/sort-planned-by-creation-date-on-mobile-562149/</id>
+<published>2026-11-13T23:38:58.596Z</published>
+<updated>2026-11-13T23:38:58.596Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">The mobile Planned list shows active tasks first and snoozed tasks at the end, newest created first within each group.</summary>
+<content type="html">&lt;p&gt;The mobile Planned list shows active tasks first and snoozed tasks at the end, newest created first within each group. This order also applies across Load more, so newer snoozed tasks cannot push active work onto a later page.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Needs you hides the floating bar on the phone</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/phone-view-hide-the-floating-bar-on-the-b2afa5/"/>
+<id>http://demos.seismic.im/phone-view-hide-the-floating-bar-on-the-b2afa5/</id>
+<published>2026-11-13T22:57:01.904Z</published>
+<updated>2026-11-13T22:57:01.904Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">In the phone view, the Needs you page is a full page, and the floating bar along the bottom now steps aside while it is open.</summary>
+<content type="html">&lt;p&gt;In the phone view, the Needs you page is a full page, and the floating bar along the bottom now steps aside while it is open. Closing the page with its X or Back brings the bar back. This matches how chat, search and open cards already behave.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Distinct shapes for review severity</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/review-item-icons-should-use-distinct-sh-be6aa3/"/>
+<id>http://demos.seismic.im/review-item-icons-should-use-distinct-sh-be6aa3/</id>
+<published>2026-11-13T13:57:31.280Z</published>
+<updated>2026-11-13T13:57:31.280Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">Review counts now distinguish severity by shape as well as colour.</summary>
+<content type="html">&lt;p&gt;Review counts now distinguish severity by shape as well as colour. Light bulbs, circles, squares and diamonds make the levels easier to recognize, with double diamonds for critical findings and a white exclamation mark for blockers. Existing colours are preserved in both light and dark themes.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Manual code reviews on pull-request projects</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/code-review-buttons-missing-on-pr-projec-29b23b/"/>
+<id>http://demos.seismic.im/code-review-buttons-missing-on-pr-projec-29b23b/</id>
+<published>2026-11-13T13:02:33.142Z</published>
+<updated>2026-11-13T13:02:33.142Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">Projects that send approved work out as a pull request can have each card's work code reviewed too.</summary>
+<content type="html">&lt;p&gt;Projects that send approved work out as a pull request can have each card's work code reviewed too. With code reviews set to &amp;quot;Manually, at handover&amp;quot;, a purple &amp;quot;Start code review&amp;quot; button appears next to &amp;quot;Approve (PR)&amp;quot; when the agent hands over. A click starts the review before the pull request opens, and while it runs, approving warns that the review is still going.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Many workstations fit the status bar</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/display-options-for-many-workstations-1d1005/"/>
+<id>http://demos.seismic.im/display-options-for-many-workstations-1d1005/</id>
+<published>2026-11-13T13:00:30.160Z</published>
+<updated>2026-11-13T13:00:30.160Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">With many workstations on one machine, the row of dots in the status bar used to grow wider and wider.</summary>
+<content type="html">&lt;p&gt;With many workstations on one machine, the row of dots in the status bar used to grow wider and wider. Now six to twelve workstations go into two rows and thirteen to eighteen into three, so the pill keeps the bar's height. From nineteen on, a single bar shows how many workstations are at work, waiting for the owner or free, as coloured shares. Hovering the pill still lists every workstation and its card.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Phone: menu sheet and a Needs you page across projects</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/menu-sheet-and-needs-you-page-1b1306/"/>
+<id>http://demos.seismic.im/menu-sheet-and-needs-you-page-1b1306/</id>
+<published>2026-11-13T12:18:24.068Z</published>
+<updated>2026-11-13T12:18:24.068Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">On the phone, the menu opens as a full-height sheet with Needs you and your projects, and tapping a project switches the whole view to it.</summary>
+<content type="html">&lt;p&gt;On the phone, the menu opens as a full-height sheet with Needs you and your projects, and tapping a project switches the whole view to it. The bell opens a Needs you page that gathers what waits in every project, each entry naming its project and offering one-tap replies. Opening a card from another project switches the top bar to it; browser Back returns to the page and the card's cross lands on that project's list.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Phone: full-page chat and card search</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/chat-page-and-search-page-5629f7/"/>
+<id>http://demos.seismic.im/chat-page-and-search-page-5629f7/</id>
+<published>2026-11-13T04:05:15.880Z</published>
+<updated>2026-11-13T04:05:15.880Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">On the phone, Seismic's chat is now a full page instead of a sliding panel, with chat history, the field and the microphone.</summary>
+<content type="html">&lt;p&gt;On the phone, Seismic's chat is now a full page instead of a sliding panel, with chat history, the field and the microphone. A new search page finds the project's cards by title or code. Back from a found card returns to the same results.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Merges update themselves when a card changes</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/merged-proposals-should-update-when-task-adf425/"/>
+<id>http://demos.seismic.im/merged-proposals-should-update-when-task-adf425/</id>
+<published>2026-11-13T03:52:31.434Z</published>
+<updated>2026-11-13T03:52:31.434Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">When two cards are being merged and either changes before the merge is approved (an edit, or the in-progress card's agent handing over), the comparison now runs again by itself.</summary>
+<content type="html">&lt;p&gt;When two cards are being merged and either changes before the merge is approved (an edit, or the in-progress card's agent handing over), the comparison now runs again by itself. While it runs, the previous result stays visible but dimmed, and approval waits for the new result. Before, approving refused with a message to separate the cards and merge them again by hand.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">A new phone view: one project at a time</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/the-new-shell-under-view-phone-next-aea68b/"/>
+<id>http://demos.seismic.im/the-new-shell-under-view-phone-next-aea68b/</id>
+<published>2026-11-13T03:48:42.538Z</published>
+<updated>2026-11-13T03:48:42.538Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">The phone view is being rebuilt around one project at a time.</summary>
+<content type="html">&lt;p&gt;The phone view is being rebuilt around one project at a time. A slim top bar names the project and switches it, and it stays in place when a card is open. A box shows how many agents are at work and on which cards. The project's cards follow in sections (Queued, Planned, then Parked and Done), twenty at a time. A floating bar at the bottom keeps a new card within reach of the thumb. For now the new view is a preview under ?view=phone-next, next to the current phone view.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Switches sized for a finger on touch screens</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/share-on-approval-toggle-should-switch-o-bc2b96/"/>
+<id>http://demos.seismic.im/share-on-approval-toggle-should-switch-o-bc2b96/</id>
+<published>2026-11-13T03:00:25.700Z</published>
+<updated>2026-11-13T03:00:25.700Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">On a phone, the &quot;Share on approval&quot; switch under the Approve button was the size made for a mouse pointer, so a thumb often missed it.</summary>
+<content type="html">&lt;p&gt;On a phone, the &amp;quot;Share on approval&amp;quot; switch under the Approve button was the size made for a mouse pointer, so a thumb often missed it. On touch screens, every on/off switch is now larger and its whole row, the words included, takes the tap. A tap that lands a little beside the switch now flips it at the first try. On a computer nothing changes.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Diff tab: file bars when space is tight</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/card-diff-tab-file-tree-and-files-collap-23c4ca/"/>
+<id>http://demos.seismic.im/card-diff-tab-file-tree-and-files-collap-23c4ca/</id>
+<published>2026-11-13T02:56:17.769Z</published>
+<updated>2026-11-13T02:56:17.769Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">When the Diff tab is too narrow to show the file tree next to the code, the two now stack.</summary>
+<content type="html">&lt;p&gt;When the Diff tab is too narrow to show the file tree next to the code, the two now stack. The changed files sit at the top in a bar that opens and closes the tree. Below it, each changed file is its own bar that opens or closes its changes, and picking a file in the tree opens its bar and scrolls to it. With enough room, the tree stays beside the diff as before.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Open cards keep clear of side sheets, the menu and the inbox</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/make-chat-usable-from-the-top-bar-while-58f7c8/"/>
+<id>http://demos.seismic.im/make-chat-usable-from-the-top-bar-while-58f7c8/</id>
+<published>2026-11-13T02:46:55.521Z</published>
+<updated>2026-11-13T02:46:55.521Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">An open card no longer hides the Chat, Needs you, Agent work or project settings sheets: it narrows to fit beside them.</summary>
+<content type="html">&lt;p&gt;An open card no longer hides the Chat, Needs you, Agent work or project settings sheets: it narrows to fit beside them. It also never covers the left menu or the inbox's list, even when these are opened or pinned while the card is already open. On a window too narrow for all of them, the sheet lies over the card's right edge and stays fully usable.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Plan cards no longer share on approval by default</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/plan-cards-should-not-share-by-default-o-6338d8/"/>
+<id>http://demos.seismic.im/plan-cards-should-not-share-by-default-o-6338d8/</id>
+<published>2026-11-13T02:44:19.290Z</published>
+<updated>2026-11-13T02:44:19.290Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">On a plan's cards, approving no longer publishes the demo to the team's demo site unless the owner has ticked &quot;Share on approval&quot;.</summary>
+<content type="html">&lt;p&gt;On a plan's cards, approving no longer publishes the demo to the team's demo site unless the owner has ticked &amp;quot;Share on approval&amp;quot;. Other cards behave as before.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Seismic's remaining views on Tailwind</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/the-remaining-views-and-the-canvas-chrom-af3b12/"/>
+<id>http://demos.seismic.im/the-remaining-views-and-the-canvas-chrom-af3b12/</id>
+<published>2026-11-13T02:28:31.386Z</published>
+<updated>2026-11-13T02:28:31.386Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">The last parts of Seismic that still used the old hand-written stylesheet now use the same component styling as the rest of the app: card faces, plans, the canvas's rings and hints, the queue, the archive, the plan sheet, the merge view, th</summary>
+<content type="html">&lt;p&gt;The last parts of Seismic that still used the old hand-written stylesheet now use the same component styling as the rest of the app: card faces, plans, the canvas's rings and hints, the queue, the archive, the plan sheet, the merge view, the chats and the dialogs. Nothing is meant to look different. The point is one consistent, maintainable styling system, in light and dark, on desktop and phone. This tour shows each of those views as it looks now.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Top bar stays usable while a card is open</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/new-card-creation-should-not-blur-top-na-cc33fb/"/>
+<id>http://demos.seismic.im/new-card-creation-should-not-blur-top-na-cc33fb/</id>
+<published>2026-11-13T01:11:01.748Z</published>
+<updated>2026-11-13T01:11:01.748Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">Opening or creating a card used to dim and blur the whole screen, including the top bar.</summary>
+<content type="html">&lt;p&gt;Opening or creating a card used to dim and blur the whole screen, including the top bar. Now only the canvas below the bar dims. The menu, search, help, chat and user buttons stay sharp and clickable.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Cards that could not land say so</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/show-file-conflict-status-on-not-landed-0e6caa/"/>
+<id>http://demos.seismic.im/show-file-conflict-status-on-not-landed-0e6caa/</id>
+<published>2026-11-12T13:24:18.935Z</published>
+<updated>2026-11-12T13:24:18.935Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">When approved work cannot land because the main checkout has uncommitted changes to the same files, its card now reads &quot;Not landed (file conflict)&quot; instead of &quot;Demo ready&quot;.</summary>
+<content type="html">&lt;p&gt;When approved work cannot land because the main checkout has uncommitted changes to the same files, its card now reads &amp;quot;Not landed (file conflict)&amp;quot; instead of &amp;quot;Demo ready&amp;quot;. It shows that way on the canvas, in Needs you and at the top of the opened card, so it is clear at a glance that the card needs you to fold those changes in.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Merges in planning show both cards, joined</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/merge-proposals-should-show-both-cards-c-6a81be/"/>
+<id>http://demos.seismic.im/merge-proposals-should-show-both-cards-c-6a81be/</id>
+<published>2026-11-12T13:22:51.229Z</published>
+<updated>2026-11-12T13:22:51.229Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">While an agent plans the merge of two cards, both cards now stay on the canvas joined by a solid purple line with an arrowhead at each end and a solid merge mark on it.</summary>
+<content type="html">&lt;p&gt;While an agent plans the merge of two cards, both cards now stay on the canvas joined by a solid purple line with an arrowhead at each end and a solid merge mark on it. Each card shows the merge icon and says its own state followed by the merge status, such as &amp;quot;Planned · Planning merge&amp;quot;, in purple. Once the merged card is ready, both cards read &amp;quot;Merged · review&amp;quot; after their state and stay joined. Before, the link was faint and only the left card showed a grey status.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Running code reviews count as at work</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/at-work-count-should-include-reviewing-a-5a047a/"/>
+<id>http://demos.seismic.im/at-work-count-should-include-reviewing-a-5a047a/</id>
+<published>2026-11-12T13:05:50.255Z</published>
+<updated>2026-11-12T13:05:50.255Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">The Workstations pill at the bottom of the canvas says how many agents are at work.</summary>
+<content type="html">&lt;p&gt;The Workstations pill at the bottom of the canvas says how many agents are at work. A card whose code review agent was busy used to count as idle there. Now the reviewing agent counts while it actually works, and drops out again once the review is done or paused for a restart.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Larger pause marks</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/pause-icons-should-be-larger-in-circles-f0e586/"/>
+<id>http://demos.seismic.im/pause-icons-should-be-larger-in-circles-f0e586/</id>
+<published>2026-11-12T12:44:00.900Z</published>
+<updated>2026-11-12T12:44:00.900Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">The pause symbol shown on a workstation held for restart is now as large as the circles beside it, so the row reads evenly.</summary>
+<content type="html">&lt;p&gt;The pause symbol shown on a workstation held for restart is now as large as the circles beside it, so the row reads evenly.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">View switcher clears the canvas tabs</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/center-view-switcher-overlaps-canvas-swi-3b2094/"/>
+<id>http://demos.seismic.im/center-view-switcher-overlaps-canvas-swi-3b2094/</id>
+<published>2026-11-12T12:40:07.591Z</published>
+<updated>2026-11-12T12:40:07.591Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">On medium-width windows the Canvas | Parked | Table switcher used to sit in the centre and overlap the canvas tabs at the bottom right.</summary>
+<content type="html">&lt;p&gt;On medium-width windows the Canvas | Parked | Table switcher used to sit in the centre and overlap the canvas tabs at the bottom right. It now sits at the left, one row above the bottom row, stays on top of full-page views like Parked, and shrinks to icons for the views not showing when space is tight.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Cards the chat creates show as cards</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/chat-should-embed-created-cards-in-separ-4d5dc9/"/>
+<id>http://demos.seismic.im/chat-should-embed-created-cards-in-separ-4d5dc9/</id>
+<published>2026-11-12T12:16:19.035Z</published>
+<updated>2026-11-12T12:16:19.035Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">When you ask Seismic's chat for a new task or idea, the card it creates now shows in its own bubble under the reply, with the card's live cover: its state, labels and progress, as the canvas shows them.</summary>
+<content type="html">&lt;p&gt;When you ask Seismic's chat for a new task or idea, the card it creates now shows in its own bubble under the reply, with the card's live cover: its state, labels and progress, as the canvas shows them. One click opens it. Before, the chat only said in words that it had created the card, and you had to find it on the canvas.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Canvas icons: every emoji, more icons, in colour</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/canvas-icons-emoji-picker-and-color-sele-ba4070/"/>
+<id>http://demos.seismic.im/canvas-icons-emoji-picker-and-color-sele-ba4070/</id>
+<published>2026-11-11T19:27:42.429Z</published>
+<updated>2026-11-11T19:27:42.429Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">A canvas can now carry any emoji or one of about three hundred Lucide icons, instead of a short fixed list.</summary>
+<content type="html">&lt;p&gt;A canvas can now carry any emoji or one of about three hundred Lucide icons, instead of a short fixed list. The canvas dialog opens on Icons, which you can search by name and draw in one of ten colours. The Emoji tab is a full emoji picker with categories, search and skin tones. The chosen icon shows in its colour on the canvas tabs.&lt;/p&gt;</content>
+</entry>
+<entry xml:lang="en">
+<title type="text">Card details modernized</title>
+<link rel="alternate" type="text/html" href="http://demos.seismic.im/the-remaining-views-and-the-canvas-chrom-e7d484/"/>
+<id>http://demos.seismic.im/the-remaining-views-and-the-canvas-chrom-e7d484/</id>
+<published>2026-11-11T19:20:32.827Z</published>
+<updated>2026-11-11T19:20:32.827Z</updated>
+<author><name>Nick Palenchar</name></author>
+<summary type="text">The open card view has been rebuilt on the shared design system while keeping every visual and interaction exactly as it was.</summary>
+<content type="html">&lt;p&gt;The open card view has been rebuilt on the shared design system while keeping every visual and interaction exactly as it was. You see no change when you open a card, answer a question, or reply in the conversation. This work modernizes the internal architecture so all of Seismic's views use consistent tokens and patterns, making future refinements faster and more reliable.&lt;/p&gt;</content>
+</entry>
+</feed>

@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:08.951
+In the new phone view, the floating bar has a chat button for the project in view. Until now Seismic's conversation was a panel that slid up over the list.
+
+00:00:09.905 --> 00:00:22.665
+A tap opens the conversation as a full page: the chat history and a new chat at the top, the earlier messages, the field, and the microphone below, which is held to talk. The bar steps aside, and the X closes the page.
+
+00:00:24.660 --> 00:00:33.500
+The search button opens a page of its own over the cards of this project. Typing a few letters of a title, or a card code, lists the matching cards.
+
+00:00:34.453 --> 00:00:45.173
+A tap on a result opens the card. Back returns to the search with the same query and results, so the next card is one tap away. The X closes the search and returns to the list.
+
+00:00:46.125 --> 00:00:52.125
+So Seismic's chat and the card search are now full pages of the phone view, each one tap from the floating bar.

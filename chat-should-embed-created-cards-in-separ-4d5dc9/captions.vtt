@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:10.710
+Until now, when Seismic’s chat created a task, all it left was one more line of text, and the card itself had to be found on the canvas. Here the owner asks for a new task in the chat.
+
+00:00:11.662 --> 00:00:24.422
+Seismic still confirms in words. Below that, the card it created stands in a bubble of its own, set apart from the conversation: “Created a task”, with the card’s live cover, its state and labels as the canvas shows them.
+
+00:00:25.375 --> 00:00:31.255
+An idea gets the same, labelled “Created an idea”. Each card a command makes gets its own bubble.
+
+00:00:33.484 --> 00:00:42.004
+A click on the cover opens that card right away. It is the same bubble a card’s own conversation already used for follow-ups, now shared by both.

@@ -1,0 +1,27 @@
+{
+  "title": "Needs you hides the floating bar on the phone",
+  "text": "In the phone view, the Needs you page is a full page, and the floating bar along the bottom now steps aside while it is open. Closing the page with its X or Back brings the bar back. This matches how chat, search and open cards already behave.",
+  "chapters": [
+    [
+      0.01,
+      "The bar on the home list"
+    ],
+    [
+      6.24,
+      "Needs you is a full page"
+    ],
+    [
+      13.4,
+      "Closing brings it back"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/851bb1c0372ef42dd387eb2ebc1f5b723f322ef6"
+  },
+  "first": "2026-11-13T22:57:01.904Z",
+  "at": "2026-11-13T22:57:01.904Z",
+  "source": "d7caa286a5eecaa63e17621eff4c942b63752af1ad142aab32f0a5d795d21e7a",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

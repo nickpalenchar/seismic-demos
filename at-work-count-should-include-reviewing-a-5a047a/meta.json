@@ -1,0 +1,28 @@
+{
+  "title": "Running code reviews count as at work",
+  "text": "The Workstations pill at the bottom of the canvas says how many agents are at work. A card whose code review agent was busy used to count as idle there. Now the reviewing agent counts while it actually works, and drops out again once the review is done or paused for a restart.",
+  "chapters": [
+    [
+      0,
+      "Two cards waiting, none at work"
+    ],
+    [
+      7.59,
+      "A code review starts"
+    ],
+    [
+      24.17,
+      "The review is done"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/2d4921d25efdef4d98ebd4810794688821e63353...d65c8e1d33384beda11f143a7fe630049b87af31",
+    "several": true
+  },
+  "first": "2026-11-12T13:05:50.255Z",
+  "at": "2026-11-12T13:05:50.255Z",
+  "source": "760716950b2625a2844df602136730a6986fcdc36a15ae28d90a78a0aa296c11",
+  "language": "en",
+  "by": "Nick Palenchar"
+}
