@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:13.271
+Starting a card that waits for another one shows a warning: it is queued, not started yet. Until now that warning was a brownish box, with its buttons squeezed in beside the text, so the text wrapped into a narrow column.
+
+00:00:14.224 --> 00:00:22.984
+Now the warning takes the yellow of the warning callouts. Its text runs across the full width, and Go to card and Dismiss sit below it, on the right.

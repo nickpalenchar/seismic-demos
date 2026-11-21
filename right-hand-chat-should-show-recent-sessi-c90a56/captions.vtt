@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:12.031
+The last chat in this project was opened an hour ago. Open the right-hand dock, and Seismic starts with an empty conversation. That happens whenever it has been more than twenty minutes since the last opening.
+
+00:00:12.987 --> 00:00:27.427
+The five most recent sessions sit just above the message field. Each button is centered and sized to its name and date. Select the checkout session to bring its messages back. The shortcuts clear as soon as that conversation opens.
+
+00:00:28.380 --> 00:00:35.060
+Close the dock and reopen it within twenty minutes. The checkout conversation is still selected, ready to carry on.
+
+00:00:36.015 --> 00:00:44.055
+Choose New chat yourself and the composer opens empty. Recent chats are offered only when the dock starts fresh after the timeout.
+
+00:00:45.011 --> 00:00:51.931
+Open the dock after another timeout, and the shortcuts are offered again. Start typing and they clear immediately.

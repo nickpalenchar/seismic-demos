@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:07.271
+This project has a single task. A second repository is about to join it, one that holds work nobody committed yet.
+
+00:00:08.223 --> 00:00:14.383
+Once the repository is added, Seismic looks at its working tree and finds modified and new files.
+
+00:00:15.335 --> 00:00:25.855
+Seismic proposes a task to finish the changes. It lists the affected files, and its saved patch includes new and binary files too, even when the agent works on another machine.
+
+00:00:26.808 --> 00:00:36.848
+The description stays short and editable. The captured changes are saved separately, behind this fold in the conversation, and supplied in full to the agent when it starts.
+
+00:00:37.805 --> 00:00:43.565
+In the inbox, both suggestions are identified as proposed by Seismic and use the same appearance.
+
+00:00:44.519 --> 00:00:56.319
+A repository with unfinished work inside a submodule gets no completion proposal. A parent repository patch cannot carry those changes, so Seismic avoids offering work the agent could not recover.

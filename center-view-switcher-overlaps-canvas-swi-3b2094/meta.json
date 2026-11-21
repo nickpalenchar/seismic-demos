@@ -1,0 +1,16 @@
+{
+  "kind": "html",
+  "title": "View switcher clears the canvas tabs",
+  "text": "On medium-width windows the Canvas | Parked | Table switcher used to sit in the centre and overlap the canvas tabs at the bottom right. It now sits at the left, one row above the bottom row, stays on top of full-page views like Parked, and shrinks to icons for the views not showing when space is tight.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/ff5feba1e412501880c15eddd8c22d38fa453d2a...fa4350c0f2a1fb6e9fa51c8e272ce13eaceccf67",
+    "several": true
+  },
+  "first": "2026-11-12T12:40:07.591Z",
+  "at": "2026-11-12T12:40:07.591Z",
+  "source": "5843ae2261d697b70112755a121055401ba4856fd9a916057789eaee2a973795",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

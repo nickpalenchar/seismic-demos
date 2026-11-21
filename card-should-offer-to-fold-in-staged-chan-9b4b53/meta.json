@@ -1,0 +1,32 @@
+{
+  "title": "Staged changes in the way of a landing can be folded into the card",
+  "text": "When approved work can't land because the main checkout has uncommitted changes to the same files, the card offers to fold those changes into its branch. Changes that were only staged used to be missed, so the card offered nothing even though the message promised it would. Now staged changes, staged deletions included, are named on the card, and the card shows as needing you. The failure appears as a yellow warning that stays on screen, with a Go to card button to get back to the card.",
+  "chapters": [
+    [
+      0,
+      "Before: the toast promises a fold that never comes"
+    ],
+    [
+      11.76,
+      "Before: no offer on the card"
+    ],
+    [
+      21.97,
+      "After: a yellow warning with Go to card"
+    ],
+    [
+      36.6,
+      "After: the card offers to fold the change in"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/a6f1e70362092001fa74c61587c8a2a0fe1892f3...46388995d687e0ec0b2794935271e5bb272c89f0",
+    "several": true
+  },
+  "first": "2026-11-15T00:02:28.441Z",
+  "at": "2026-11-15T00:02:28.441Z",
+  "source": "81f107661d64d860bdd472d1fa686f1045237bc6a0314ff5bce2a00a7522dd18",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

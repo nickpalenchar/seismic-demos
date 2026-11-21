@@ -1,0 +1,44 @@
+{
+  "title": "Working lines and dots move without repainting",
+  "text": "Cards with an agent at work show a line drawing itself at their foot, and the workstation dots in the status bar pulse. These animations used to make the browser repaint the card on every frame, which made cards shimmer on a zoomed-out canvas. They now only slide and fade, which the browser does without repainting, and they look exactly as before.",
+  "chapters": [
+    [
+      0,
+      "Before: repainted every frame"
+    ],
+    [
+      20.83,
+      "After: nothing repaints"
+    ],
+    [
+      31.11,
+      "They look the same"
+    ],
+    [
+      40.62,
+      "Zoomed out"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-14T16:12:35.874Z",
+  "at": "2026-11-14T16:12:35.874Z",
+  "source": "1e629dba6986fc609f62cce6209a1cb3a4a7da4e35cdc8e24bd2c7312e25df9f",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Workstation dots pulse faster, with less rest",
+      "text": "The dots in the status bar for workstations with an agent at work now pulse a third faster and rest at full colour only briefly before fading again, so the activity reads at a glance.",
+      "chapters": [
+        [
+          0,
+          "A livelier pulse"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-14T15:58:30.790Z",
+      "at": "2026-11-14T16:12:35.874Z",
+      "source": "7d0467137e5c606abbc2b9c487277b301616371f9e496a12beb3711fdf146132"
+    }
+  ]
+}

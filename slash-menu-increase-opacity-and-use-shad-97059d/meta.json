@@ -1,0 +1,28 @@
+{
+  "title": "Slash menus are solid now",
+  "text": "Typing a slash in a card description or the message box opens a menu: cards to link, or an agent's skills. These menus used to be almost transparent, so the text beneath them showed through and mixed with their entries. They now look like every other dropdown in Seismic: a solid surface with a border and rounded corners, so each entry reads cleanly.",
+  "chapters": [
+    [
+      0,
+      "Before: the menu lets the text show through"
+    ],
+    [
+      12.84,
+      "After: the card-link menu is solid"
+    ],
+    [
+      23.91,
+      "The skill menu too"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/f2e06346edec1fcbb7f3ee0196d369a6b1ce3725...bae198c8af013f2bac36cfbf672329138a4b80b0",
+    "several": true
+  },
+  "first": "2026-11-14T00:53:13.186Z",
+  "at": "2026-11-14T00:53:13.186Z",
+  "source": "8299683f230edb182818bc824ed8e9d83406ff591c9003d4b08cefd02fd5e0ae",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

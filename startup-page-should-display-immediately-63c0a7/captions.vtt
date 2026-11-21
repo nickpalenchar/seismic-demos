@@ -1,0 +1,25 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:12.391
+On a first start, Seismic checks which coding agents are installed and signed in. Until now the setup page showed only “Checking” until every check had finished, so the slowest agent held up the whole page.
+
+00:00:15.197 --> 00:00:26.157
+Now the page is there at once. Each agent checks on its own, with a spinner and “Checking” beside its name. Claude Code was not touched, so it is ticked by itself the moment its check finds it ready.
+
+00:00:27.112 --> 00:00:42.472
+git, which every agent needs, is slow on this machine. That no longer holds Claude Code back: its block is already there, while git’s block appears only once its own check answers. Only then does Claude Code count as Ready, since it commits through git.
+
+00:00:43.427 --> 00:00:50.747
+Antigravity is ticked while its check runs. The check finds it signed out, and the box stays on, with the steps to sign in below.
+
+00:00:51.700 --> 00:01:02.860
+Each agent has its own Check again, and so has git. Checking Claude Code again runs only its own check, with its spinner back beside its name, while the check of Codex carries on.
+
+00:01:03.812 --> 00:01:10.172
+Codex is still being checked. It is ticked, and unticked again, before its check has finished.
+
+00:01:11.125 --> 00:01:16.325
+When the check reports Codex ready, its box stays off, as that was the choice made.
+
+00:01:17.277 --> 00:01:28.317
+The setup page no longer waits for the slowest check: each agent and git show their own result, ready agents are picked by themselves, each can be checked again alone, and a choice made by hand is always kept.

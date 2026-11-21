@@ -1,0 +1,16 @@
+{
+  "kind": "html",
+  "title": "Agent process sweep tells reused pids apart",
+  "text": "On Linux, agent process identities now include the kernel boot id alongside the start time in clock ticks. A recycled pid in a restarted container is no longer mistaken for a recorded agent process.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/bea795d4b2f291974a8b4cc0ba710f7bfa37f2e2...27175cf85c091e3592067a8a9e5b5f79eef0ce2e",
+    "several": true
+  },
+  "first": "2026-11-15T14:57:14.215Z",
+  "at": "2026-11-15T14:57:14.215Z",
+  "source": "3fdb64a9b5e6193f4199af2fdfbc67ef72298976e195c7675c189098b6b89a4e",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

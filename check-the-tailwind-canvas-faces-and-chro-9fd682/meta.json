@@ -1,0 +1,32 @@
+{
+  "title": "The canvas works from the keyboard",
+  "text": "On the canvas, Tab still opens the next card that needs you, and from any focused control it now moves on as it does everywhere else. Card faces and plan titles can be reached with Tab and opened with Enter or Space, and closing a card puts the focus back on it. The canvas tabs, their drawer and the Canvas / Parked / Table views all work without a mouse, and Space on a control does what that control does instead of starting push-to-talk.",
+  "chapters": [
+    [
+      0,
+      "Tab opens what needs you"
+    ],
+    [
+      16.83,
+      "Card faces and plans are reachable"
+    ],
+    [
+      31.1,
+      "Enter and Space open, focus comes back"
+    ],
+    [
+      46.66,
+      "The canvas tabs"
+    ],
+    [
+      61.62,
+      "The views in the push-to-talk row"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-20T13:00:10.058Z",
+  "at": "2026-11-20T13:00:10.058Z",
+  "source": "a94a39c5801e545d28ad2686da56756d8c67252c695a323cc85e6c69209c0ed6",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

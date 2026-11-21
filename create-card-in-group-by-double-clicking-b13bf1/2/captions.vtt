@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:14.271
+Here are two quick taps across the edge of the shaded Checkout group. The first lands just outside, and the second lands inside. Previously, the new card went where the first tap landed, so the shading pulled back and the card stayed ungrouped.
+
+00:00:15.224 --> 00:00:28.104
+Repeat the same gesture, starting outside and finishing just inside the group. The card now lands at the second tap, and the Checkout shading extends around it. Where the gesture ends sets both the card’s position and its group.

@@ -1,0 +1,106 @@
+{
+  "title": "Project settings that drill into sections",
+  "text": "The project settings sheet on the right is now a list of sections with an icon each: Allowed commands first, then Agents and models, Auto suggestions, Development environment, Code reviews, Git and releasing, Card archiving and Demos. Each slides into its own view, with a repository switcher where a project has several repositories, and every change applies at once. New commands from a repository show a red count until they are reviewed, settings that restart a repository's agents ask before they are saved, and a project can be archived from the foot of the list.",
+  "chapters": [
+    [
+      0,
+      "One list of sections"
+    ],
+    [
+      14.71,
+      "Allowed commands"
+    ],
+    [
+      29.55,
+      "Development environment, per repository"
+    ],
+    [
+      45.54,
+      "Agents and models: a restart asks first"
+    ],
+    [
+      59.85,
+      "Auto suggestions"
+    ],
+    [
+      75.25,
+      "Code reviews"
+    ],
+    [
+      88.12,
+      "Git and releasing"
+    ],
+    [
+      98.52,
+      "Card archiving and demos"
+    ],
+    [
+      110.31,
+      "Archive project"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/27175cf85c091e3592067a8a9e5b5f79eef0ce2e...a0ce3d94cdbc1647bad9e009973a75e53bfb223f",
+    "several": true
+  },
+  "first": "2026-11-15T15:00:29.883Z",
+  "at": "2026-11-15T15:00:29.883Z",
+  "source": "f637d92659e4b4768828506d31d26b882c115a7d3f8c33d6598a286f3b62dd92",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Project settings on the phone",
+      "text": "On the phone, the button at the left of the floating bar opens the project's settings: the same list of sections and views as on the desktop. The logo at the top left opens the same left menu as on the desktop, with what the phone has a view for. A repository setting the configuration refuses shows why, with Try again, and changes not saved yet stay when the settings are closed and opened again.",
+      "chapters": [
+        [
+          0,
+          "Settings in the floating bar"
+        ],
+        [
+          10.47,
+          "The desktop menu at the top left"
+        ],
+        [
+          21.03,
+          "Sections push in, Back returns"
+        ],
+        [
+          29.06,
+          "A refused save stays visible"
+        ],
+        [
+          42.86,
+          "A waiting restart survives closing"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-15T14:32:41.808Z",
+      "at": "2026-11-15T15:00:29.883Z",
+      "source": "6dbef01235184d3fa5d9d3ea0bc9e7e0022139fb28095a5f0851a1f32dfec6af"
+    },
+    {
+      "title": "Settings keep their page and pending clone values",
+      "text": "Phone settings and Needs you switch directly through the menu, with Back returning to the project. Clone details survive a trip back to the settings list. If a workstation save is refused, Try again repeats the pending changes, and sharing waits until the visible settings are saved.",
+      "chapters": [
+        [
+          0,
+          "Switch directly between pages"
+        ],
+        [
+          13.91,
+          "Clone values survive a trip back to the list"
+        ],
+        [
+          28.63,
+          "Retry includes the refused workstation changes"
+        ]
+      ],
+      "dir": "3",
+      "handed": "2026-11-15T14:47:49.327Z",
+      "at": "2026-11-15T15:00:29.883Z",
+      "source": "1c5042128a719b54a488c4e6a8c474d2a1f533dfdb224fbf21e92fde36d5cf99"
+    }
+  ]
+}

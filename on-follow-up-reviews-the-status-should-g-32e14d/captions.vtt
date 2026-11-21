@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:10.870
+The worker has addressed a review finding, and the reviewer is checking the change again. The card now says second review check in teal, so its status reflects the review in progress.
+
+00:00:11.824 --> 00:00:18.224
+The same animated status appears inside the card, so the owner can see at a glance that the next review is still running.

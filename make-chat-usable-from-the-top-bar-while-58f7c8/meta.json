@@ -1,0 +1,44 @@
+{
+  "kind": "html",
+  "title": "Open cards keep clear of side sheets, the menu and the inbox",
+  "text": "An open card no longer hides the Chat, Needs you, Agent work or project settings sheets: it narrows to fit beside them. It also never covers the left menu or the inbox's list, even when these are opened or pinned while the card is already open. On a window too narrow for all of them, the sheet lies over the card's right edge and stays fully usable.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/72e2736edc017832a7767defad99f4f042bd4502...2451fe2a2e8bb83c9734812e3be5b9600fd8a647",
+    "several": true
+  },
+  "first": "2026-11-13T02:46:55.521Z",
+  "at": "2026-11-13T02:46:55.521Z",
+  "source": "1c2c0ca82384b1b335ac325943a3b2b9f92d4ed4495d20ade806f89a916417a0",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Sheet controls stay usable with an open card",
+      "text": "Settings, Agents and Needs you remain accessible while a card is open. Open a sheet, switch between them, or close it without losing the card conversation.",
+      "chapters": [
+        [
+          0,
+          "Open settings beside a card"
+        ],
+        [
+          8.28,
+          "Switch to Agents"
+        ],
+        [
+          14.39,
+          "Use Needs you"
+        ],
+        [
+          22.82,
+          "Close the sheet and keep the card"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-13T02:40:54.927Z",
+      "at": "2026-11-13T02:46:55.521Z",
+      "source": "8bf153bb937e4034653f0085a35dbea4e2eb9b58b42b4a6294d23ae41e472d87"
+    }
+  ]
+}

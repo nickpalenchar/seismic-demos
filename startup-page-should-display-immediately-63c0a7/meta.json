@@ -1,0 +1,60 @@
+{
+  "title": "The setup page shows at once, each check on its own",
+  "text": "On a first start, Seismic checks which coding agents are installed and signed in. The setup page now appears immediately, and each agent is checked in its own request, with a spinner beside its name until it answers. git, which every agent needs, is checked separately too, so a slow git never delays an agent's result. An agent you have not touched is ticked once it is found ready; one you ticked or unticked yourself keeps your choice. Each agent, and git, has its own Check again.",
+  "chapters": [
+    [
+      0,
+      "Before: one wait for every check"
+    ],
+    [
+      14.85,
+      "Now: the page at once, a spinner per agent"
+    ],
+    [
+      26.76,
+      "git is checked on its own"
+    ],
+    [
+      43.08,
+      "Ticked before the check: stays on"
+    ],
+    [
+      51.35,
+      "Each agent checks again on its own"
+    ],
+    [
+      63.46,
+      "Ticked and unticked while checking"
+    ],
+    [
+      70.78,
+      "Unticked before the check: stays off"
+    ],
+    [
+      76.93,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/1ca643d2c5ca319c42d62b5906769f9f214fc966...3ef885700ab8fcdcb49c0ff5abb868d33479a264",
+    "several": true
+  },
+  "first": "2026-11-20T00:11:13.981Z",
+  "at": "2026-11-20T00:11:13.981Z",
+  "source": "cd26496b6fa0025d47b89c0465efae245160b256fe4e42bf186fb6a81b392ea9",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "kind": "html",
+      "title": "A failed setup check can be retried",
+      "text": "When Seismic can't finish checking an agent or git in the Setup dialog, it now says so right there and offers a Check again button for that check alone. Before, a check that failed the first time showed nothing to retry, so that agent was left unchecked. The agents you've ticked stay ticked while you retry.",
+      "chapters": [],
+      "dir": "2",
+      "handed": "2026-11-19T23:42:49.140Z",
+      "at": "2026-11-20T00:11:13.981Z",
+      "source": "008d3b3de72385b47ea3ad985704a24cdccbbaba74445280e28e9ada7989080a"
+    }
+  ]
+}

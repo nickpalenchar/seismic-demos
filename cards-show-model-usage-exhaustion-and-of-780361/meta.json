@@ -1,0 +1,64 @@
+{
+  "title": "A way out when a card's model runs out of usage",
+  "text": "When the model behind a card runs out of usage, the card now says so and names the model. From the card you can try again once usage is added, hand the work to a different model with \"Select new agent\", or, for a code review, skip the review and approve without it. Handing the work to another model of the same tool keeps the agent's session, so nothing is lost. Choosing a different model for a code review applies to that card only, so a review that ran out no longer leaves the card stuck.",
+  "chapters": [
+    [
+      0,
+      "Three cards out of usage"
+    ],
+    [
+      10.4,
+      "The callout names the model"
+    ],
+    [
+      21.8,
+      "Hand the work to another model"
+    ],
+    [
+      32.38,
+      "A code review out of usage"
+    ],
+    [
+      46.38,
+      "The review runs on Sonnet"
+    ],
+    [
+      53.08,
+      "Skip the review"
+    ],
+    [
+      64.32,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-18T03:22:43.092Z",
+  "at": "2026-11-18T03:22:43.092Z",
+  "source": "4945830c63e818484a90b57e38926fe895fe55753ff0730039bd3095ff3ebff3",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Usage limits show the model and keep it on retry",
+      "text": "Cards identify the worker or reviewer that hit a usage limit, even before its session opens. Try again keeps the code review on the same model, including when the reviewer was selected just for that run.",
+      "chapters": [
+        [
+          0,
+          "A worker can hit its limit before opening a session"
+        ],
+        [
+          9.54,
+          "A review can show the account default"
+        ],
+        [
+          17.88,
+          "Try again keeps the selected reviewer"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-18T01:39:00.652Z",
+      "at": "2026-11-18T03:22:43.092Z",
+      "source": "a5cb4498eaa2dffba21a47869c8778080dbc6cc651e42dc431f707e8ba3745d8"
+    }
+  ]
+}

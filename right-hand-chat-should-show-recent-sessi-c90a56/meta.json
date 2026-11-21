@@ -1,0 +1,32 @@
+{
+  "title": "Start fresh or resume a recent chat",
+  "text": "Open Seismic’s right-hand chat more than 20 minutes after you last opened it and it starts fresh with five dated shortcuts above the composer. Select a shortcut to resume that session, or start typing to clear the shortcuts. Clicking New chat opens an empty composer immediately.",
+  "chapters": [
+    [
+      0,
+      "Start fresh after twenty minutes"
+    ],
+    [
+      12.64,
+      "Resume a recent session"
+    ],
+    [
+      28.03,
+      "Reopen within twenty minutes"
+    ],
+    [
+      35.67,
+      "Start a chat manually"
+    ],
+    [
+      44.66,
+      "Start typing after a timeout"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-18T13:43:49.796Z",
+  "at": "2026-11-18T13:43:49.796Z",
+  "source": "4d7f141fc2f039a6a3cdaf8151d576ac69b62e4007d7be703f0a301d59f47508",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

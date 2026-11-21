@@ -1,0 +1,28 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:15.471
+The project has cards on two canvases and a plan with three workstreams. Until now, the switcher at the bottom held Table only as “coming soon”. It now opens the Table view, and the address, shown at the bottom left, says view equals table.
+
+00:00:16.425 --> 00:00:32.825
+Every card on any canvas is a row, and each workstream of the plan is a row of its own, with its plan named in the Plan column. State is a badge in the state’s colour. Parked and archived cards are left out: they have the Parked view and the archive.
+
+00:00:33.779 --> 00:00:46.499
+A click on a column head sorts by it. Priority sorts by its own order, from trivial to critical, with unlabelled cards last. A second click reverses it, and the cards without a priority stay last.
+
+00:00:47.451 --> 00:01:03.771
+The toolbar filters. The search narrows the rows to titles with “fix”. The State filter lists each state with how many rows it would show, and picking “Waiting” leaves one card. Priority has a “None” option for unlabelled cards. Reset clears every filter at once.
+
+00:01:05.105 --> 00:01:09.905
+The Columns menu hides and shows columns, here the Group and Complexity columns.
+
+00:01:10.863 --> 00:01:23.143
+A click on a row opens the card as it opens anywhere else: it unfolds from its row, and the address names the card while keeping view equals table. Closing it folds it back into its row, on the table.
+
+00:01:24.097 --> 00:01:32.217
+A plan’s row opens the plan’s sheet beside the table, without flying the canvas around. Escape closes the sheet, and the table stays.
+
+00:01:33.169 --> 00:01:44.649
+After a reload the address brings the table back, with its sort and hidden columns kept in this browser. An address with a view that does not exist shows the canvas and drops the parameter in place.
+
+00:01:45.600 --> 00:01:54.560
+The Table view lists every card and workstream of the project, sorts and filters them, and opens each card from its row, with the view kept in the address.

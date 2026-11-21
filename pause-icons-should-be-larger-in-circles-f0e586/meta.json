@@ -1,0 +1,15 @@
+{
+  "kind": "html",
+  "title": "Larger pause marks",
+  "text": "The pause symbol shown on a workstation held for restart is now as large as the circles beside it, so the row reads evenly.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/1b82858fa14766cf372cba9aa412f0f4c1434dfd"
+  },
+  "first": "2026-11-12T12:44:00.900Z",
+  "at": "2026-11-12T12:44:00.900Z",
+  "source": "5d1e36456cd1f2d3c10681f2542a18d361097249ea9113ac9f3a888988fc8179",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

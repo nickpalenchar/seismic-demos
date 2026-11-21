@@ -1,0 +1,35 @@
+{
+  "title": "Phone: full-page chat and card search",
+  "text": "On the phone, Seismic's chat is now a full page instead of a sliding panel, with chat history, the field and the microphone. A new search page finds the project's cards by title or code. Back from a found card returns to the same results.",
+  "chapters": [
+    [
+      0,
+      "The chat button"
+    ],
+    [
+      9.56,
+      "Chat as a full page"
+    ],
+    [
+      24.31,
+      "Search the cards"
+    ],
+    [
+      34.1,
+      "Open a card from the results"
+    ],
+    [
+      45.78,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/64579962b5d573a5db36a257eb7fbf1b0013537e"
+  },
+  "first": "2026-11-13T04:05:15.880Z",
+  "at": "2026-11-13T04:05:15.880Z",
+  "source": "da3e045f813b181a5f304c4e7eca973c60bdbef26fa9b61b8e1ddfc4319f2eb1",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

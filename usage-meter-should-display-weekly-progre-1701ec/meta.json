@@ -1,0 +1,32 @@
+{
+  "title": "Usage bars on desktop and phone",
+  "text": "On desktop, thin bars beneath Session and Week show how much of each limit is used. At 95%, the fill turns red and the percentage keeps its usual color. Open the usage popover on desktop or phone to see larger bars beside each limit. The phone header keeps its compact percentages.",
+  "chapters": [
+    [
+      0,
+      "Session and weekly usage"
+    ],
+    [
+      8.59,
+      "The red threshold"
+    ],
+    [
+      18.42,
+      "Larger bars in the usage popover"
+    ],
+    [
+      27.82,
+      "Usage on a phone"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/d1fe7de5ecf2b2bc504007cb3e4a425573e20e96...749e42792b8881da341875ad481fa79b37f7ab23",
+    "several": true
+  },
+  "first": "2026-11-20T13:06:29.080Z",
+  "at": "2026-11-20T13:06:29.080Z",
+  "source": "5938c049aa922d298d4430787a953eb5ef82c799dbea4fb3d9fb5ec7a12912dd",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

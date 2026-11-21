@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:14.991
+With nothing focused on the canvas, Tab still opens the next card that needs the owner. The card now takes the focus itself, so one Esc closes it, where the first Esc used to only close a tooltip. Tab again brings the question.
+
+00:00:17.183 --> 00:00:29.703
+From a control, Tab and Shift Tab now move the focus, as anywhere else. Card faces and the plan title are stops of their own, with a blue ring; the connection dots no longer add four stops per card.
+
+00:00:31.454 --> 00:00:46.054
+Enter opens the plan, with its sheet beside it; Esc closes it and the focus stays on its title. On a card face, Space opens the card rather than starting push to talk, and when it folds the focus is back on the same card.
+
+00:00:47.007 --> 00:01:00.887
+Further on, Tab reaches the canvas tabs. Focus opens their drawer, which says that the up arrow moves into it. Tab picks Marketing, Enter switches to it, and the focus lands on its tab. The left arrow and Space bring back main.
+
+00:01:01.965 --> 00:01:17.325
+The next stops are the views in the push-to-talk row. Space shows Parked, Enter shows the table, and Shift Tab back to Canvas returns to the board. Space on a control does what the control does; held on the canvas or in an open card, it still speaks.

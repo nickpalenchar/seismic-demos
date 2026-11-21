@@ -1,0 +1,27 @@
+{
+  "title": "See which dependencies still hold a card",
+  "text": "When you open a planned card, the callout links to the unfinished cards connected to it by dependency arrows. The list updates as prerequisites finish and clears once they are all done.",
+  "chapters": [
+    [
+      0,
+      "Before: the remaining dependency was missing"
+    ],
+    [
+      11.8,
+      "After: the card names every unfinished prerequisite"
+    ],
+    [
+      22.15,
+      "The callout clears when the last prerequisite is done"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/cfe0c5a2c8e28d244ddeb8f6896d1ca4b7e237d1"
+  },
+  "first": "2026-11-18T03:57:33.148Z",
+  "at": "2026-11-18T03:57:33.148Z",
+  "source": "9fe60f92c8c0bcf7e621fba5c2840bc90e42d2211c97737736703bb4364f5338",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

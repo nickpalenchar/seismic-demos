@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:12.072
+This private repository uses an SSH command configured in Git with the team’s identity. When the repository field is left, Seismic uses that configuration and confirms that it can read the repository.
+
+00:00:13.028 --> 00:00:21.228
+Choosing Clone and create project uses the same SSH configuration. The repository is cloned and Seismic opens the first project.

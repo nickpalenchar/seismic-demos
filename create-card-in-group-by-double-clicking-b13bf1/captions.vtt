@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:11.872
+The shaded area is the Checkout group. Previously, a double-click between these two cards opened a new card, but left it outside the group. When the editor closes, the group shading pulls back around it.
+
+00:00:12.825 --> 00:00:23.705
+Now, double-click the same empty spot inside Checkout and give the card a title. Close the editor and the card stays inside the shaded area. The group includes it from the moment it is created.
+
+00:00:24.656 --> 00:00:33.736
+Double-click the open canvas below the shading to create an ungrouped card. The spot you choose sets both the new card’s position and whether it joins a group.

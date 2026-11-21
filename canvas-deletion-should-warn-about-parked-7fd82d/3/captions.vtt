@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:12.632
+Campaigns has one parked card and one snoozed card. Ideas is selected as the destination. When another parked card arrives, the warning updates to two parked cards. The destination stays selected.
+
+00:00:13.585 --> 00:00:26.145
+If a card arrives after the confirmation is sent, the first attempt stops. The warning now shows three parked cards and one snoozed card. Confirm again to move all four to Ideas and delete Campaigns.

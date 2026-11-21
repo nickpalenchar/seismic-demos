@@ -1,0 +1,44 @@
+{
+  "title": "A canvas is empty when nothing on it is visible",
+  "text": "Every card now knows whether its canvas holds it, folded away or not. A canvas can be deleted only when nothing visible is on it. Archived cards, ended plans and parked cards no longer get in the way, and the drawer, the server and Seismic agree on that. An archived card whose canvas was deleted comes back on main, at a free spot.",
+  "chapters": [
+    [
+      0,
+      "A canvas holding one plan"
+    ],
+    [
+      8.12,
+      "The plan ends"
+    ],
+    [
+      19.2,
+      "Empty, and deleted"
+    ],
+    [
+      38.67,
+      "Archived cards do not count"
+    ],
+    [
+      47.75,
+      "Archive the last card, delete the canvas"
+    ],
+    [
+      57.79,
+      "Back from the archive, onto main"
+    ],
+    [
+      66.86,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/4611c955f26f882e5f335e431e5af2eac0a4c718...2bdf865879efd5bd8ef66360834360454443c538",
+    "several": true
+  },
+  "first": "2026-11-15T15:31:55.100Z",
+  "at": "2026-11-15T16:48:40.145Z",
+  "source": "f2f78aa91905bf5258712b5659946d920655ee75be5e8ba46ef0403727aad39f",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

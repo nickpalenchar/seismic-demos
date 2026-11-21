@@ -1,0 +1,31 @@
+{
+  "title": "Cards the chat creates show as cards",
+  "text": "When you ask Seismic's chat for a new task or idea, the card it creates now shows in its own bubble under the reply, with the card's live cover: its state, labels and progress, as the canvas shows them. One click opens it. Before, the chat only said in words that it had created the card, and you had to find it on the canvas.",
+  "chapters": [
+    [
+      0,
+      "Asking for a task"
+    ],
+    [
+      11.31,
+      "The new card in its own bubble"
+    ],
+    [
+      25.03,
+      "Ideas too"
+    ],
+    [
+      33.13,
+      "One click opens it"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/abc1f97cc4a425fb155b9b91f667ffa8e24ce5f4"
+  },
+  "first": "2026-11-12T12:16:19.035Z",
+  "at": "2026-11-12T12:16:19.035Z",
+  "source": "8062e04f166ea6e2f717a250f02af43a144f23e147b64faea646ab7efbaa6de7",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

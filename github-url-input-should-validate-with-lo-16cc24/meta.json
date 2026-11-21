@@ -1,0 +1,44 @@
+{
+  "title": "Password warning during repository setup",
+  "text": "If Git needs a password for the repository check, setup shows an amber warning and explains that cloning may still work. The info button explains why the check cannot ask for a password. You can still choose Clone and create project to use saved credentials.",
+  "chapters": [
+    [
+      0,
+      "See why the check needs a password"
+    ],
+    [
+      11.3,
+      "Clone with the saved credentials"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/e9ded438b21039f2fbaece107490b2834841bc5f...1ca643d2c5ca319c42d62b5906769f9f214fc966",
+    "several": true
+  },
+  "first": "2026-11-20T00:02:38.058Z",
+  "at": "2026-11-20T00:02:38.058Z",
+  "source": "3e455515025793ecac2c27b076d53ede7ef4b27322f52fadbe7b39f3040b76ac",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Setup uses your Git SSH configuration",
+      "text": "When you set up a project from an SSH repository, Seismic uses the SSH command Git selects to check access and clone. That lets setup use a configured identity or jump host.",
+      "chapters": [
+        [
+          0,
+          "Check an SSH repository with its configured identity"
+        ],
+        [
+          12.68,
+          "Clone with the same SSH transport"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-19T23:36:59.205Z",
+      "at": "2026-11-20T00:02:38.058Z",
+      "source": "d2d64449cbd1d8a2e8a5997ea01a2f847af26c4a2fdf273216fbc0235f53e27f"
+    }
+  ]
+}

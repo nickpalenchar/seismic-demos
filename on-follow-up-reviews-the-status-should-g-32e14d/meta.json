@@ -1,0 +1,44 @@
+{
+  "title": "Follow-up review status",
+  "text": "When a follow-up code review runs, the card shows its numbered review check in teal with an activity animation. This makes it clear that the reviewer is still checking the work.",
+  "chapters": [
+    [
+      0,
+      "A follow-up review"
+    ],
+    [
+      11.47,
+      "Inside the card"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/bae198c8af013f2bac36cfbf672329138a4b80b0...44255a49b2da040a720440cf3dc418535ba65eb1",
+    "several": true
+  },
+  "first": "2026-11-14T00:52:00.890Z",
+  "at": "2026-11-14T00:52:00.890Z",
+  "source": "9988163c7e934dbf0b4d07f738a730f6b8522d4a0508cf40cbfce11f46cf5603",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Follow-up review checks",
+      "text": "Follow-up code reviews show their numbered status as soon as the check is due. The same status appears on compact cards, so the review round remains clear in search and other lists.",
+      "chapters": [
+        [
+          0.01,
+          "The review is underway"
+        ],
+        [
+          8.69,
+          "The compact card"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-14T00:42:43.373Z",
+      "at": "2026-11-14T00:52:00.890Z",
+      "source": "c3fadbdb5d221885bd6b34b1e55f539dec931bb5c0192b87d4c3a58e6b131f44"
+    }
+  ]
+}

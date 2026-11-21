@@ -1,0 +1,40 @@
+{
+  "title": "Question indicators follow the theme",
+  "text": "Collapsed conversations show a dot when an agent has an open question. The dot follows the interface’s waiting color in light and dark themes, with hover text explaining the cue. Tasks, ideas, proposals, and demo handovers all share the same behavior.",
+  "chapters": [
+    [
+      0,
+      "A handover with a question"
+    ],
+    [
+      10.2,
+      "Ideas"
+    ],
+    [
+      20.68,
+      "Proposals"
+    ],
+    [
+      29.28,
+      "Task questions"
+    ],
+    [
+      36.83,
+      "Dark theme"
+    ],
+    [
+      45.02,
+      "No question, no dot"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/7724d10ac8387df97b3452e55045a769dcd5a86f...f3b44a86b4a95b3fb59a1f590c4e8a52c5a4e560",
+    "several": true
+  },
+  "first": "2026-11-15T02:53:53.889Z",
+  "at": "2026-11-15T02:53:53.889Z",
+  "source": "e317e7c6d779557af483309e2eb98e27dbdbe2a3872de3ac528e9dea9bc1c42c",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

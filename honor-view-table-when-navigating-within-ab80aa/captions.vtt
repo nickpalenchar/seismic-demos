@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:09.471
+A card is opened from the Table view. The view is then switched to the canvas, and the card is closed. Pressing Back now brings the table back, with its address.
+
+00:00:10.423 --> 00:00:19.983
+A link to a card that carries view equals table, followed inside the page, opens the card over the table. Closed, it lands on the table instead of the canvas.

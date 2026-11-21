@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:15.351
+The status bar shows the usage limits of each harness signed in on this machine. Until now, each pill began with a hand-drawn mark, an orange starburst for Claude Code, a terminal prompt for Codex and a blue arch for Antigravity, followed by a small meter per limit.
+
+00:00:16.306 --> 00:00:30.586
+Now each pill carries the harness’s own logo, taken from the devicons library: the Claude Code mascot, the logo of Codex, and the one of Antigravity. The meters are gone: the logo, the limit and its percentage say it all.
+
+00:00:31.538 --> 00:00:41.418
+A click still lists every limit with its percentage and when it resets, now without meters too. In short: the usage pills show who they belong to at a glance.

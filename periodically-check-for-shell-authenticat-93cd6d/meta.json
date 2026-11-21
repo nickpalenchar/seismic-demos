@@ -1,0 +1,56 @@
+{
+  "title": "Setup notices logins done in a shell",
+  "text": "When Seismic starts for the first time, its setup assistant shows which agents and tools are logged in. Until now it only checked again when you came back to the page, so a login done in an SSH shell or another terminal was never noticed. Now the list checks again every 15 seconds while a login on the current step is missing, also where Seismic cannot open a terminal itself. Every login also has a \"Check again\" button that checks right away.",
+  "chapters": [
+    [
+      0,
+      "Waiting for the Claude login"
+    ],
+    [
+      12.12,
+      "Logged in from another shell"
+    ],
+    [
+      26,
+      "Checking by hand"
+    ],
+    [
+      34.91,
+      "Optional logins too"
+    ],
+    [
+      50.18,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/bd4908240d66a3c6d13a9852848746df184ffeb9...3a3609cf9873e6652440a50e46b0991b8c4914a8",
+    "several": true
+  },
+  "first": "2026-11-15T22:58:32.713Z",
+  "at": "2026-11-15T22:58:32.713Z",
+  "source": "eb27c07e3b318afd801a12a10b267a7d6af9c8658b4eb7089fd4208566e207bd",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Check again shows a check in progress",
+      "text": "While the setup assistant checks the machine, by a click on \"Check again\" or by its automatic check every 15 seconds, the button is disabled and shows a spinner with \"Checking\". Checks run one after another, so the list always ends on the latest answer.",
+      "chapters": [
+        [
+          0,
+          "A check by hand"
+        ],
+        [
+          10,
+          "The automatic check"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-15T22:07:29.529Z",
+      "at": "2026-11-15T22:58:32.713Z",
+      "source": "993fea2f5f95d386922f58566de26a4ed46d6979286ac48b3c6a36f33a4440f4"
+    }
+  ]
+}

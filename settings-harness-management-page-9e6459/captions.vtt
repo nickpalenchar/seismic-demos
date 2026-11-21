@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:13.390
+On first setup, Seismic finds Claude Code and Codex ready. Untick Codex and create a project with Claude Code. Seismic remembers that choice, so Codex stays out of the agent menus and the usage bar.
+
+00:00:17.321 --> 00:00:32.801
+Just below Agents and models, the Harnesses page lists the connections for this machine. Configure new harness opens a wizard. Claude Code is already connected, so its checkbox is locked on. Choose Codex and Antigravity, then continue.
+
+00:00:33.752 --> 00:00:51.552
+Codex is ready to connect, so all it needs is a confirmation. The small count below the button says there is one more harness to add. Antigravity is last. It needs a sign-in, so the page shows the login action and command, with confirmation disabled until the next successful check.
+
+00:00:52.505 --> 00:01:07.745
+After signing in, Check again verifies Antigravity and enables confirmation. There is no count on this final step. Back on the Harnesses page, the new connections are listed with their reported limits and reset times. Their usage pills appear in the bar too.
+
+00:01:08.698 --> 00:01:20.498
+Use the red Disconnect action to remove a connection from Seismic. Once confirmed, Codex leaves the list, its usage pill disappears, and future agents can only choose the harnesses that are still connected.

@@ -1,0 +1,66 @@
+{
+  "title": "Deleting a canvas no longer strands parked cards",
+  "text": "When you delete a canvas that still has parked or snoozed cards, Seismic now warns you with the counts and lets you pick which canvas they move to, main by default. A yellow button moves them and deletes the canvas; a grey one goes back. Canvases without such cards are still deleted straight away.",
+  "chapters": [
+    [
+      0,
+      "A canvas with parked and snoozed cards"
+    ],
+    [
+      13.73,
+      "Warning, target canvas and the choice"
+    ],
+    [
+      29.71,
+      "The cards are on main"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-20T22:53:34.650Z",
+  "at": "2026-11-20T22:53:34.650Z",
+  "source": "75d4cff5a3bfb77f6231075d37a891cef6b236e283e4a99099e5662df2cf2eb4",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Retry a canvas deletion",
+      "text": "When a canvas has parked or snoozed cards, choose where they should go before deleting it. The confirmation shows progress and keeps your choice if the request fails. After deletion succeeds, the cards return in separate spots on the destination canvas.",
+      "chapters": [
+        [
+          0,
+          "Choose where the cards go"
+        ],
+        [
+          11.76,
+          "Progress and a retry"
+        ],
+        [
+          25.43,
+          "The cards return to separate spots"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-20T12:14:56.056Z",
+      "at": "2026-11-20T22:53:34.650Z",
+      "source": "29ffee9c853b204265770f07ca994d8c9f78fccd58a893056ddd44bb15044e45"
+    },
+    {
+      "title": "Live counts when deleting a canvas",
+      "text": "The delete warning updates when parked or snoozed cards change, and your destination stays selected. If the counts change after you confirm, Seismic shows the updated totals and lets you confirm again.",
+      "chapters": [
+        [
+          0,
+          "The warning updates as cards arrive"
+        ],
+        [
+          13.24,
+          "Confirm the updated total"
+        ]
+      ],
+      "dir": "3",
+      "handed": "2026-11-20T13:13:22.016Z",
+      "at": "2026-11-20T22:53:34.650Z",
+      "source": "b735af74fb27f7ffd28bf0274717e428422a5ebc4870c4afaef7f3c5fa183727"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Named defaults for agents and chats",
+  "text": "Model and harness pickers now show the actual names with a Default badge on the matching row. You can see what a new task or chat will use and choose an alternative from the same menu.",
+  "chapters": [
+    [
+      0,
+      "Configuration names the model"
+    ],
+    [
+      13.28,
+      "Project settings mark the inherited harness"
+    ],
+    [
+      21.07,
+      "Start a task with a named default"
+    ],
+    [
+      29.26,
+      "A new chat shows its project model"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/e516229c31ef6f2b591186a7a2a333c98311ef58...92987648d2f5ad4f39232af138ff4dbb50f6d15d",
+    "several": true
+  },
+  "first": "2026-11-19T22:26:06.572Z",
+  "at": "2026-11-19T22:26:06.572Z",
+  "source": "6c83206faf1a5fc818cd170364c2b6fbfd673d5126c2639b8f187a2c8ae5c5a1",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Defaults follow settings changes",
+      "text": "Project settings show the Default badge in the dropdown, leaving more room for the selected name. An open chat follows saved model settings, and a task choice marked Default follows the account’s current model.",
+      "chapters": [
+        [
+          0.08,
+          "More room in project settings"
+        ],
+        [
+          7.97,
+          "The open chat follows Configuration"
+        ],
+        [
+          24.53,
+          "A one-off start follows the account’s choice"
+        ],
+        [
+          38.3,
+          "An unavailable name is explicit"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-18T22:44:52.221Z",
+      "at": "2026-11-19T22:26:06.572Z",
+      "source": "d2f2d5016b2cbb541024f75e174d5708774a6dbee4b9415e30c9546d34c7f421"
+    },
+    {
+      "title": "Model defaults follow your settings",
+      "text": "Choose the row marked Default to follow Configuration in project settings or the project’s model for a task. If the source model changes before the task starts, both pickers show the new name.",
+      "chapters": [
+        [
+          0,
+          "Return a project to the named default"
+        ],
+        [
+          10.83,
+          "Save the default for a task"
+        ],
+        [
+          20.58,
+          "Both pickers follow the new model"
+        ]
+      ],
+      "dir": "3",
+      "handed": "2026-11-19T02:04:12.640Z",
+      "at": "2026-11-19T22:26:06.572Z",
+      "source": "c5b46d9565404ee2b3d26d1e5dedd45673f6934cb3039d5823142f9728a0ff63"
+    },
+    {
+      "title": "Harness changes preserve model choices",
+      "text": "Returning a project harness to Default keeps its model and effort choices. The task picker shows the configured Claude model when you switch to Claude Code, and Submit to new agent opens with the project’s review settings.",
+      "chapters": [
+        [
+          0,
+          "Changing the harness keeps project choices"
+        ],
+        [
+          15.88,
+          "The task picker knows the Claude default"
+        ],
+        [
+          26.87,
+          "Review answers start from the review default"
+        ]
+      ],
+      "dir": "4",
+      "handed": "2026-11-19T13:42:17.443Z",
+      "at": "2026-11-19T22:26:06.572Z",
+      "source": "7737643442e29a2c983ad47f2514b0fcc2e95186bfd81ad4274db04a0f24a740"
+    }
+  ]
+}

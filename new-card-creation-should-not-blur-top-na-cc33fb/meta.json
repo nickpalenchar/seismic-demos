@@ -1,0 +1,16 @@
+{
+  "kind": "html",
+  "title": "Top bar stays usable while a card is open",
+  "text": "Opening or creating a card used to dim and blur the whole screen, including the top bar. Now only the canvas below the bar dims. The menu, search, help, chat and user buttons stay sharp and clickable.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/8bf344da783816032cb29cd5f5f3e97c2dcaefa4...69c32e1ec93538dd3f72c47c62b6046b3795a660",
+    "several": true
+  },
+  "first": "2026-11-13T01:11:01.748Z",
+  "at": "2026-11-13T01:11:01.748Z",
+  "source": "7d687040dc85fc1adbfbf79c117ef100d9b6ebb39b9b848fbad0a1cc86ce5291",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

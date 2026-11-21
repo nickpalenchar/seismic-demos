@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.354 --> 00:00:10.354
+These two login cards already have a merge ready to review. Before the fix, a link back to the partner leaves you on the canvas. The comparison and its approval controls are missing.
+
+00:00:11.306 --> 00:00:20.066
+Now the same link returns to the current merge. Both original cards and the prepared result are restored, with Approve merge and Separate ready to use.
+
+00:00:21.021 --> 00:00:30.101
+Visit another card and return to the merge: the comparison is still there. Approving it completes the merge and leaves one combined card on the canvas.

@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:07.991
+On desktop, both Session and Week have a thin bar under their percentages. Each bar fills from left to right as usage rises.
+
+00:00:08.941 --> 00:00:17.821
+Here the bar is almost full at ninety-four percent. At ninety-five percent, the fill turns red. The percentage text keeps its usual color.
+
+00:00:18.774 --> 00:00:27.214
+Open the usage popover to compare all the limits. The bars here are taller, and the red fill still calls out the limit closest to being used up.
+
+00:00:28.168 --> 00:00:36.368
+On a phone, the top pills stay compact with plain percentages. Tap a pill to see the full bars beside each limit in the popover.

@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:08.929
+This export task hit a usage limit before the worker opened a session. The card names Claude Opus, so the owner can see which model needs usage.
+
+00:00:09.885 --> 00:00:17.279
+This review hit the limit before Claude Code reported a specific model. The callout shows that the review used the Claude Code default.
+
+00:00:18.232 --> 00:00:27.344
+This checkout review was switched to Sonnet and then ran out of usage. Press Try again, then open the Review tab. The review confirms it is running on Sonnet.

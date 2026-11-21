@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:09.591
+A collapsed conversation could hide a question on a demo handover. The orange dot now marks it, and hovering explains that the agent has a question.
+
+00:00:10.546 --> 00:00:18.906
+Ideas get the same cue. Opening the conversation reveals the pending question, and removes the dot while the conversation is visible.
+
+00:00:21.032 --> 00:00:28.672
+Proposals also show the dot when they have an open question. The tooltip and the screen reader label give the same explanation.
+
+00:00:29.627 --> 00:00:36.227
+A task with a result and a question keeps the cue too. It works across every card with a collapsible conversation.
+
+00:00:37.179 --> 00:00:44.419
+In dark mode, the dot uses the same waiting color as the rest of the interface. The question cue now follows the theme.
+
+00:00:45.372 --> 00:00:52.932
+A card without an open question has the normal Show conversation button. The cue appears only where a question needs attention.

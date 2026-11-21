@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:20.230
+Two cards with an agent at work. At their foot a line draws itself again and again, and the workstation dots at the bottom right pulse. With the browser's paint flashing on, every area it repaints flashes green: before this change, the lines and dots were repainted on every frame. On a zoomed-out canvas, that made the cards shimmer.
+
+00:00:21.182 --> 00:00:29.502
+With the change, the same canvas shows no green: the line and the dots now only slide and fade, which the graphics card does without repainting the card.
+
+00:00:31.457 --> 00:00:40.017
+Without the flashing, they look as before: the stroke slides in from the left over its faint track and out to the right, and the dots' fill and glow pulse slowly.
+
+00:00:40.970 --> 00:00:46.410
+Zoomed out, the lines keep drawing themselves, enlarged with the card, and the card stays steady.

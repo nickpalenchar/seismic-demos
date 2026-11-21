@@ -1,0 +1,25 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:12.551
+A canvas used to pick its icon from a short grid of forty-eight emojis and seventy Lucide icons. The new canvas dialog now has two tabs, Icons and Emoji, and it opens on Icons.
+
+00:00:13.506 --> 00:00:19.506
+Icons holds about three hundred Lucide icons now, instead of seventy, with a search by name of their own.
+
+00:00:20.460 --> 00:00:28.940
+Above them sits a row of colours. Picking one draws the icons in it, and the icon chosen takes it too. Here, a blue bar chart.
+
+00:00:29.894 --> 00:00:44.214
+The Emoji tab is a full emoji picker: every emoji the browser can draw, by category. Typing searches them by name, and the footer names the emoji under the pointer. It works offline, since Seismic serves the emoji data itself.
+
+00:00:45.166 --> 00:00:52.966
+The hand in the corner picks a skin tone for the emojis that have one. A click on an emoji would pick it; this canvas keeps its blue bar chart.
+
+00:00:53.920 --> 00:00:58.640
+Create canvas makes it, and the tab strip at the bottom right shows the icon in its colour.
+
+00:00:59.593 --> 00:01:08.513
+The pencil in the drawer opens the same dialog to change it: on the Icons tab, a colour recolours the icon already chosen. Purple, saved.
+
+00:01:10.787 --> 00:01:16.707
+So a canvas can now carry any emoji, or one of about three hundred Lucide icons in one of ten colours.

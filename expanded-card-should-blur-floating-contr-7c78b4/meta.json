@@ -1,0 +1,20 @@
+{
+  "title": "Open cards blur the floating controls",
+  "text": "When a card expands, the floating controls under the top bar and the status bar blur together with the canvas, while the top bar stays sharp. A large card can take up the space those controls held, top and bottom, and cover it, so long cards get more room. Closing the card brings everything back.",
+  "chapters": [
+    [
+      0,
+      "Card over the controls"
+    ],
+    [
+      20.01,
+      "Back to the canvas"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-17T01:32:46.468Z",
+  "at": "2026-11-17T01:32:46.468Z",
+  "source": "05dff2bb038f34d290183964580727402fbb6c36d1d298c8067b07592d01ba78",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

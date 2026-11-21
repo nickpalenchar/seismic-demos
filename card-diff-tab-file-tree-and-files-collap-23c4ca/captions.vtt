@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:10.151
+With the conversation beside it, the Diff tab has no room for the file tree next to the code. So the changed files now stand on top, as a bar that folds the tree away and back.
+
+00:00:12.527 --> 00:00:26.287
+Below it, each changed file is a bar of its own, with its status, its path and the lines it adds and removes. The first one starts open. A click on any bar opens or closes its changes, and several can be open at once.
+
+00:00:27.239 --> 00:00:32.199
+Open the tree again and pick a file there: its bar opens and scrolls into view.
+
+00:00:33.156 --> 00:00:41.116
+With the conversation hidden there is room again, and the tree stands beside the diff as before. So the Diff tab stays usable at any width.

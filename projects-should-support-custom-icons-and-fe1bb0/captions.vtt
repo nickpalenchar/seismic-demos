@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:07.150
+In the project switcher, every project carries the same branch symbol, so four projects are told apart only by their names.
+
+00:00:08.109 --> 00:00:21.189
+In Configuration, the project page now has an icon button beside the name. It opens a pane with icons first: software and tech, projects, buildings, business, people and sports lead the list.
+
+00:00:22.144 --> 00:00:27.624
+As with canvases, an icon can take one of the palette colours. Storefront gets a green store.
+
+00:00:28.577 --> 00:00:38.537
+The other tab holds every emoji of the system font, with a tab per category that jumps straight to it, and a search by name. Billing API takes a credit card.
+
+00:00:41.255 --> 00:00:48.095
+After saving, the switcher shows each project with its own mark. A project without one keeps the branch symbol.

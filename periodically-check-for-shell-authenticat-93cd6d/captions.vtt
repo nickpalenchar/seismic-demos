@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.353 --> 00:00:11.513
+On first start, the setup assistant shows Claude Code installed but not logged in. Next to "Log in in a terminal" there is now a "Check again" button, and a note that the list checks again by itself.
+
+00:00:12.469 --> 00:00:25.389
+Now the login happens in a shell outside Seismic, over SSH for example, so this page never loses focus. The list checks again by itself every fifteen seconds, picks the login up, and Claude Code is ready.
+
+00:00:26.346 --> 00:00:34.306
+Logged out again, the button checks right away instead of waiting for the next round. After logging back in, one more click shows the login at once.
+
+00:00:35.259 --> 00:00:49.579
+The recommended step does the same for its logins. Here GitHub is installed but not logged in. Where Seismic cannot open a terminal, on a remote machine for example, the command is run by hand in a shell, and the list still notices it on its own.
+
+00:00:50.533 --> 00:00:58.213
+So a login done anywhere on the machine now shows up in setup by itself, and "Check again" forces a check whenever needed.

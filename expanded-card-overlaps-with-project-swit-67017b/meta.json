@@ -1,0 +1,12 @@
+{
+  "kind": "html",
+  "title": "Expanded card no longer overlaps the project switcher",
+  "text": "An open card used to reach up under the project switcher and the floating pills on short windows. It now always starts below them, so those controls stay visible and clickable.",
+  "chapters": [],
+  "pr": null,
+  "first": "2026-11-14T15:02:52.385Z",
+  "at": "2026-11-14T15:02:52.385Z",
+  "source": "55370b3ddb63dee235bd7d04ef39b9c5d2687632cdafe6f088bb22bc375a6f30",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

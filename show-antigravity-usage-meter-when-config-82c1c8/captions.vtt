@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:13.750
+The status bar shows the usage limits of Claude and Codex. When Antigravity is installed and signed in on this machine, its limits now show beside them, behind its own mark: the session and the week, each at the model group used most.
+
+00:00:14.706 --> 00:00:31.226
+A click lists every limit Antigravity reports: a five-hour and a weekly limit for the Gemini models, the same for the Claude and GPT models, and the separate weekly limit for Gemini Argon, each with when it resets. Seismic reads them from Antigravity every minute, without spending any of the quota.

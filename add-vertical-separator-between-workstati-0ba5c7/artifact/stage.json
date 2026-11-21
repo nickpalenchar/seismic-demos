@@ -1,0 +1,8 @@
+{"name": "Shop", "language": "en", "clones": 3, "cards": [
+  {"key": "A", "title": "Checkout shows shipping costs", "body": "Show the shipping costs in the cart before checkout.", "x": 40, "y": 200,
+   "state": "working", "statusLine": "Adding shipping costs to the cart", "workstation": true},
+  {"key": "B", "title": "Search suggests products while typing", "body": "Suggest matching products under the search field.", "x": 420, "y": 200,
+   "state": "working", "statusLine": "Wiring the suggestions to the search API", "workstation": true},
+  {"key": "C", "title": "Receipts as PDF", "body": "Let customers download a receipt as a PDF.", "x": 800, "y": 200,
+   "state": "waiting", "need": "review", "summary": "Receipts download as PDF from the order page."}
+]}
