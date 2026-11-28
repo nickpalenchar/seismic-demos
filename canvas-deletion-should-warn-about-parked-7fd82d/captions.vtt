@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:11.631
+The Campaigns canvas holds nothing on screen, but two parked cards and one snoozed card still belong to it. Deleting it used to leave them behind. Now the trash asks first.
+
+00:00:14.083 --> 00:00:27.603
+The warning counts them: two parked and one snoozed. The cards move to the canvas picked below, main by default, and any other canvas can be chosen. A yellow button moves them and deletes the canvas; the grey one goes back.
+
+00:00:30.057 --> 00:00:40.257
+Campaigns is gone, and the parked and snoozed cards are on main, listed in the Parked view as before. A canvas without any such cards is still deleted straight away.

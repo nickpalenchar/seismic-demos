@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:08.471
+With the menu docked, the project pill now stays at the start of the project, right of the menu. It switches to another project, and adds a new one.
+
+00:00:09.435 --> 00:00:14.635
+Hiding the menu slides it back to the left edge; showing the menu again moves it along.
+
+00:00:15.586 --> 00:00:25.146
+Escape on a page of the docked menu now goes back to the menu. Here the table is open and Appearance is in the menu: Escape returns to the menu, and the table stays.

@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:10.671
+This private repository needs a password for the background check. The amber warning says the clone may still work. Open the info button to see why the check cannot ask for a password.
+
+00:00:11.653 --> 00:00:21.493
+Clone and create project is still available. When chosen, Git can use the saved credentials. The clone succeeds and Seismic opens the project.

@@ -1,0 +1,36 @@
+{
+  "title": "Finish working changes with an editable task",
+  "text": "Seismic suggests completing unfinished repository changes and saves their complete patch separately from the task description. The description stays editable even for large captures, and the agent receives the saved changes on its own machine. Repositories with changed submodules are excluded because a parent patch cannot carry that work.",
+  "chapters": [
+    [
+      0,
+      "A project with one task"
+    ],
+    [
+      7.87,
+      "The repository joins"
+    ],
+    [
+      14.99,
+      "The suggestion"
+    ],
+    [
+      26.46,
+      "A short task, with its captured changes kept separately"
+    ],
+    [
+      37.46,
+      "Seismic proposals match in the inbox"
+    ],
+    [
+      44.17,
+      "Submodule work is not offered as a complete capture"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-15T15:45:55.558Z",
+  "at": "2026-11-15T15:45:55.558Z",
+  "source": "e33e04e735c28878c88a333bbfa42e75c10b878ea60dedbf09397d0a2f1e706c",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

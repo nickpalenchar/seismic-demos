@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.430 --> 00:00:07.270
+Project settings give the selected names the full field. Open the model list to see the badge beside the inherited option.
+
+00:00:08.316 --> 00:00:17.156
+This chat starts with Opus. Change Seismic’s model to Haiku in Configuration, and the same chat updates its default as soon as the change is saved.
+
+00:00:24.884 --> 00:00:36.244
+For this task, choose the option marked Default. The account changes its default from Gemini Flash to Gemini Pro. Reopen the picker and the saved choice follows Gemini Pro.
+
+00:00:38.650 --> 00:00:46.250
+If the harness cannot name its default, the task picker says the model name is unavailable and still shows the harness and effort.

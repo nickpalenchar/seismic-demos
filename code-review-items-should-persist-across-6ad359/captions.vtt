@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:13.751
+This project does not review work by itself, so the owner started a code review on this card by hand. It raised three items: number one is being fixed, number two was ignored, and number three still waits for a decision.
+
+00:00:14.707 --> 00:00:28.147
+The agent hands over its fix. Until now, that handover threw the whole review away: the Review tab is gone, with all three items and their history. A new review would start from an empty list and never check the fix.
+
+00:00:29.103 --> 00:00:33.703
+Now the same card with the fix. The same three items, the same decisions.
+
+00:00:35.196 --> 00:00:50.876
+The agent hands over again. The list stays, and number one is now under review. Checking the fix is part of the review, so the reviewer starts by itself, just as in automatic reviews: the reviewer is at work on the second check, and there is no Start code review button.
+
+00:00:51.832 --> 00:01:07.512
+A little later, the reviewer is done. It checked number one against the code and gave its verdict, here reopened with its reasons, and new items are numbered on from four. Number one keeps its whole history: raised, sent to be fixed, resubmitted, checked.
+
+00:01:08.468 --> 00:01:18.388
+Once a code review has run on a card, its items and their history stay for the rest of the card's life, also when the project's review setting is off, and every fix goes back to the reviewer by itself.

@@ -1,0 +1,48 @@
+{
+  "title": "A Table view of the project's cards",
+  "text": "Besides the canvas and Parked, a project now has a Table view: every card on any canvas and each plan workstream as a row, with state, priority, canvas, plan, group, category, complexity and last update. Any column sorts with a click, in each value's own order, and a toolbar searches titles and filters by state, priority and canvas. A click on a row opens the card just as it opens on the canvas. The view is part of the address, so a link or a reload comes back to the table.",
+  "chapters": [
+    [
+      0,
+      "The switcher opens the Table"
+    ],
+    [
+      16.08,
+      "Rows and columns"
+    ],
+    [
+      33.43,
+      "Sorting"
+    ],
+    [
+      47.1,
+      "Filtering"
+    ],
+    [
+      64.76,
+      "Hiding columns"
+    ],
+    [
+      70.51,
+      "Opening a card"
+    ],
+    [
+      83.75,
+      "A plan row"
+    ],
+    [
+      92.82,
+      "Reload and an unknown view"
+    ],
+    [
+      105.25,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-17T13:59:34.174Z",
+  "at": "2026-11-17T13:59:34.174Z",
+  "source": "f22c88557a8fc36a39ddf7020be4b028b910e05a4bb7d8241d5b02cdd0a5ab9e",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

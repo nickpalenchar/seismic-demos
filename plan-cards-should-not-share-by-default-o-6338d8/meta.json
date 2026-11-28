@@ -1,0 +1,16 @@
+{
+  "kind": "html",
+  "title": "Plan cards no longer share on approval by default",
+  "text": "On a plan's cards, approving no longer publishes the demo to the team's demo site unless the owner has ticked \"Share on approval\". Other cards behave as before.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/5f54036d8955e704dd71d60c9d1ff648fba90aff...72e2736edc017832a7767defad99f4f042bd4502",
+    "several": true
+  },
+  "first": "2026-11-13T02:44:19.290Z",
+  "at": "2026-11-13T02:44:19.290Z",
+  "source": "3cd19ed9ec303edbf5bb6ef6aa5146b285665827445360d08190924973b23444",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

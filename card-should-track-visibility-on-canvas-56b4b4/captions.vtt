@@ -1,0 +1,22 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:07.511
+This project has three canvases. The canvas Q3 holds a single plan, Export, with one workstream still open.
+
+00:00:08.464 --> 00:00:18.584
+The last workstream is ticked off in the plan doc, so the plan is done and goes into the archive. Its workstream cards are still in the database, but they are no longer on the canvas.
+
+00:00:19.537 --> 00:00:38.057
+The drawer now offers to delete Q3. Before this change, that delete failed with "has two cards", because the server counted the workstream rows. Now every card says whether its canvas holds it, and the drawer, the server and Seismic all ask that one question. Q3 is deleted.
+
+00:00:39.009 --> 00:00:47.129
+Spring holds the sale banner, in the group Sale, together with an archived card. While the banner is on the canvas, there is no delete.
+
+00:00:48.081 --> 00:00:56.761
+Once the banner is archived, Spring holds nothing visible, though both archived cards still remember it. It can be deleted, and its group goes with it.
+
+00:00:58.103 --> 00:01:06.223
+Bringing an archived card back puts it on its own canvas. Spring is gone, so the discount codes come back on main, without any complaint.
+
+00:01:07.177 --> 00:01:16.897
+A canvas counts as empty only when nothing on it is visible, folded away cards included. Archived cards never block a delete, and they find their way back to main.

@@ -1,0 +1,28 @@
+{
+  "title": "Manual code reviews on pull-request projects",
+  "text": "Projects that send approved work out as a pull request can have each card's work code reviewed too. With code reviews set to \"Manually, at handover\", a purple \"Start code review\" button appears next to \"Approve (PR)\" when the agent hands over. A click starts the review before the pull request opens, and while it runs, approving warns that the review is still going.",
+  "chapters": [
+    [
+      0.01,
+      "A project that lands through pull requests"
+    ],
+    [
+      8.1,
+      "The handover offers the review"
+    ],
+    [
+      15.97,
+      "Starting it"
+    ],
+    [
+      25.65,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-13T13:02:33.142Z",
+  "at": "2026-11-13T13:02:33.142Z",
+  "source": "25effc39b9bf2f0afa4e7a858fa1eeed4786eea07341edaf04314a2ac2c4a7d7",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

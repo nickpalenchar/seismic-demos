@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:09.871
+Give this project its own Claude model and effort. Return the harness to the Antigravity default. When you switch back to Claude, Haiku and low effort are still there.
+
+00:00:16.227 --> 00:00:26.267
+Antigravity is the usual harness for this task. Switch to Claude Code for this start and the model picker marks the project’s configured Claude model, Haiku, as Default.
+
+00:00:27.221 --> 00:00:37.501
+In the Review tab, choose a finding to fix and open Submit to new agent. The picker starts from the review setting, Fable, even though the task’s worker uses Antigravity.

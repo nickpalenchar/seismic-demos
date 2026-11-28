@@ -1,0 +1,28 @@
+{
+  "title": "Workspace names on one line",
+  "text": "The desktop sidebar shows the workspace name on one line above Inbox. Long names end with an ellipsis, and the settings cog sits beside the status underneath. Click the name to switch workspaces or the cog to edit the current one.",
+  "chapters": [
+    [
+      0,
+      "The workspace above Inbox"
+    ],
+    [
+      11.92,
+      "Switch to a remote workspace"
+    ],
+    [
+      23.39,
+      "Open workspace settings"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/d3c585e0411885fbebc2d0c2181e196f2e6d8249...ba694ab70402ff6dce6841a0193848d5fc089e3a",
+    "several": true
+  },
+  "first": "2026-11-26T16:07:15.652Z",
+  "at": "2026-11-26T16:07:15.652Z",
+  "source": "9dd64a6c364c2d409a0e5406b343c6e73a0913084f2162a785bbe8aae993e962",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

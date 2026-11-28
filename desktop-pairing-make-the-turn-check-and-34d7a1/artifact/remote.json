@@ -1,0 +1,7 @@
+{
+  "name": "Studio Projects",
+  "language": "en",
+  "cards": [
+    { "key": "S1", "title": "Billing dashboard", "state": "planned", "x": 40, "y": 120 }
+  ]
+}

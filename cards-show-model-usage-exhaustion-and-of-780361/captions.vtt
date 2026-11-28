@@ -1,0 +1,22 @@
+WEBVTT
+
+00:00:00.354 --> 00:00:09.794
+Three cards are stuck because their model has no usage left. One agent was paused at work, and two code reviews stopped. Each card says so on its face.
+
+00:00:10.753 --> 00:00:21.193
+Opened, the card shows a callout: Claude Opus has no usage left. Add usage and press Try again, or hand the card to a different model with Select new agent.
+
+00:00:22.148 --> 00:00:30.428
+Here Sonnet takes over. On the same harness it goes on in the same session, so nothing is lost, and the conversation records the hand-off.
+
+00:00:32.734 --> 00:00:45.774
+The same callout appears when the usage ran out during a code review. Before, a review had no way to change its model. Now Select new agent runs this card's review on another model, without touching the Code reviews setting.
+
+00:00:46.729 --> 00:00:51.129
+The review starts again, now with Sonnet, and the card is under review.
+
+00:00:53.430 --> 00:01:02.910
+The third card skips its review instead. Skip review drops the stopped run, the work waits for approval as before, and the usual Start code review button is there for later.
+
+00:01:04.667 --> 00:01:12.027
+A card whose model ran out of usage now names the model and offers try again, a new agent, or for a review, skipping it.

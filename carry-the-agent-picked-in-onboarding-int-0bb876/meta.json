@@ -1,0 +1,48 @@
+{
+  "kind": "html",
+  "title": "Onboarding keeps a usable default agent",
+  "text": "The setup assistant now tells Seismic which agents are configured when the first project is created. If Claude Code isn't one of them, the project's default agent becomes the first configured one, so the first task started without a choice runs instead of failing. Machines with Claude Code behave as before.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/f5d1484e91eb40b3f02da6e318d7686ebdabf01b...4ea4d38f64058bb49cd85a024dd03328dfa1f9af",
+    "several": true
+  },
+  "first": "2026-11-16T13:22:48.831Z",
+  "at": "2026-11-16T13:22:48.831Z",
+  "source": "ed5637c20269aac1ea2a8b436ffd71ffd4032b9babb16e12e60c832c3cab0495",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Plain folders only for agents that can use them",
+      "text": "Codex and Antigravity work only inside a git repository. When a project's agents run in one of them, Seismic no longer offers to use a folder without git: setup and the configuration show a short note on why and offer to set up git instead. With Claude Code, both options remain.",
+      "chapters": [
+        [
+          0,
+          "Only Codex picked"
+        ],
+        [
+          9.71,
+          "A folder without git"
+        ],
+        [
+          25.63,
+          "With Claude Code, both ways"
+        ],
+        [
+          33.86,
+          "The first project, on Codex"
+        ],
+        [
+          42.45,
+          "The same in the configuration"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-15T22:07:51.785Z",
+      "at": "2026-11-16T13:22:48.831Z",
+      "source": "4859d9d7c008df7a40c22105d10727121b148f4e5b8640a758949f5c5bfda92a"
+    }
+  ]
+}

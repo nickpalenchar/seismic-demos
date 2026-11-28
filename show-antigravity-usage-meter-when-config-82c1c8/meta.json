@@ -1,0 +1,24 @@
+{
+  "title": "Antigravity usage limits in the status bar",
+  "text": "When Antigravity is installed and signed in, Seismic's status bar now shows how much of its plan's usage limits is used, next to the Claude and Codex meters. A click lists every limit Antigravity reports, per model group, with when each one resets. The numbers refresh every minute and reading them uses none of the quota.",
+  "chapters": [
+    [
+      0,
+      "A third meter in the bar"
+    ],
+    [
+      14.36,
+      "Every limit, by model group"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/4b1244d1131e6f3ed0b9b2aa3cb79b424f4bf8ad...10e5e8407b3e29e56520f2761fbe12ab1fa0dd86",
+    "several": true
+  },
+  "first": "2026-11-18T22:27:58.619Z",
+  "at": "2026-11-19T22:47:46.750Z",
+  "source": "ed6af4931cdbf931861f7610376af99e11f09bed4761c20fb8c313638acbcbbe",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

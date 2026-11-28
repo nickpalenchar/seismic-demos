@@ -1,0 +1,59 @@
+{
+  "title": "Seismic's remaining views on Tailwind",
+  "text": "The last parts of Seismic that still used the old hand-written stylesheet now use the same component styling as the rest of the app: card faces, plans, the canvas's rings and hints, the queue, the archive, the plan sheet, the merge view, the chats and the dialogs. Nothing is meant to look different. The point is one consistent, maintainable styling system, in light and dark, on desktop and phone. This tour shows each of those views as it looks now.",
+  "chapters": [
+    [
+      0,
+      "The canvas, every card state"
+    ],
+    [
+      15,
+      "Hover, waits and the play button"
+    ],
+    [
+      21.15,
+      "Zoomed in and far out"
+    ],
+    [
+      32.86,
+      "The group ring"
+    ],
+    [
+      39.23,
+      "A queued card and its chain"
+    ],
+    [
+      49.66,
+      "The plan sheet and its doc"
+    ],
+    [
+      56.12,
+      "The chats"
+    ],
+    [
+      61.38,
+      "Help and the canvas dialog"
+    ],
+    [
+      68.03,
+      "The archive"
+    ],
+    [
+      75.5,
+      "Dark mode"
+    ],
+    [
+      80.37,
+      "On the phone"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/5f54036d8955e704dd71d60c9d1ff648fba90aff"
+  },
+  "first": "2026-11-13T02:28:31.386Z",
+  "at": "2026-11-13T02:28:31.386Z",
+  "source": "fd4e25bb05e104bf7322b3018913f7f010d54c800726e5518e46df69b7b0f5c6",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

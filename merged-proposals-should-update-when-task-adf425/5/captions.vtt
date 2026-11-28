@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:10.551
+These two export tasks have a combined result ready for review. A change to the date requirements now starts an update, with the earlier result still visible but dimmed.
+
+00:00:11.506 --> 00:00:23.706
+The update fails. Previously, the earlier comparison disappeared. Now it stays here beside the error, so it can still be read. Approval remains disabled, and Try again is available.
+
+00:00:24.662 --> 00:00:37.142
+Try again keeps the dimmed result while a fresh comparison runs. Once that succeeds, the new result includes time zones and can be approved. The earlier comparison stays available until its replacement arrives.

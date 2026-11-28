@@ -1,0 +1,16 @@
+{
+  "kind": "html",
+  "title": "Questions get their own Answer button",
+  "text": "When an agent asks a question, the owner can now submit the answer with a button inside the question itself, instead of using the send arrow in the blue box below. The button shows up once an option is picked and sends the picks with any remark typed.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/02a17af3a4e45cca57f4f9ce685fa7d61fee3c2a...297956765263ab4ccf748af75b099f7f25c40ace",
+    "several": true
+  },
+  "first": "2026-11-14T18:32:50.932Z",
+  "at": "2026-11-14T18:32:50.932Z",
+  "source": "f9e35c8411cf3e85609693dd089d407207f8ef44b7ce30481756dc4b18c833a6",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Notes App",
+  "language": "en",
+  "cards": [
+    { "key": "L1", "title": "Offline sync", "state": "planned", "x": 40, "y": 120 },
+    { "key": "L2", "title": "Markdown export", "state": "working", "statusLine": "Writing the exporter", "x": 400, "y": 120 }
+  ]
+}

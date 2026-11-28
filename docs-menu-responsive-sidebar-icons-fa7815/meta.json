@@ -1,0 +1,28 @@
+{
+  "title": "The left menu docks wherever the window is wide enough",
+  "text": "The left menu no longer needs to be pinned. On a wide window it is always docked as a sidebar, also with a plan or plan doc open on the right, and the button in the top bar hides and shows it, with a panel icon that shows which it will do. On medium and small windows the button shows a menu icon instead, and the menu drops down under it.",
+  "chapters": [
+    [
+      0,
+      "Docked on a wide window"
+    ],
+    [
+      10.39,
+      "Hide and show"
+    ],
+    [
+      18.18,
+      "A plan doc opens beside the sidebar"
+    ],
+    [
+      26.52,
+      "A menu on smaller windows"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-27T14:08:16.490Z",
+  "at": "2026-11-27T14:08:16.490Z",
+  "source": "8d378d0652934e08c8009c7bdc65baa6f940190f5210f1c1ea26a619811ed6a4",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

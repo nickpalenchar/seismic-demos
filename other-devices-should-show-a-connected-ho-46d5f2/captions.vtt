@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:11.351
+This browser is on another computer, connected to Seismic over the network. Until now, its Other devices section in the configuration showed only its intro, and looked as if it were still loading.
+
+00:00:12.306 --> 00:00:19.666
+Now the section says which machine this browser is connected to, in an alert box with a cloud icon and the host’s name.
+
+00:00:20.617 --> 00:00:29.057
+In the same box, a hint: devices are added on the host’s own Seismic, on that machine. Learn more opens the docs that explain how.

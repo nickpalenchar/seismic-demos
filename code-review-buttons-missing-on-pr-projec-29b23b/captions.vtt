@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.357 --> 00:00:07.437
+The Shop project sends approved work out as a pull request. Its settings turn on code reviews, to be started by hand at handover.
+
+00:00:08.447 --> 00:00:15.367
+The agent hands over its fix. Beside "Approve (PR)", the card now offers "Start code review", in purple.
+
+00:00:16.322 --> 00:00:23.882
+A click starts the review and opens its tab, before any pull request exists. Approving now would warn that the review is still running.
+
+00:00:25.996 --> 00:00:31.036
+Manual code reviews now work the same whether work lands on main or through a pull request.

@@ -1,0 +1,36 @@
+{
+  "title": "Phone: menu sheet and a Needs you page across projects",
+  "text": "On the phone, the menu opens as a full-height sheet with Needs you and your projects, and tapping a project switches the whole view to it. The bell opens a Needs you page that gathers what waits in every project, each entry naming its project and offering one-tap replies. Opening a card from another project switches the top bar to it; browser Back returns to the page and the card's cross lands on that project's list.",
+  "chapters": [
+    [
+      0,
+      "The menu sheet"
+    ],
+    [
+      13.64,
+      "Switching project"
+    ],
+    [
+      21.27,
+      "Needs you across projects"
+    ],
+    [
+      30.59,
+      "A quick reply"
+    ],
+    [
+      35.69,
+      "A card of another project"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/64579962b5d573a5db36a257eb7fbf1b0013537e...ad80246a11e51e0b3ecf2ce44815d06013285423",
+    "several": true
+  },
+  "first": "2026-11-13T12:18:24.068Z",
+  "at": "2026-11-13T12:18:24.068Z",
+  "source": "f789e97a00bd251b9e5932af3a2ea79df3f6b2af34efe21f29acec56e31dfc16",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

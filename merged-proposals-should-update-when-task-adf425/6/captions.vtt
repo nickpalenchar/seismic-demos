@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:08.431
+This comparison proposes a follow-up for CSV encoding. It asks which encoding to use. That question belongs to this result.
+
+00:00:09.382 --> 00:00:23.222
+The original card now asks which systems must read the export. The earlier preview still asks which encoding to use, because the replacement comparison has not arrived. Even when the update fails, its original question stays readable.
+
+00:00:24.174 --> 00:00:34.574
+Try again preserves the same earlier question while the comparison runs. Once the new result arrives, the follow-up uses the updated question. Approval is available again.

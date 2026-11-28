@@ -1,0 +1,15 @@
+{
+  "kind": "html",
+  "title": "Priorities share the review's shapes",
+  "text": "A card's priority no longer shows a flag. It now uses the same shape as the matching code-review severity: a dashed ring with a dot for trivial, a circle for low, a square for medium, a diamond for high, a double diamond for very high, and a double diamond with an exclamation mark for critical. Colours are unchanged, so you can tell a priority by its shape as well as its colour.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/f5cd95145f9e414ce1ad9b6df5f49a82fd98e1d2"
+  },
+  "first": "2026-11-28T13:29:02.667Z",
+  "at": "2026-11-28T13:29:02.667Z",
+  "source": "4f8fbb73ac9421a7fb6f44fe0215b0588d4f11731039fe6612134ead7cfea084",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

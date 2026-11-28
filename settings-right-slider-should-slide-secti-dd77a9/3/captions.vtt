@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:13.311
+The phone menu can switch directly from Needs you to Project settings, and back. The new page stays open, and browser Back returns to the project. While settings cover the project, Tab stays clear of its hidden controls.
+
+00:00:14.264 --> 00:00:28.024
+Switching to worktrees puts clone details aside. Here, three new clones and an existing clone are entered first. After returning to the list and reopening Agents and models, switching back to clones brings both values back.
+
+00:00:28.978 --> 00:00:43.578
+If Save and restart agents is refused, Try again retries the workstation changes too. In this demonstration the save is deliberately refused twice: the reason stays visible on retry, and the pending clone values remain available to correct or discard.

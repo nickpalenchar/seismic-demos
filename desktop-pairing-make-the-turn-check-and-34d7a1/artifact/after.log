@@ -1,0 +1,16 @@
+ 20.3 s  shell /Users/nick/.seismic/workspaces/obeya/34d7a1e4/desktop/target/checkout/debug/seismic; Mac Studio at http://127.0.0.1:51728, Fast C at http://127.0.0.1:51729
+ 45.9 s  the window loaded This Mac's /; active: local, turn 0
+ 46.0 s    the page called connect_workspace
+ 46.1 s    Mac Studio is asked /api/projects (answers in 8 s)
+ 48.0 s    the page called switch_workspace c
+ 48.1 s  the window loaded Fast C's /; active: c, turn 1
+ 59.2 s    (Mac Studio has answered; now a pairing nothing interrupts)
+ 63.7 s    Mac Studio is asked /api/projects (answers in 8 s)
+ 64.3 s    the page called connect_workspace
+ 71.8 s    Mac Studio is asked /pair?code=000000
+ 71.8 s  the window loaded Mac Studio's /pair?code=000000; active: c, turn 2
+ 71.9 s  the window loaded This Mac's /?workspace=connect&name=Mac+Studio&address=http%3A%2F%2F127.0.0.1%3A51728&problem=wrong; active: c, turn 2
+ 72.9 s  ok   after the switch, the window stayed on Fast C (no page loaded until the retry)
+ 73.0 s  ok   the abandoned pairing never sent the window to /pair
+ 73.0 s  ok   nothing was saved: Fast C active, no Mac Studio on the list: {"active":"c","list":[{"id":"local","name":"This Mac","url":null},{"id":"c","name":"Fast C","url":"http://127.0.0.1:51729"}]}
+ 73.0 s  ok   a pairing nothing interrupts went to /pair and came back with "wrong": ?workspace=connect&name=Mac+Studio&address=http%3A%2F%2F127.0.0.1%3A51728&problem=wrong

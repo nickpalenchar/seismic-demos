@@ -1,0 +1,27 @@
+{
+  "title": "Cards that could not land say so",
+  "text": "When approved work cannot land because the main checkout has uncommitted changes to the same files, its card now reads \"Not landed (file conflict)\" instead of \"Demo ready\". It shows that way on the canvas, in Needs you and at the top of the opened card, so it is clear at a glance that the card needs you to fold those changes in.",
+  "chapters": [
+    [
+      0,
+      "The card says why it did not land"
+    ],
+    [
+      16.05,
+      "It waits in Needs you"
+    ],
+    [
+      23.01,
+      "What to do is on the card"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/8bf344da783816032cb29cd5f5f3e97c2dcaefa4"
+  },
+  "first": "2026-11-12T13:24:18.935Z",
+  "at": "2026-11-12T13:24:18.935Z",
+  "source": "ebc9fe9aaa79725a562f14f7c92e5e0efd01c9670480f761a8af6d0bfa1a7200",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

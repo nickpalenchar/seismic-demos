@@ -1,0 +1,31 @@
+{
+  "title": "Switches sized for a finger on touch screens",
+  "text": "On a phone, the \"Share on approval\" switch under the Approve button was the size made for a mouse pointer, so a thumb often missed it. On touch screens, every on/off switch is now larger and its whole row, the words included, takes the tap. A tap that lands a little beside the switch now flips it at the first try. On a computer nothing changes.",
+  "chapters": [
+    [
+      0,
+      "The switch under Approve"
+    ],
+    [
+      10.43,
+      "A tap just beside it"
+    ],
+    [
+      16.11,
+      "Now: sized for a finger"
+    ],
+    [
+      26.38,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/7f9bb0aa86ae33023a9fdb8cf370e68efb0b803d"
+  },
+  "first": "2026-11-13T03:00:25.700Z",
+  "at": "2026-11-13T03:00:25.700Z",
+  "source": "7a3de4feb07c50f2d6d11dd22c54cb4d142ea890d0351512567cd9aa582501fa",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

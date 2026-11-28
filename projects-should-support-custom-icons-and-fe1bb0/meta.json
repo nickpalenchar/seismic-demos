@@ -1,0 +1,36 @@
+{
+  "title": "Projects get their own icon or emoji",
+  "text": "Every project in the switcher used to carry the same branch symbol, so projects could only be told apart by name. Now each project can have its own icon or emoji, chosen beside its name in Configuration. The icons are a curated Lucide set that leads with software, business, buildings, people and sports, in a colour of the canvas palette. The emoji tab lists every system emoji with a tab per category.",
+  "chapters": [
+    [
+      0,
+      "Every project looks the same"
+    ],
+    [
+      7.76,
+      "An icon beside the project name"
+    ],
+    [
+      21.79,
+      "A colour from the canvas palette"
+    ],
+    [
+      28.23,
+      "Emoji, a tab per category"
+    ],
+    [
+      40.91,
+      "Saved, and shown in the switcher"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/833bcec7b4c245ea0ffbc23b3a3696a4c451f115...d8545530bbb079c35b4604a68c717955495d9cf5",
+    "several": true
+  },
+  "first": "2026-11-19T23:27:45.710Z",
+  "at": "2026-11-19T23:27:45.710Z",
+  "source": "4d0b5e812ef98034ba8290e391b4a925f3e3e2a55d5c6e4d3a331052ea0205ae",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

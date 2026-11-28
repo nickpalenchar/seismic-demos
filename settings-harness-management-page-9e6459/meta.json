@@ -1,0 +1,70 @@
+{
+  "title": "Manage connected harnesses",
+  "text": "Configuration now has a Harnesses page for connecting and disconnecting coding agents. The setup wizard verifies each connection before adding it. Agent menus and the usage bar follow the connections you’ve confirmed.",
+  "chapters": [
+    [
+      0,
+      "Keep only the harnesses selected during setup"
+    ],
+    [
+      16.97,
+      "Choose new harnesses in Configuration"
+    ],
+    [
+      33.4,
+      "Confirm each harness in turn"
+    ],
+    [
+      52.16,
+      "Finish setup and see usage"
+    ],
+    [
+      68.35,
+      "Disconnect a harness"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-20T22:56:21.797Z",
+  "at": "2026-11-20T22:56:21.797Z",
+  "source": "20b12ac132571f3c055be98cee5ba978b45cbfa2951d448bb27fcd2cbe88ad24",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Onboarding follows the harnesses you select",
+      "text": "Onboarding uses the harnesses you select to set up your first project. If you choose only Codex, it becomes the sole connection and usage meter, even when an earlier preference named another harness.",
+      "chapters": [
+        [
+          0,
+          "Choose Codex only"
+        ],
+        [
+          16.32,
+          "Verify the connection, default, and usage"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-20T12:13:35.054Z",
+      "at": "2026-11-20T22:56:21.797Z",
+      "source": "fbe2cab97c6f9bcf3c71ce4f371803226ca560781e768be70ff4a86554981190"
+    },
+    {
+      "title": "Harness settings reflect active connections",
+      "text": "Harnesses shows when every available harness is already connected. After a disconnect, the project editor updates its Git requirement to match the harness that will run its workers.",
+      "chapters": [
+        [
+          0,
+          "Every harness is connected"
+        ],
+        [
+          13.8,
+          "Use a folder after disconnecting Antigravity"
+        ]
+      ],
+      "dir": "3",
+      "handed": "2026-11-20T17:41:00.517Z",
+      "at": "2026-11-20T22:56:21.797Z",
+      "source": "f44f401b2697e882f539677b2a27419e44166d6db769d9ac692a664d0cb06ad0"
+    }
+  ]
+}

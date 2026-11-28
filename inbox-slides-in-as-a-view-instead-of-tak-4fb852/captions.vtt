@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:08.232
+The inbox is a page of the left menu. Opened from the floating menu, it slides in at the menu's size, and the canvas stays in view behind it.
+
+00:00:09.184 --> 00:00:16.904
+With the menu docked, the inbox takes the dock's space. "Go to card" still opens the card beside it, and the arrow goes back to the menu.

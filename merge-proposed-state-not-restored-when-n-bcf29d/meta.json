@@ -1,0 +1,27 @@
+{
+  "title": "Resume a merge from either card",
+  "text": "Opening either original card brings you back to the merge already in progress. The current comparison, prepared result and approval controls remain available after visiting another card.",
+  "chapters": [
+    [
+      0,
+      "Before: the return link loses the comparison"
+    ],
+    [
+      10.96,
+      "After: return to the current merge"
+    ],
+    [
+      20.67,
+      "Leave, reopen, and finish"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/7724d10ac8387df97b3452e55045a769dcd5a86f"
+  },
+  "first": "2026-11-15T02:34:43.239Z",
+  "at": "2026-11-15T02:34:43.239Z",
+  "source": "5a12303803c754fcdf10f75c603384fb9cac159d5bdbfdada522a0d64967c6c2",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

@@ -1,0 +1,16 @@
+{
+  "kind": "html",
+  "title": "Skills now carry the seismic: prefix",
+  "text": "The agent skills Seismic gives its workers are renamed from the old obeya: prefix to seismic:. For example, obeya:settings becomes seismic:settings. Every brief, doc and card text that names a skill uses the new name, including the skill lists given to Codex and Antigravity workers.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/ce3fda45b0c004852f125bddd27f33dbb57455fd...f7b33804c4e23e3cb7e37489d753385f2c27f3b3",
+    "several": true
+  },
+  "first": "2026-11-15T00:14:49.844Z",
+  "at": "2026-11-15T00:14:49.844Z",
+  "source": "44b5070f1676646cb37d3cc1bd9dae1b42e5528cbe302ac9d174660d60c191d5",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

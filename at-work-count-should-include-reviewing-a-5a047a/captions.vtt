@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:06.990
+Two cards wait for the owner with their demos, and no agent is busy: the Workstations pill says none at work.
+
+00:00:07.943 --> 00:00:20.903
+The owner starts a code review on the first card. A separate agent now reads its diff, and the pill counts it: one at work. The list names the card as Reviewing, and the machine's line says one at work too.
+
+00:00:24.519 --> 00:00:35.679
+Later, the review is done and its agent has ended: the count goes back to none at work. A review paused for a restart of Seismic does not count either, since no agent works on it then.

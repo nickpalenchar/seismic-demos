@@ -1,0 +1,82 @@
+{
+  "title": "A left menu about the open project",
+  "text": "The left menu now centres on the project you have open: a Project section names it and lists its views (Canvas, Table, Queue, Parked, Archive). A Configure section follows, with Appearance (light or dark, motion) opening right inside the menu, then Settings, the controls and Give Feedback. The old Preferences dialog is gone: agent rules live under Configure agents › Rules, and About Seismic is the last section of Settings. The same layout shows in the desktop app, in narrow windows and on the phone.",
+  "chapters": [
+    [
+      0,
+      "One project, its views"
+    ],
+    [
+      19.99,
+      "Rules under Configure agents"
+    ],
+    [
+      32.26,
+      "Configure: Appearance in the menu"
+    ],
+    [
+      45.55,
+      "About Seismic in Settings"
+    ],
+    [
+      54.03,
+      "Help and feedback below a line"
+    ],
+    [
+      64.1,
+      "Narrow windows and the phone"
+    ],
+    [
+      76.3,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-27T19:20:16.361Z",
+  "at": "2026-11-27T19:20:16.361Z",
+  "source": "e2317da896a216ee07808209cdfb17025218fcae5c4a2193b7e3b45314c2fd6b",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Project pill beside the docked menu",
+      "text": "With the left menu docked, the project pill stays at the start of the project, so switching projects and adding a new one is always one click away. It slides along as the menu is shown or hidden. Escape on a page of the docked menu, such as Appearance, now goes back to the menu and leaves the view underneath open.",
+      "chapters": [
+        [
+          0,
+          "The project pill beside the docked menu"
+        ],
+        [
+          9.09,
+          "It moves with the menu"
+        ],
+        [
+          15.24,
+          "Escape goes back in the menu"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-27T15:01:41.637Z",
+      "at": "2026-11-27T19:20:16.361Z",
+      "source": "6d5db61e8aab913aaa441a456c3ccb7682e8ec61e1396bb242e1f0ec1089f74d"
+    },
+    {
+      "title": "Appearance choices with icons, stacked in a narrow menu",
+      "text": "The Appearance page in the left menu sets light or dark and motion, each choice with its icon: a monitor for Match system, a sun and a moon for light and dark, fast-forward and pause for motion. In a menu narrower than 300 pixels the choices stack one under another, so every option stays in view; widened again, they return to one row.",
+      "chapters": [
+        [
+          0,
+          "Side by side in a wide menu"
+        ],
+        [
+          13.8,
+          "Stacked under 300 px"
+        ]
+      ],
+      "dir": "3",
+      "handed": "2026-11-27T19:16:51.062Z",
+      "at": "2026-11-27T19:20:16.361Z",
+      "source": "a373b4c00fffa6ecc8c46b2faba7f11c7544d570b83e0ad3767223cd590f6ed2"
+    }
+  ]
+}

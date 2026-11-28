@@ -1,0 +1,12 @@
+{
+  "kind": "html",
+  "title": "Parked cards in a grid",
+  "text": "The Parked view now lays its cards out in a grid instead of one long column. Large screens show three cards per row, medium screens two, and phones one, so more parked work is visible at once.",
+  "chapters": [],
+  "pr": null,
+  "first": "2026-11-17T13:36:11.498Z",
+  "at": "2026-11-17T13:36:11.498Z",
+  "source": "4b89fc5a6dfd13ef0ccecb285da53acf492a7e886054ae668b45ea728bb42c6b",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

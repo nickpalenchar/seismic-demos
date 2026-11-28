@@ -1,0 +1,64 @@
+{
+  "title": "A three-step welcome to Seismic",
+  "text": "On the first start, Seismic now walks you through setup in three steps, shown by a progress bar: agents, recommended features, and your first project. You pick one or more agents (Claude Code, Codex, Antigravity; Pi is coming soon), and each one shows what it needs on your machine. A callout above the button says how many agents are ready, and the next step lists the features that can wait, with a warning when you skip some.",
+  "chapters": [
+    [
+      0,
+      "Three steps, agents first"
+    ],
+    [
+      18.07,
+      "Proceeding needs a configured agent"
+    ],
+    [
+      34.47,
+      "Adding Codex"
+    ],
+    [
+      53.3,
+      "Recommended features"
+    ],
+    [
+      67.33,
+      "The first project"
+    ],
+    [
+      78.01,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/87b94a3cc73ea6fd09539c03d6ec4f8a3e419d2c...bd4908240d66a3c6d13a9852848746df184ffeb9",
+    "several": true
+  },
+  "first": "2026-11-15T20:59:52.820Z",
+  "at": "2026-11-15T20:59:52.820Z",
+  "source": "f59d395b558bb616abe599f0d209273ed17256bd33c41d017d804fcdc2186a97",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Later setup steps need a configured agent",
+      "text": "In Seismic's three-step welcome, the later steps can only be reached once at least one agent is configured, also through the progress bar. Unpicking every agent disables the way on until one is picked again, and the Ready badge on each agent now also takes git into account.",
+      "chapters": [
+        [
+          0,
+          "Back to the first step"
+        ],
+        [
+          8.07,
+          "No agent, no way past it"
+        ],
+        [
+          18.9,
+          "Picked again"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-15T20:57:36.556Z",
+      "at": "2026-11-15T20:59:52.820Z",
+      "source": "494c2bffc0db1becd559abb4b4531a7643db2b13bc89cb6fa19f824dd4f0258b"
+    }
+  ]
+}

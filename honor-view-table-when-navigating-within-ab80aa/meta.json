@@ -1,0 +1,20 @@
+{
+  "title": "Table view follows the address",
+  "text": "Opening a project with ?view=table already showed the Table view, but following links or pressing Back/Forward inside the open project ignored it. Now the view follows the address: Back returns to the table, and a card link with ?view=table closes onto the table instead of the canvas.",
+  "chapters": [
+    [
+      0,
+      "Back returns to the table"
+    ],
+    [
+      10.07,
+      "A card link with the table"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-18T00:06:17.086Z",
+  "at": "2026-11-18T00:06:17.086Z",
+  "source": "c6b82d4a72ea42a60188d1b0a159ac2531051c06dfab558efb7045e42eb6d1c2",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

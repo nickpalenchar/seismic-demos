@@ -1,0 +1,20 @@
+{
+  "title": "New canvases start with a random icon",
+  "text": "Clicking New canvas now opens the dialog with a random icon already selected, so a new canvas has a recognisable tab from the start. Type a name and save to keep the icon, pick a different one, or choose no icon as before.",
+  "chapters": [
+    [
+      0,
+      "Opening the dialog"
+    ],
+    [
+      9.61,
+      "Keeping or changing it"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-21T22:15:05.085Z",
+  "at": "2026-11-21T22:15:05.085Z",
+  "source": "f1c77aee0c22d6d7cba8033ea6fd9ae962ab177a8d8839597ffde95cc0d44381",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

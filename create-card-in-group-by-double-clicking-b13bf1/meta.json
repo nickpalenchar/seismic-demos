@@ -1,0 +1,48 @@
+{
+  "title": "Create cards inside a group",
+  "text": "Double-click empty space inside a group’s shaded boundary to add a card to that group. The card opens for editing at the spot you clicked. Double-click outside the shading to create an ungrouped card.",
+  "chapters": [
+    [
+      0,
+      "Before, the card cuts a gap in the group"
+    ],
+    [
+      12.48,
+      "Double-click inside Checkout to add a card"
+    ],
+    [
+      24.31,
+      "Create an ungrouped card on the open canvas"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/e82b36a32d9452607e0ab7445d6dd99dab1dd548...fe6acd14d2bececfd1094354eacc478a2e345fb5",
+    "several": true
+  },
+  "first": "2026-11-18T22:21:01.620Z",
+  "at": "2026-11-18T22:21:01.620Z",
+  "source": "a00353c14e2b30194288512316e66ab592bcc45c27447e166fbfe06a2202a0be",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "The second tap picks the group",
+      "text": "When a double-tap crosses a group’s shaded boundary, the new card follows the second tap. That point determines both where the card lands and which group it joins.",
+      "chapters": [
+        [
+          0,
+          "Before, the first tap picked the group"
+        ],
+        [
+          14.87,
+          "The card now follows the second tap"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-18T17:03:55.177Z",
+      "at": "2026-11-18T22:21:01.620Z",
+      "source": "da9b00b31ec2598afa3740e1a004a157480671fec5e0780f2f1adb389c7b1558"
+    }
+  ]
+}

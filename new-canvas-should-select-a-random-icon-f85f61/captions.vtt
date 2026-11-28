@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:07.511
+Clicking New canvas used to open a dialog with no icon chosen. Now it opens with a random icon already selected.
+
+00:00:09.964 --> 00:00:16.724
+Type a name and save, and the canvas keeps that icon. The owner can still pick another one, or choose no icon.

@@ -1,0 +1,28 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:14.110
+The sliders in the bar open the project settings: one list, each section a full-width row with its icon. Allowed commands stands first, with a red count while commands wait for trust. Archive project sits at the foot.
+
+00:00:15.064 --> 00:00:28.944
+A section slides in as its own view, with Back at the top. It lists the commands from each repository’s config that Seismic may run. The site repository has a new stop command to review. Trusting it here clears the red count.
+
+00:00:29.897 --> 00:00:44.937
+Development environment belongs to a repository, so a switcher picks which one. Update with agent has an agent write these settings for everyone. A change saves by itself: the setup command now says it is set on this machine, with Reset beside it.
+
+00:00:45.891 --> 00:00:59.251
+Escape goes back to the list. In Agents and models, switching the shop to clones would restart its agents, so nothing is saved until Save and restart agents is pressed. Below sit the models of each group of agents.
+
+00:01:00.203 --> 00:01:14.643
+Auto suggestions gathers what Seismic proposes on its own: new cards from friction during work, merges of duplicate cards, and labels. Switching labels off only disables the three checkboxes; they keep their ticks for when it is switched on again.
+
+00:01:15.595 --> 00:01:27.515
+Code reviews start switched off, with a hint that turning them on brings more options. Once enabled, the view shows when reviews happen and the reviewer’s model. The list then marks the section as enabled.
+
+00:01:28.470 --> 00:01:37.910
+Git and releasing holds the repository on this machine, its main branch, how approved work lands, where its plans live with their tags, and sharing these settings with everyone.
+
+00:01:38.867 --> 00:01:49.707
+Card archiving says how finished cards go into the archive, and what a right click on a card opens. Demos holds the repository’s handover artifacts and the project’s demo site.
+
+00:01:50.661 --> 00:02:06.301
+Archive project asks first. The project leaves Seismic and its agents stop, but its cards are kept. Once archived, the page moves on to the next project. In short, every project setting is one click from the list, and each change applies at once.

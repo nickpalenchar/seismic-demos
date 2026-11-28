@@ -1,0 +1,16 @@
+ 35.9 s  shell /tmp/pairturn-main/desktop/target/checkout/debug/seismic; Mac Studio at http://127.0.0.1:65481, Fast C at http://127.0.0.1:65482
+ 73.4 s  the window loaded This Mac's /; active: local, turn 0
+ 73.4 s    [page] http://127.0.0.1:49245 got connect; asking the turn
+ 73.5 s    Mac Studio is asked /api/projects (answers in 8 s)
+ 73.5 s    [page] http://127.0.0.1:49245 turn 0; connecting
+ 73.5 s    the page called connect_workspace
+ 75.2 s    the page called switch_workspace c
+ 76.9 s  the window loaded Fast C's /; active: c, turn 1
+ 76.9 s    [page] http://127.0.0.1:65482 waits
+ 77.9 s    [page] http://127.0.0.1:65482 waits
+ 79.1 s    [page] http://127.0.0.1:65482 waits
+ 80.3 s    [page] http://127.0.0.1:65482 waits
+ 81.5 s    [page] http://127.0.0.1:65482 waits
+ 82.7 s    [page] http://127.0.0.1:65482 waits
+ 83.8 s    [page] http://127.0.0.1:65482 waits
+156.1 s  FAIL Error: the flow did not finish in 300 s: [{"at":1795388160767,"name":"This Mac","path":"/","search":""},{"at":1795388164197,"name":"Fast C","path":"/","search":""}]

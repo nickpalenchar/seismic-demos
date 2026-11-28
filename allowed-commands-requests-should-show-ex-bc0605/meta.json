@@ -1,0 +1,36 @@
+{
+  "title": "Commands to trust show only what changed",
+  "text": "When a repository changes its agent configuration, Seismic asks you to trust the new commands before agents may run them. That review used to show the whole configuration at once. It now shows each changed file on its own under its name, with only the changed lines and a few lines of context, and you can expand the rest above and below with a click, the same as in a card's diff.",
+  "chapters": [
+    [
+      0,
+      "A changed allow list"
+    ],
+    [
+      11.64,
+      "Only the changes"
+    ],
+    [
+      21.19,
+      "Each file on its own"
+    ],
+    [
+      29.19,
+      "Expanding top and bottom"
+    ],
+    [
+      37.7,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/ec19c8e309e14330c93f9ad71596614dfa550a3c...2713f5ced0611c66692353599fa372c04f70cae1",
+    "several": true
+  },
+  "first": "2026-11-22T17:17:51.732Z",
+  "at": "2026-11-22T17:17:51.732Z",
+  "source": "c918564997ba41370cfe3a171dedbfd3c8c5e55acf9c0db236efb0d17271be73",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

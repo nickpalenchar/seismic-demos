@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:11.152
+Campaigns looks empty, but it has two parked cards and one snoozed card. The trash opens a warning and offers main as the destination. Here, the cards will move to Ideas.
+
+00:00:12.106 --> 00:00:24.826
+The spinner shows that deletion is in progress, and the button is disabled. A card appeared on Campaigns while the dialog was open, so deletion was refused. The error appears here, with Ideas still selected.
+
+00:00:25.778 --> 00:00:36.978
+Once the new card has moved out of Campaigns, the same confirmation succeeds. The parked and snoozed cards are now on Ideas. As they return to the canvas, each has its own spot.

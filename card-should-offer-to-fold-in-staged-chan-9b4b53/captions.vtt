@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:11.152
+Before the fix. The owner has a change staged in the main checkout, to a file this card changes too. Approving fails, and the toast says the card offers to fold the change in.
+
+00:00:12.112 --> 00:00:21.352
+But the card only reads Demo ready, or Ready for review, and offers nothing. Staged changes were not counted, and the white toast had no way back to the card.
+
+00:00:22.319 --> 00:00:35.999
+Now with the fix. The same approval fails the same way, but the toast is a yellow warning that stays, with a Go to card button. The card turns orange, reads Not landed, file conflict, and counts in Needs you.
+
+00:00:36.951 --> 00:00:48.471
+Go to card opens it. The staged file is named, with Fold in and land, or Fold in with a new demo. Folding moves the staged version into the card for its agent to work in.

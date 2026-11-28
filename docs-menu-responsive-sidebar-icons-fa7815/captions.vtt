@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:09.791
+On a wide window the menu is always docked on the left. There is no pin inside it any more. The button at the top shows a panel icon that closes the sidebar.
+
+00:00:10.744 --> 00:00:17.584
+A click hides the menu, and the icon turns into one that opens it again. Another click brings the sidebar back.
+
+00:00:18.535 --> 00:00:25.855
+Opening a plan and reading its plan doc keeps the menu docked. The sheet on the right takes its width from what the sidebar leaves.
+
+00:00:26.868 --> 00:00:34.668
+On a medium or small window there is no room to dock. The button shows a menu icon instead, and the menu drops down under it.

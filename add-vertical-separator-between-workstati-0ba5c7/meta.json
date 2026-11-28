@@ -1,0 +1,16 @@
+{
+  "kind": "html",
+  "title": "Separator in the status bar",
+  "text": "The bottom status bar now has a thin, subtle vertical line between the Workstations pool and the usage limits. It has some space above and below, and only shows when both are visible. This makes the two groups easier to tell apart at a glance.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/4aa3a8dcc903762795f258fff87df058526d26ad...7ddae39c8013cc2dca28fb5fb989ffc133b23b9a",
+    "several": true
+  },
+  "first": "2026-11-18T00:46:40.061Z",
+  "at": "2026-11-18T00:46:40.061Z",
+  "source": "1c43e089412f4b30bd90b1b8054d6b403d351e9a66514ae0a700f59677eb4de7",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

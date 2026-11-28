@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:07.471
+After going on to the recommended features, the progress bar leads back to the agents, and both later steps stay a click away.
+
+00:00:08.422 --> 00:00:18.302
+Unpicking every agent leaves none configured. Continue is disabled, and now the later steps in the bar are disabled too, so the first project cannot be reached without an agent.
+
+00:00:19.254 --> 00:00:26.894
+Picking Claude Code again opens the way on. Each Ready badge now also needs git to be set up, so it always agrees with the callout.

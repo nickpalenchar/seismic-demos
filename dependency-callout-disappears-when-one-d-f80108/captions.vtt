@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:11.192
+Invoice export depends on two cards. The invoice fields are confirmed. The tax rules are awaiting approval. Opening the export card used to give you no indication of that remaining dependency.
+
+00:00:12.147 --> 00:00:21.547
+The planned export card now lists its unfinished prerequisites before you start it. Here both are still open, so both appear as links to their cards.
+
+00:00:22.500 --> 00:00:30.540
+Once the invoice fields are confirmed, the callout still shows the tax rules. When the tax rules are signed off too, the callout clears.

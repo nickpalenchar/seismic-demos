@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:14.991
+On mobile, Planned shows the most recently created active tasks first. Checkout is the newest active task, followed by delivery estimates and product search. Tasks scheduled for later stay behind active work, even when they were created more recently.
+
+00:00:15.946 --> 00:00:25.146
+There are twenty active plans in this project. All twenty fit on the first page. The two newer snoozed tasks do not push active work behind Load more.
+
+00:00:26.105 --> 00:00:38.665
+Load more reveals the snoozed plans after the active ones. These cards are also ordered newest first within their group. Recent work stays easy to find, while plans set aside for later stay at the end.

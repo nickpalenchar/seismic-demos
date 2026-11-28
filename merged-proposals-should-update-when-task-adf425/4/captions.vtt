@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.387 --> 00:00:11.387
+This planned card asks for an error message and an account lockout. It is merged with the login card in progress, and the comparison offers the lockout as extra work, ready to approve.
+
+00:00:12.379 --> 00:00:29.739
+Now the login agent hands over, with the lockout done. Within a moment the result dims under "Updating: a card changed", and Approve merge is disabled. The new comparison itself starts only a few seconds later, once the changes have settled, but the old result can no longer be approved in the meantime.
+
+00:00:30.706 --> 00:00:37.506
+A little later, the new comparison is in: the login work now covers the planned card, and the merge can be approved.

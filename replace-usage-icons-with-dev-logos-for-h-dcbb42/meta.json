@@ -1,0 +1,28 @@
+{
+  "title": "Real harness logos in the usage pills",
+  "text": "The status bar shows how much of each AI coding tool's plan limits is used. Each pill now begins with that tool's own logo (Claude Code, Codex, Antigravity) instead of a hand-drawn stand-in and small meter, followed by each limit and its percentage. The percentage turns orange or red as a limit runs low, and a click still lists every limit with when it resets.",
+  "chapters": [
+    [
+      0,
+      "Before: hand-drawn marks"
+    ],
+    [
+      15.96,
+      "After: the real logos"
+    ],
+    [
+      31.19,
+      "The list behind a pill"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/d8545530bbb079c35b4604a68c717955495d9cf5...e9ded438b21039f2fbaece107490b2834841bc5f",
+    "several": true
+  },
+  "first": "2026-11-19T23:55:06.205Z",
+  "at": "2026-11-19T23:55:06.205Z",
+  "source": "565fd6cff66c66a3f1a8d9472c38d0000bf4170366d1e90276c52c590173db9f",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

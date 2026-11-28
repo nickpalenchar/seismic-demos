@@ -1,0 +1,24 @@
+{
+  "title": "Inbox slides into the left menu",
+  "text": "The inbox no longer covers the whole canvas. It is now a page of the left menu: it slides in at the menu's size, whether the menu is floating or docked, and the canvas stays visible. \"Go to card\" still opens the card next to it, and a back arrow returns to the menu.",
+  "chapters": [
+    [
+      0,
+      "Inbox in the dropped-down menu"
+    ],
+    [
+      8.83,
+      "Docked, it takes the dock space"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/53e3897f9bfbc14faeb5bba97312abab4067723e...8b41b5fe676e745654b4f28c6fd758493701faa6",
+    "several": true
+  },
+  "first": "2026-11-22T13:30:41.260Z",
+  "at": "2026-11-22T13:30:41.260Z",
+  "source": "66c28a240b8f6d1556d154592a6d973e6ecdb54801c46f3d0d7c34155ef2d288",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

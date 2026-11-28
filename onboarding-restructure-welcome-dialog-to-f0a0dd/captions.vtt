@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:17.470
+On the first start, Seismic now sets itself up in three steps, shown by the bar at the top: agents, recommended features, and the first project. Step one asks which agents you work with. Claude Code and Antigravity are already set up on this machine, so they come picked and marked ready.
+
+00:00:18.424 --> 00:00:33.864
+Each picked agent shows what it needs below, with git that every agent shares. With no agent picked, Continue stays disabled until one is configured. Picking Claude Code again, the green callout says Seismic can proceed with Claude Code configured.
+
+00:00:34.817 --> 00:00:52.697
+Codex is new on this list. Picked, its block shows Codex installed but not signed in, with a button that opens a terminal to log in. Pi is coming soon and cannot be picked yet. Once Codex is signed in, Check again marks it ready, and the callout now counts two agents configured.
+
+00:00:53.651 --> 00:01:06.731
+Continue leads to step two: pull requests, voice commands, demos and mobile development, each tagged as one that can wait. Where some are still incomplete, a yellow callout above the button says what proceeding leaves out.
+
+00:01:07.684 --> 00:01:17.404
+Step three is the first project, from a folder on this computer or a clone. The bar lets you jump back to an earlier step, and the agents stay as picked.
+
+00:01:18.357 --> 00:01:24.357
+Seismic’s welcome now walks through agents, recommended features and the first project, one step at a time.

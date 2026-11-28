@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:19.231
+The agent was asked to fix two review items, and holds both wrong. Each item is now marked Disputed, not Reopened, so it no longer looks as if the reviewer overruled the agent. The agent’s reasons stand in a box titled Review disputed by worker, and the next review leaves the item alone: the decision is the owner’s.
+
+00:00:20.183 --> 00:00:36.463
+The owner disagrees on the deadlock. Reject and explain opens a field for the reason, right inside the box. Once confirmed, the box closes and the badge reads Dispute rejected. The item offers the usual choices again, with Fix it selected and the explanation as its context.
+
+00:00:37.414 --> 00:00:47.214
+On the window title, the agent is right. Confirm and close closes the box as well: the badge reads Dispute confirmed, and the usual choices come back with Ignore selected.
+
+00:00:48.166 --> 00:00:57.726
+Both answers go out with the one Send, like every other review choice. The deadlock goes back to the agent with the owner’s words, and the window title item is closed.

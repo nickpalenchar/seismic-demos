@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:08.951
+When the agent settings fail to load, Back is still available and Confirm is disabled. Retry loading settings brings the three choices back without leaving the step.
+
+00:00:09.906 --> 00:00:19.426
+Choose Codex and another model. The model step holds these choices as a draft. Go Back and return to the step, and the saved Claude Code choice is still there.
+
+00:00:20.377 --> 00:00:30.137
+In Settings, open Advanced. Reconfigure Setup contains the Relaunch Setup button. It opens a solid dialogue, so the controls behind it stay out of sight.
+
+00:00:31.090 --> 00:00:36.970
+Change the effort and close Setup. Relaunch it again, and the saved Medium effort is still selected.
+
+00:00:39.211 --> 00:00:46.531
+Choose Codex and set its effort to Low. Confirm saves the harness, model and effort together and opens Recommended features.

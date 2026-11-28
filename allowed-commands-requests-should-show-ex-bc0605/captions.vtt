@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:11.031
+The repository changed its Claude Code allow list on main: one command added, one removed, and a new MCP server. Seismic asks to trust it again under Allowed commands.
+
+00:00:11.985 --> 00:00:19.785
+Instead of the whole configuration, the diff now shows the changed lines with three lines around each change. The rest is folded away.
+
+00:00:21.541 --> 00:00:27.781
+Each changed configuration file gets its own diff under its name, so it is clear what is being approved.
+
+00:00:29.539 --> 00:00:36.099
+As in a card’s diff, the folded lines above and below expand with a click, to read the change in its full context.
+
+00:00:38.053 --> 00:00:44.053
+Commands to trust now show a short diff of what changed, expandable like the diffs on cards.

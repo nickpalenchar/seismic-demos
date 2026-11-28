@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:13.991
+The configuration is about every project, so while it is open, Command P does nothing and the configuration stays as it is. Once it is closed, Command P opens the switcher over the project, with the cursor already in its search field.
+
+00:00:15.559 --> 00:00:20.439
+Opened from the card search, Escape puts the cursor back in the card search, ready to type on.
+
+00:00:22.200 --> 00:00:27.720
+The shortcut works on the Agent Feedback Log page too, instead of opening the print dialog.
+
+00:00:28.674 --> 00:00:33.634
+And with the menu docked on the left, the shortcut is named under the list of projects as well.

@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:14.911
+While the Agent Feedback Log is open, Mobile App is renamed to Orders App in another tab. Follow a card link back to the canvas and open the project picker. It still lists Mobile App, so a search for Orders App finds nothing.
+
+00:00:15.863 --> 00:00:28.903
+With the fix, the same rename is picked up as soon as the canvas connects. Open the picker after returning from the log, and Orders App is already there with its waiting badge. Search for its new name and press Enter to open its canvas.

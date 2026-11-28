@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.353 --> 00:00:11.433
+Feedback after approval used to be a single switch for all of Seismic, under Notifications and limits. It is gone from there: only the notifications and the usage limits remain.
+
+00:00:12.386 --> 00:00:26.146
+It is a project setting now, called Enable model feedback, with a Beta badge. Under Project defaults it sets what a new project starts with. The hint says what it does, and Learn more opens a new page in the docs about the feature.
+
+00:00:27.100 --> 00:00:34.820
+Each project has it in its settings, under Model feedback. While it is off, the Agents part of the menu has no performance pages.
+
+00:00:35.771 --> 00:00:42.891
+Turned on, the dashboards come at once: Performance and Feedback log appear in the menu, and the section offers Compare ratings.
+
+00:00:43.845 --> 00:00:51.085
+Approving a card in this project now asks how well the agent did, from one to five stars. Skipping holds nothing up.
+
+00:00:53.011 --> 00:01:00.611
+Model feedback is now chosen per project, off unless turned on, with its own default for new projects and a page in the docs.

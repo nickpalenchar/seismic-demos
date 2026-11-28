@@ -1,0 +1,40 @@
+{
+  "title": "Model feedback, chosen per project",
+  "text": "Rating the agents' work after approval is now a setting of each project, \"Enable model feedback\" (Beta), instead of one switch for all of Seismic. Turn it on in a project's settings, or set it under Project defaults for new projects. While it's on, approving a card asks for a 1–5 star rating, and the menu shows the Performance and Feedback log dashboards. \"Learn more\" opens a docs page about the feature.",
+  "chapters": [
+    [
+      0,
+      "No longer under Notifications and limits"
+    ],
+    [
+      12.04,
+      "A project default"
+    ],
+    [
+      26.75,
+      "In the project’s settings"
+    ],
+    [
+      35.42,
+      "Turned on"
+    ],
+    [
+      43.5,
+      "Rating after approval"
+    ],
+    [
+      52.66,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/de21e2f6a19a5e8ce911f49c6d5da1290b96e863...e379b33de218f7e06bd9d2845614b6f2619c659c",
+    "several": true
+  },
+  "first": "2026-11-27T14:50:28.165Z",
+  "at": "2026-11-27T14:50:28.165Z",
+  "source": "f47e437be029442b67b12007a5e35991880f8687e29ee4a45fec26fc3384679b",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

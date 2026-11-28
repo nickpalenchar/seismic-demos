@@ -1,0 +1,104 @@
+{
+  "title": "Switch projects with Cmd+P",
+  "text": "Press Cmd+P (Ctrl+P on Windows and Linux) anywhere in Seismic to open a quick project switcher. Type a few letters of a project's name and press Enter to go straight there, without opening the project menu and looking through the list. Projects with cards waiting for you show their count, and the project you're in is listed last.",
+  "chapters": [
+    [
+      0.01,
+      "Opening the switcher"
+    ],
+    [
+      11.41,
+      "What it lists"
+    ],
+    [
+      21.36,
+      "Search and go"
+    ],
+    [
+      30.24,
+      "From a text field too"
+    ],
+    [
+      38.11,
+      "Finding the shortcut"
+    ],
+    [
+      44.46,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-22T20:16:33.939Z",
+  "at": "2026-11-22T20:16:33.939Z",
+  "source": "60538c285972bce9a24fe08b24d550b731711ec11439e092972636467262c178",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Project switcher works everywhere",
+      "text": "While Configuration is open, Cmd+P is ignored and Configuration stays as it is. Back in the project, Cmd+P opens the switcher with the cursor in its search field, and Escape puts the cursor back where it was. The switcher also works on the Agent Feedback Log page, and the left menu names the shortcut when it's docked.",
+      "chapters": [
+        [
+          0,
+          "Configuration stays put"
+        ],
+        [
+          15.21,
+          "Focus comes back"
+        ],
+        [
+          21.85,
+          "On the feedback log"
+        ],
+        [
+          28.32,
+          "Hint in the docked menu"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-22T17:09:07.444Z",
+      "at": "2026-11-22T20:16:33.939Z",
+      "source": "107eb93b509a0a59e33f4de065d87f857c2545ab06c671387076cdfd16323c38"
+    },
+    {
+      "title": "Project switcher keeps what you type",
+      "text": "The quick project switcher (Cmd+P) now keeps what is typed into it wherever it opens. Over the keyboard legend, spaces and question marks go into its search instead of to the legend. A search started while a project is still loading carries on once the project appears. On pages without a live project connection, like the Agent Feedback Log, the switcher reads the current list of projects each time it opens, so a project added in another tab shows up right away.",
+      "chapters": [
+        [
+          0.02,
+          "Over the keyboard legend"
+        ],
+        [
+          13.17,
+          "Searching while a project loads"
+        ],
+        [
+          30.57,
+          "A project added elsewhere"
+        ]
+      ],
+      "dir": "3",
+      "handed": "2026-11-22T18:41:09.063Z",
+      "at": "2026-11-22T20:16:33.939Z",
+      "source": "276f663cbb280dec363670c4903b80cd2885436b37b34bd74dbb38ceb642ea40"
+    },
+    {
+      "title": "The project picker stays current",
+      "text": "Projects added or renamed elsewhere are available in the picker when you return from the Agent Feedback Log to a canvas. Search for the current name to open the project and see its waiting count in the list.",
+      "chapters": [
+        [
+          0,
+          "Before the fix"
+        ],
+        [
+          15.51,
+          "The current name is ready to search"
+        ]
+      ],
+      "dir": "4",
+      "handed": "2026-11-22T20:14:47.369Z",
+      "at": "2026-11-22T20:16:33.939Z",
+      "source": "fe955551c92f19bca1f5a7a448abc82f539d0c7d3aa7874cca5957da19d06c0c"
+    }
+  ]
+}

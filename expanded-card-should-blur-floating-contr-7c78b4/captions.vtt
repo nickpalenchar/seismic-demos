@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:15.911
+On the canvas, the project switcher, the view switcher and the status bar float around the cards. When a long card opens, all of them blur together with the canvas, while the top bar stays sharp, and the card grows over the space they held, top and bottom.
+
+00:00:20.364 --> 00:00:23.964
+Closing the card brings the controls back, sharp and usable.

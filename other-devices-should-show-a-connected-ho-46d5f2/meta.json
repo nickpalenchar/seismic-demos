@@ -1,0 +1,24 @@
+{
+  "title": "Other devices shows which host you are connected to",
+  "text": "When you open Seismic's configuration on a phone or another computer, the Other devices section used to show only its intro and looked like it was still loading. Now an alert box with a cloud icon names the machine Seismic runs on (\"Connected to\" with the host's name). In the same box, a hint explains that new devices are added from the host's own Seismic, on that machine, and links to the docs.",
+  "chapters": [
+    [
+      0,
+      "Before: an empty section"
+    ],
+    [
+      11.96,
+      "Connected to the host"
+    ],
+    [
+      20.27,
+      "Where to add devices"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-27T17:06:23.655Z",
+  "at": "2026-11-27T17:06:23.655Z",
+  "source": "bd3c4260c5b97edf4cf390ab04eb17596b4fe0d81991ec6cd7df7c1051c33c37",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

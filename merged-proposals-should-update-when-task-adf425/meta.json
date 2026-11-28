@@ -1,0 +1,152 @@
+{
+  "title": "Merges update themselves when a card changes",
+  "text": "When two cards are being merged and either changes before the merge is approved (an edit, or the in-progress card's agent handing over), the comparison now runs again by itself. While it runs, the previous result stays visible but dimmed, and approval waits for the new result. Before, approving refused with a message to separate the cards and merge them again by hand.",
+  "chapters": [
+    [
+      0,
+      "Before: a dead end"
+    ],
+    [
+      16.43,
+      "After: the first comparison"
+    ],
+    [
+      27.2,
+      "A card changes: updating"
+    ],
+    [
+      38.19,
+      "The new result"
+    ],
+    [
+      48.71,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/61631945eab4d77f28b5c52697ccae5d02fee7ae...cb389e491aa03735c70f4a3110a76af4ba51f0e8",
+    "several": true
+  },
+  "first": "2026-11-13T03:52:31.434Z",
+  "at": "2026-11-13T03:52:31.434Z",
+  "source": "e6113c16aecdfdd0fe0689acc0250a6ae5355dc98d3a8d2fc2aa7b2b856fddd1",
+  "language": "en",
+  "by": "Nick Palenchar",
+  "more": [
+    {
+      "title": "Merges recover cleanly after edits and deletion",
+      "text": "Merge comparisons wait for changes to settle, and an old approval refusal disappears when the comparison updates. Deleting either card separates the pair, so restoring a deleted card brings back its original task without reviving the old merge.",
+      "chapters": [
+        [
+          0,
+          "A merge ready for review"
+        ],
+        [
+          8.19,
+          "A card changes: updating"
+        ],
+        [
+          21.23,
+          "The new result"
+        ],
+        [
+          33.82,
+          "Deletion separates the pair"
+        ]
+      ],
+      "dir": "2",
+      "handed": "2026-11-13T02:39:48.456Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "41930daf18d08352530a266e5ff0cd881980c89d06411c0e762aa851731897bb"
+    },
+    {
+      "title": "Each merge settles independently",
+      "text": "A merge compares again after its own cards stop changing, even while other workers keep updating the board. Separate merging pairs have independent delays, so a busy project no longer leaves a changed merge waiting indefinitely.",
+      "chapters": [
+        [
+          0,
+          "A merge ready for review"
+        ],
+        [
+          8.68,
+          "Other work keeps changing"
+        ],
+        [
+          19.95,
+          "Ready despite the activity"
+        ]
+      ],
+      "dir": "3",
+      "handed": "2026-11-13T02:56:06.730Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "afd352e616964da7ff5fe05e3e99dfa2972549fd45ec303b3b7e694e42611696"
+    },
+    {
+      "title": "A changed merge shows as updating at once",
+      "text": "When either card of a merge changes, the comparison result on screen is dimmed under \"Updating: a card changed\" right away, and Approve merge is disabled. The new comparison still starts a few seconds after the last change, so a burst of edits makes only one. An out-of-date result can no longer be approved during that wait.",
+      "chapters": [
+        [
+          0.04,
+          "A merge ready for review"
+        ],
+        [
+          12.03,
+          "Updating the moment a card changes"
+        ],
+        [
+          30.36,
+          "The new result"
+        ]
+      ],
+      "dir": "4",
+      "handed": "2026-11-13T03:09:41.643Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "aa35c62eea78dbaa1efd7a93b90f79df5f1d7fa1f08cf85f085fd17196ef8465"
+    },
+    {
+      "title": "Keep the previous comparison after an update fails",
+      "text": "When an updated merge comparison fails, the earlier result stays dimmed and readable beside the error. Try again preserves it until a successful comparison arrives, while approval stays disabled.",
+      "chapters": [
+        [
+          0,
+          "An earlier comparison"
+        ],
+        [
+          11.16,
+          "Failure keeps the result"
+        ],
+        [
+          24.31,
+          "Retry and replacement"
+        ]
+      ],
+      "dir": "5",
+      "handed": "2026-11-13T03:19:32.694Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "fbc4341bf987cc77df791ed8b28fa34ad0e7d31c1c6ae4f912443e5369fc4396"
+    },
+    {
+      "title": "Earlier follow-ups keep their original questions",
+      "text": "When a card’s questions change, its earlier merge comparison keeps showing the questions it originally proposed. Those questions remain readable through a failed update and retry, until a successful comparison replaces the preview.",
+      "chapters": [
+        [
+          0,
+          "The original question"
+        ],
+        [
+          9.03,
+          "Changed question, retained result"
+        ],
+        [
+          23.82,
+          "Retry replaces the question only on success"
+        ]
+      ],
+      "dir": "6",
+      "handed": "2026-11-13T03:28:13.897Z",
+      "at": "2026-11-13T03:52:31.434Z",
+      "source": "df07a07d1602902ad421feb22b108215eed71cf74a6f472ebffb3e252cef84f9"
+    }
+  ]
+}

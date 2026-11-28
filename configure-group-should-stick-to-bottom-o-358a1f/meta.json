@@ -1,0 +1,24 @@
+{
+  "title": "Configure stays at the bottom of the menu",
+  "text": "In the docked left menu, the Configure section (Appearance, Settings, the controls and Give Feedback) now sits at the bottom, apart from the project and its views. When a project has many canvases and the menu has to scroll, the list slides under Configure, which stays in view, so Settings is always one click away. Moving through the menu with the keyboard, each entry scrolls into view above Configure rather than under it.",
+  "chapters": [
+    [
+      0,
+      "At the foot of the docked menu"
+    ],
+    [
+      10.39,
+      "Staying put while the list scrolls"
+    ],
+    [
+      22.03,
+      "Tab never lands under it"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-27T20:40:24.921Z",
+  "at": "2026-11-27T20:40:24.921Z",
+  "source": "1d4a69791233eb160913b4c077f69f01817cd680f1d87bf860b087cf48ab5cec",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

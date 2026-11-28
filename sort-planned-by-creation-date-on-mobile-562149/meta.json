@@ -1,0 +1,24 @@
+{
+  "title": "Newest plans first, snoozed plans last",
+  "text": "The mobile Planned list shows active tasks first and snoozed tasks at the end, newest created first within each group. This order also applies across Load more, so newer snoozed tasks cannot push active work onto a later page.",
+  "chapters": [
+    [
+      0,
+      "Recent active plans first"
+    ],
+    [
+      15.6,
+      "Active work stays on the first page"
+    ],
+    [
+      25.76,
+      "Snoozed plans remain at the end"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-13T23:38:58.596Z",
+  "at": "2026-11-13T23:38:58.596Z",
+  "source": "1fad4a669ebced997ae9d56d0eb133510d023907b96ab6412f49c0413f890b71",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:09.392
+Clicking "Check again" now turns the button into a disabled "Checking" with a spinner until the answer is in, so a second check cannot start on top of it.
+
+00:00:10.347 --> 00:00:18.387
+The automatic check every fifteen seconds shows the same. Here the login was done meanwhile in a shell, and the check that follows finds it.

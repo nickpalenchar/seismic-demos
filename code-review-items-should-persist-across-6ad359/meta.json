@@ -1,0 +1,40 @@
+{
+  "title": "Code review items stay with a card, and fixes go straight back to the reviewer",
+  "text": "Once a code review has run on a card, its items and their history stay with the card through every later handover, also on projects that only review on request. Before, the agent's next handover dropped the whole list, so the following review started from nothing and never checked whether the fixes held. Now a handover with fixes sends them straight to the reviewer, which checks each one and marks it fixed or reopens it with its reasons, while new findings continue the numbering.",
+  "chapters": [
+    [
+      0,
+      "Before: a review started by hand"
+    ],
+    [
+      14.36,
+      "Before: the handover wipes the list"
+    ],
+    [
+      28.75,
+      "After: the same card, with the fix"
+    ],
+    [
+      34.85,
+      "After: the fix goes straight to the reviewer"
+    ],
+    [
+      51.48,
+      "The reviewer checks the fix"
+    ],
+    [
+      68.12,
+      "Recap"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/332fea7a9cb11600303903c356345234ff951c16...e516229c31ef6f2b591186a7a2a333c98311ef58",
+    "several": true
+  },
+  "first": "2026-11-19T22:22:46.545Z",
+  "at": "2026-11-19T22:22:46.545Z",
+  "source": "7cd5b20b821796eda462fd4aac789d7ae956c846d5adbd54a6b5deecb368a72a",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Relaunch Setup from Advanced",
+  "text": "Open Settings → Advanced and click Relaunch Setup under Reconfigure Setup. The dialog uses a solid surface so you can read the setup controls clearly. Your choices are saved when you click Confirm.",
+  "chapters": [
+    [
+      0,
+      "Retry loading agent settings"
+    ],
+    [
+      9.56,
+      "Back discards the draft"
+    ],
+    [
+      20.03,
+      "Relaunch Setup from Advanced"
+    ],
+    [
+      30.74,
+      "Closing Setup discards changes"
+    ],
+    [
+      38.86,
+      "Confirm saves the displayed choice"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-21T02:37:45.096Z",
+  "at": "2026-11-21T02:37:45.096Z",
+  "source": "b220308da33e32b1cbfb28db24703d906244673aee9350fb96b606cccd34b2d9",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

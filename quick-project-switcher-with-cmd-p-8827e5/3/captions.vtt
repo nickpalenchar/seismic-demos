@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.371 --> 00:00:11.771
+With the keyboard legend open, Command P opens the switcher over it, and everything typed goes into its search, spaces included, instead of to the legend underneath. Escape closes only the switcher.
+
+00:00:13.518 --> 00:00:29.318
+A project that loads slowly no longer cuts a search short. Here Website is held back for a few seconds. On its loading screen, Command P opens the switcher, and the search typed there stays as the project appears underneath. Enter goes on to Mobile App.
+
+00:00:30.922 --> 00:00:44.282
+The Agent Feedback Log has no live connection to a project, so the switcher reads the list of projects each time it opens. Gift Shop was just added in another tab, and it turns up at once. Enter opens its canvas.

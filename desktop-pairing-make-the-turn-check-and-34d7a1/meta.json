@@ -1,0 +1,15 @@
+{
+  "kind": "html",
+  "title": "Desktop app: switching away from a pairing now always wins",
+  "text": "When the desktop app connects to Seismic on another machine, it first checks the address, which can take a few seconds. If you switched workspaces during that check, the abandoned connection could in rare cases still take over the window and save that machine as your active workspace. Now the app checks whether you moved on and starts the pairing in a single step, so your switch always wins and nothing is saved.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/8e639ede13c7605007440c6d942dfe39a56f6863"
+  },
+  "first": "2026-11-22T22:27:01.976Z",
+  "at": "2026-11-22T23:05:31.291Z",
+  "source": "9f874c31437be92de0b6c2d55a020f508885dd0f544d87fc83f7c14748d3f59b",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

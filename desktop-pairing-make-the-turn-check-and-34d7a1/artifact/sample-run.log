@@ -1,0 +1,16 @@
+ 17.5 s  shell /Users/nick/.seismic/workspaces/obeya/34d7a1e4/desktop/target/checkout/debug/seismic; Mac Studio at http://127.0.0.1:60628, Fast C at http://127.0.0.1:60629
+ 31.1 s  the window loaded This Mac's /; active: local, turn 0
+ 31.1 s    [page] http://127.0.0.1:60682 got connect; asking the turn
+ 31.1 s    [page] http://127.0.0.1:60682 turn 0; connecting
+ 31.1 s    the page called connect_workspace
+ 31.1 s    Mac Studio is asked /api/projects (answers in 8 s)
+ 32.8 s    the page called switch_workspace c
+ 33.1 s  the window loaded Fast C's /; active: c, turn 1
+ 33.1 s    [page] http://127.0.0.1:60629 waits
+ 34.1 s    [page] http://127.0.0.1:60629 waits
+ 35.3 s    [page] http://127.0.0.1:60629 waits
+ 36.4 s    [page] http://127.0.0.1:60629 waits
+ 37.6 s    [page] http://127.0.0.1:60629 waits
+ 38.8 s    [page] http://127.0.0.1:60629 waits
+ 40.0 s    [page] http://127.0.0.1:60629 waits
+137.5 s  FAIL Error: the flow did not finish in 300 s: [{"at":1795387800622,"name":"This Mac","path":"/","search":""},{"at":1795387802688,"name":"Fast C","path":"/","search":""}]

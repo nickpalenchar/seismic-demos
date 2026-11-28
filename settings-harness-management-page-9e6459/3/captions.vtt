@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.352 --> 00:00:13.192
+When all three harnesses are connected, the Harnesses page says so and disables Configure new harness. The project editor still offers Git setup for this new folder, because the project is using Antigravity for its workers.
+
+00:00:14.147 --> 00:00:27.427
+Disconnect Antigravity and Configure new harness becomes available again. Back on the same project draft, workers now use Claude Code. The editor offers Use without git, and the folder can be kept just as it is.

@@ -1,0 +1,15 @@
+{
+  "kind": "html",
+  "title": "Weekly usage visible in compact phone pills",
+  "text": "When several harnesses report limits, the phone shows compact usage pills. Each pill now lists every limit with a one-letter name (S for Session, W for Week) and a plain percentage, so the weekly limit no longer disappears when Session usage is higher. Harnesses that report only Session show just that. Tapping a pill still opens the popover with progress bars.",
+  "chapters": [],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/commit/1fd81426122537fd9fab666011945b8087352a4e"
+  },
+  "first": "2026-11-20T22:57:59.106Z",
+  "at": "2026-11-20T22:57:59.106Z",
+  "source": "26c5be75eeada92eee2fe153c8796125f088473ff81cb74a42d84c215deff984",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

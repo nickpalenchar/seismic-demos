@@ -1,0 +1,32 @@
+{
+  "title": "Disputed code review items wait for your decision",
+  "text": "When the coding agent believes a code review item is wrong, the item is now marked Disputed, with the agent's reasons in a box titled \"Review disputed by worker\". Before, the item read \"Disputed → Reopened\", as if the reviewer had overruled the agent. The owner answers the dispute right there: Confirm and close agrees with the agent, and Reject and explain asks for a reason in place. Either answer closes the box and brings back the usual choices, with Ignore or Fix it selected, and the badge shows Dispute confirmed or Dispute rejected until the answer is sent. Later reviews leave disputed items alone until the owner has decided.",
+  "chapters": [
+    [
+      0,
+      "A disputed item says so"
+    ],
+    [
+      19.83,
+      "Reject and explain"
+    ],
+    [
+      37.06,
+      "Confirm and close"
+    ],
+    [
+      47.82,
+      "One Send for both"
+    ]
+  ],
+  "pr": null,
+  "commit": {
+    "url": "https://github.com/nickpalenchar/seismic/compare/c487f53048bdc5b068c3a04e52f7310f090c7409...79b09aa7f8005c3cd56bfe7b1817765273ec19b1",
+    "several": true
+  },
+  "first": "2026-11-26T18:04:59.465Z",
+  "at": "2026-11-26T18:04:59.465Z",
+  "source": "c32f33ff933a509eaedec18b1f5834f82b8de2d32d1aa5552306f69f7db8b829",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

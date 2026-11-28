@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:09.790
+In the docked menu, the Configure section now sits at the bottom: Appearance, Settings, the controls and Give Feedback, apart from the project and its canvases and views above.
+
+00:00:10.744 --> 00:00:21.424
+With many canvases, the menu outgrows the window and scrolls. The project’s canvases and views slide under Configure, which stays in view, so Settings is always one click away.
+
+00:00:22.377 --> 00:00:34.337
+Moving through the menu with Tab, the list scrolls just far enough that each entry shows above Configure, never hidden under it. Appearance then slides in, while Configure stays at the bottom until the page has gone.

@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.351 --> 00:00:09.111
+A first start of Seismic, on a machine where the owner works with Codex alone. With only Codex picked, the first project’s agents will run in Codex.
+
+00:00:10.064 --> 00:00:25.024
+In the first project step, the owner names a folder that has no git repository. Codex works only in a git repository, so the choice to use the folder without git is gone. A note says why, and setting up git is the way on.
+
+00:00:25.979 --> 00:00:33.259
+With Claude Code picked as well, the agents run in Claude Code, which also works in a plain folder: both choices are back.
+
+00:00:34.212 --> 00:00:40.612
+Back to Codex alone, the owner creates the first project from a git repository instead, and it opens at once.
+
+00:00:42.797 --> 00:00:53.077
+Its agents now run in Codex, so adding a repository to it later holds to the same rule. A folder without git gets the same note, with only setting up git offered.

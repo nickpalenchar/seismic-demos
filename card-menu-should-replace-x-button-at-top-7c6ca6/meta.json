@@ -1,0 +1,24 @@
+{
+  "title": "Close cards from the Card actions menu",
+  "text": "The Card actions menu lives in the top-right corner of an open desktop card. Choose Close or press Escape while the menu is open to return to the canvas or Archive.",
+  "chapters": [
+    [
+      0,
+      "Find the menu in the top right"
+    ],
+    [
+      14.44,
+      "Close a discarded prototype"
+    ],
+    [
+      23.87,
+      "Press Escape with the menu open"
+    ]
+  ],
+  "pr": null,
+  "first": "2026-11-20T23:18:07.108Z",
+  "at": "2026-11-20T23:18:07.108Z",
+  "source": "89f8d682a7d7c4232ac4f9a6c81646a63a74043268fd94b447a13fff6fb6cdf4",
+  "language": "en",
+  "by": "Nick Palenchar"
+}

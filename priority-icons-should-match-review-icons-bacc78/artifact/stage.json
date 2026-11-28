@@ -1,0 +1,81 @@
+{
+  "name": "Shop",
+  "language": "en",
+  "cards": [
+    {
+      "key": "0",
+      "title": "Fix a typo in the footer",
+      "body": "Fix a typo in the footer.",
+      "x": 0,
+      "y": 0,
+      "row": {
+        "priority": "trivial",
+        "category": "frontend",
+        "complexity": "2",
+        "suggested_labels": [
+          "priority"
+        ]
+      }
+    },
+    {
+      "key": "1",
+      "title": "Tidy the settings page",
+      "body": "Tidy the settings page.",
+      "x": 400,
+      "y": 0,
+      "row": {
+        "priority": "low",
+        "category": "frontend",
+        "complexity": "2"
+      }
+    },
+    {
+      "key": "2",
+      "title": "Remember the last search",
+      "body": "Remember the last search.",
+      "x": 800,
+      "y": 0,
+      "row": {
+        "priority": "medium",
+        "category": "frontend",
+        "complexity": "2"
+      }
+    },
+    {
+      "key": "3",
+      "title": "Dark mode for the shop",
+      "body": "Dark mode for the shop.",
+      "x": 0,
+      "y": 280,
+      "row": {
+        "priority": "high",
+        "category": "frontend",
+        "complexity": "2"
+      }
+    },
+    {
+      "key": "4",
+      "title": "Payments fail for some cards",
+      "body": "Payments fail for some cards.",
+      "x": 400,
+      "y": 280,
+      "row": {
+        "priority": "veryHigh",
+        "category": "frontend",
+        "complexity": "2"
+      }
+    },
+    {
+      "key": "5",
+      "title": "Checkout is down",
+      "body": "Checkout is down.",
+      "x": 800,
+      "y": 280,
+      "row": {
+        "priority": "critical",
+        "category": "frontend",
+        "complexity": "2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:10.230
+This project follows Gemini Flash from Configuration. Choose a different model for the project, then select Gemini Flash with the Default badge to follow Configuration again.
+
+00:00:11.182 --> 00:00:19.982
+The task picker can save a model for the next start. Select a specific model, then return to the option marked Default. That choice follows the project.
+
+00:00:20.935 --> 00:00:31.815
+Change the worker model in Configuration to Gemini Pro. The saved task choice updates to Gemini Pro when the card opens again. The project settings show Gemini Pro too.
